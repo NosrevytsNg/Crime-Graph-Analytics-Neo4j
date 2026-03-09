@@ -1,0 +1,6867 @@
+crime_id,neighborhood
+100051597,Grove Park
+100051625,Inman Park
+100051630,Inman Park
+100051642,West End
+100051655,Lenox
+100051665,Ben Hill Terrace
+100051687,Adair Park
+100051699,Center Hill
+100051703,Ben Hill
+100051726,Midwest Cascade
+100051732,East Atlanta
+100051743,Kirkwood
+100051749,Washington Park
+100051752,Virginia Highland
+100051756,Center Hill
+100051768,South River Gardens
+100051869,Midtown
+100051874,The Villages at Carver
+100051942,Midtown
+100051182,Home Park
+100040671,Lenox
+100040694,Pittsburgh
+100040729,Pittsburgh
+100040737,Midtown
+100040739,Hunter Hills
+100040770,Princeton Lakes
+100040805,Oakland City
+100040819,Downtown
+100040824,Lakewood Heights
+100040826,Washington Park
+100040844,Collier Heights
+100040861,Bush Mountain
+100040875,Sylvan Hills
+100040889,Capitol Gateway
+100040899,Mechanicsville
+100040912,Campbellton Road
+100040915,Adair Park
+100040941,Fairburn Mays
+100040968,Lenox
+100040978,Kings Forest
+100040983,Downtown
+100041006,Midtown
+100041018,Downtown
+100041062,South River Gardens
+100041076,Lenox
+100041079,South River Gardens
+100041115,Lakewood Heights
+100041118,North Buckhead
+100041121,Lenox
+100041152,Carey Park
+100041156,Reynoldstown
+100041159,Downtown
+100041161,Ben Hill Acres
+100041174,Sylvan Hills
+100041186,Midtown
+100041215,Midtown
+100041221,Summerhill
+100041231,Old Fourth Ward
+100041232,Princeton Lakes
+100041275,Old Fourth Ward
+100041276,Collier Heights
+100041288,Bankhead
+100041307,Lenox
+100041393,East Atlanta
+100041468,Lenox
+100041478,Rockdale
+100041504,North Buckhead
+100041511,East Chastain Park
+100041525,Lenox
+100041539,Lakewood Heights
+100041540,North Buckhead
+100041548,Westwood Terrace
+100041559,Grant Park
+100041581,Pittsburgh
+100041590,West End
+100041624,Ansley Park
+100041643,West End
+100041666,Grant Park
+100041697,Downtown
+100041703,Atlanta University Center
+100041743,Adair Park
+100041748,Midtown
+100040590,Sweet Auburn
+100040612,Adams Park
+100040626,South Atlanta
+100040636,Pittsburgh
+100040638,Hammond Park
+100040653,Old Fourth Ward
+100010987,North Buckhead
+100040001,Harland Terrace
+100040035,Capitol Gateway
+100040110,Harland Terrace
+100040138,Adair Park
+100040144,Virginia Highland
+100040193,Capitol Gateway
+100040205,Campbellton Road
+100040236,The Villages at Carver
+100040266,Ben Hill Forest
+100040275,Florida Heights
+100040286,Mozley Park
+100040306,Adamsville
+100040320,Midtown
+100040343,Carey Park
+100040346,Woodland Hills
+100040355,West Highlands
+100040379,Southwest
+100040394,Poncey-Highland
+100040396,Loring Heights
+100040471,English Avenue
+100040487,Summerhill
+100040505,Bankhead
+100040509,The Villages at Carver
+100040547,Westview
+100040557,Campbellton Road
+100040576,Midtown
+93521238,Berkeley Park
+1.00032E+11,Mechanicsville
+93630908,Lindbergh/Morosgo
+100031097,Lenox
+100031130,West Lake
+100031141,Tuxedo Park
+100031162,Hammond Park
+100031166,Downtown
+100031169,Lenox
+100031177,Perkerson
+100031185,Lindbergh/Morosgo
+100031220,North Buckhead
+100031228,Glenrose Heights
+100031230,Lenox
+100031247,Ormewood Park
+100031249,Bankhead
+100031254,Bankhead
+100031257,Fairburn Mays
+100031270,Downtown
+100031290,West End
+100031334,Vine City
+100031336,West Lake
+100031413,Castleberry Hill
+100031434,Greenbriar
+100031438,Almond Park
+100031458,Inman Park
+100031502,Buckhead Forest
+100031529,Lakewood Heights
+100031534,Venetian Hills
+100031545,South Tuxedo Park
+100031569,Vine City
+100031586,Midtown
+100031612,Butner/Tell
+100030019,Downtown
+100030045,Midtown
+100030079,Midtown
+100030084,Downtown
+100030089,Fairburn Mays
+100030091,Lakewood Heights
+100030109,Inman Park
+100030140,Buckhead Village
+100030153,Buckhead Village
+100030162,Buckhead Village
+100030171,Virginia Highland
+100030183,Pittsburgh
+100030193,Home Park
+100030194,Pine Hills
+100030224,Westview
+100030251,Adair Park
+100030327,English Avenue
+100030344,Downtown
+100030364,Florida Heights
+100030380,Buckhead Forest
+100030381,Midtown
+100030384,Venetian Hills
+100030422,Buckhead Village
+100030430,Midtown
+100030433,Bankhead
+100030438,Midtown
+100030440,Vine City
+100030447,Blandtown
+100030563,Virginia Highland
+100030583,Lindbergh/Morosgo
+100030628,Kirkwood
+100030629,Adamsville
+100030666,Lindbergh/Morosgo
+100030673,Beecher Hills
+100030695,Pine Hills
+100030702,Poncey-Highland
+100030717,Ardmore
+100030721,North Buckhead
+100030736,Mechanicsville
+100030737,East Lake
+100030750,Buckhead Forest
+100030753,Berkeley Park
+100030772,Inman Park
+100030773,Lindbergh/Morosgo
+100030816,North Buckhead
+100030818,Fairburn Heights
+100030850,West Highlands
+100030860,Buckhead Forest
+100030861,Midtown
+100030877,Summerhill
+100030897,Atlanta University Center
+100030940,Lindridge/Martin Manor
+100030961,Berkeley Park
+100030965,Bankhead
+100030985,Midtown
+100031021,Downtown
+100031025,Vine City
+100031039,Old Fourth Ward
+100031048,Virginia Highland
+100031063,Downtown
+100031065,West Highlands
+100031071,North Buckhead
+100020043,Morningside/Lenox Park
+100020076,Atlantic Station
+100020136,Castleberry Hill
+100020167,Midtown
+100020214,The Villages at Carver
+100020232,Venetian Hills
+100020253,Downtown
+100020365,Capitol View
+100020418,Old Fourth Ward
+100020429,Midtown
+100020451,Capitol View
+100020470,The Villages at Carver
+100020517,Pittsburgh
+100020535,Midtown
+100020555,Piedmont Heights
+100020602,Campbellton Road
+100020614,South River Gardens
+100020617,Lindridge/Martin Manor
+100020618,Berkeley Park
+100020623,Midtown
+100020659,Downtown
+100020665,Berkeley Park
+100020668,Downtown
+100020683,Greenbriar
+100020687,Midtown
+100020690,Home Park
+100020695,Garden Hills
+100020718,Adamsville
+100020720,Midtown
+100020724,Capitol View
+100020751,Downtown
+100020752,Midtown
+100020754,Horseshoe Community
+100020776,Sweet Auburn
+100020785,Chosewood Park
+100020819,Southwest
+100020823,Westview
+100020836,East Atlanta
+100020844,Chosewood Park
+100020864,North Buckhead
+100020866,Pine Hills
+100020869,South River Gardens
+100020875,Fort Valley
+100020880,Capitol Gateway
+100020919,Buckhead Forest
+100020931,Lenox
+100020932,Downtown
+100020936,Mozley Park
+100020947,Glenrose Heights
+100020954,Edgewood
+100020959,Downtown
+100020976,Adair Park
+100020985,Kings Forest
+100020987,Sylvan Hills
+100020990,Downtown
+100020996,Buckhead Forest
+100021067,Thomasville Heights
+100021083,Atlantic Station
+100021108,Princeton Lakes
+100021140,West End
+100021147,South Atlanta
+100021154,Midtown
+100021175,Candler Park
+100021201,Lenox
+100021236,Lenox
+100021279,Buckhead Forest
+100021285,Pine Hills
+100021292,Leila Valley
+100021303,Lindridge/Martin Manor
+100021314,Midtown
+100021328,Home Park
+100021330,Southwest
+100021346,Lakewood Heights
+100021391,North Buckhead
+100021483,Lenox
+100021505,West Lake
+100021520,Lenox
+100021527,South Atlanta
+100021662,Downtown
+100021675,Southwest
+100021678,Boulevard Heights
+100021682,West Paces Ferry/Northside
+100021705,Adair Park
+100021784,Harland Terrace
+1.00022E+11,Capitol View
+93641508,Campbellton Road
+100011076,West Highlands
+100011079,Midtown
+100011103,Lindbergh/Morosgo
+100011107,Downtown
+100011146,Westview
+100011158,Venetian Hills
+100011202,Midtown
+100011206,West End
+100011217,Lakewood
+100011246,Summerhill
+100011264,Buckhead Forest
+100011283,Bolton
+100011318,West End
+100011320,Downtown
+100011342,Piedmont Heights
+100011386,Ansley Park
+100011388,Lenox
+100011414,Loring Heights
+100011468,Capitol Gateway
+100011487,Downtown
+100011490,Lenox
+100011535,Southwest
+100011548,Poncey-Highland
+100011576,Collier Heights
+100011602,Adair Park
+100011629,Kings Forest
+100011632,Fairburn Mays
+100011643,Westview
+100011672,Blandtown
+100011718,Lindbergh/Morosgo
+100011727,Glenrose Heights
+100011728,Atlantic Station
+100011729,Edgewood
+100011730,Brentwood
+100011741,Sweet Auburn
+100011776,Inman Park
+100011800,Downtown
+100011809,Princeton Lakes
+100011862,Candler Park
+100010677,Collier Heights
+100010727,Downtown
+100010792,Vine City
+100010824,Midtown
+100010825,East Atlanta
+100010829,Boulevard Heights
+100010838,Castleberry Hill
+100010858,Lindbergh/Morosgo
+100010880,Collier Heights
+100010917,Berkeley Park
+100010920,Home Park
+100010948,Downtown
+100010950,Joyland
+100010960,Chosewood Park
+100010964,North Buckhead
+100010972,Summerhill
+93651724,Adamsville
+100010117,Norwood Manor
+100010121,Perkerson
+100010127,Buckhead Forest
+100010147,Downtown
+100010149,Hammond Park
+100010186,Home Park
+100010191,Mechanicsville
+100010236,Sylvan Hills
+100010267,Downtown
+100010282,Old Fourth Ward
+100010286,Downtown
+100010310,Inman Park
+100010332,Kirkwood
+100010343,Grant Park
+100010372,Midtown
+100010373,Southwest
+100010410,West End
+100010459,Downtown
+100010467,Browns Mill Park
+100010505,Lindridge/Martin Manor
+100010506,Swallow Circle/Baywood
+100010544,Piedmont Heights
+100010545,West Highlands
+100010556,Grant Park
+100010559,Southwest
+100010631,Butner/Tell
+100010637,Amal Heights
+100010639,Bankhead
+100010988,Baker Hills
+100011006,Lindridge/Martin Manor
+100011016,Sylvan Hills
+100011023,Downtown
+100011029,South River Gardens
+110311247,Downtown
+110311248,Oakland City
+110311253,Downtown
+110311254,Oakland City
+110311301,Princeton Lakes
+110311308,Center Hill
+110311318,Buckhead Heights
+110311340,Venetian Hills
+110311351,Princeton Lakes
+110311394,Old Fourth Ward
+110311432,Almond Park
+110311482,Oakland City
+110311492,Greenbriar
+110311523,North Buckhead
+110311552,West End
+110311608,Old Fourth Ward
+110311613,Ormewood Park
+110311653,Peoplestown
+110311730,Lindridge/Martin Manor
+110311749,Summerhill
+110311794,Old Fourth Ward
+110311810,Sandlewood Estates
+110311887,Midtown
+110311967,Berkeley Park
+110311989,Campbellton Road
+110312006,Buckhead Forest
+110312044,West End
+110312062,Edgewood
+110312150,Atlantic Station
+110312234,Midtown
+110312273,Buckhead Forest
+110312336,Pittsburgh
+110310019,Harland Terrace
+110310048,Joyland
+110310057,Downtown
+110310073,Sylvan Hills
+110310137,Grant Park
+110310311,Downtown
+110310321,Lindridge/Martin Manor
+110310323,Capitol View
+110310410,Venetian Hills
+110310412,Edgewood
+110310422,Downtown
+110310430,Grove Park
+110310439,Midwest Cascade
+110310450,Beecher Hills
+110310518,Summerhill
+110310523,Peoplestown
+110310542,Ben Hill
+110310639,Campbellton Road
+110310655,Collier Heights
+110310659,Chosewood Park
+110310686,Kirkwood
+110310705,Old Fourth Ward
+110310743,Browns Mill Park
+110310745,Dixie Hills
+110310793,Southwest
+110310794,Lindridge/Martin Manor
+110310872,Summerhill
+110310873,Old Fourth Ward
+110310925,Pittsburgh
+110310941,Brookwood
+110310952,Custer/McDonough/Guice
+110310976,Wisteria Gardens
+110311004,Downtown
+110311013,Mechanicsville
+110311022,Fairburn Tell
+110311037,Inman Park
+110311043,Venetian Hills
+110311106,Perkerson
+110311129,Glenrose Heights
+110311156,Riverside
+110311186,Peoplestown
+110311202,Mechanicsville
+110302076,Castleberry Hill
+110302095,Piedmont Heights
+110292283,Atlanta University Center
+110290679,Vine City
+110300102,The Villages at Castleberry H
+110300174,Westview
+110300228,West End
+110300242,South Atlanta
+110300271,Hunter Hills
+110300342,Castleberry Hill
+110300373,Downtown
+110300397,Midtown
+110300436,Sweet Auburn
+110300438,Oakland City
+110300505,English Avenue
+110300511,Sylvan Hills
+110300539,Sylvan Hills
+110300590,Capitol View
+110300606,Hammond Park
+110300661,Morningside/Lenox Park
+110300664,Brookwood
+110300723,Thomasville Heights
+110300803,Downtown
+110300804,Swallow Circle/Baywood
+110300810,Carver Hills
+110300827,Downtown
+110300845,Lakewood Heights
+110300864,Hunter Hills
+110300865,Collier Heights
+110300938,Venetian Hills
+110300943,Oakland City
+110300998,Atlanta University Center
+110301010,Baker Hills
+110301012,Downtown
+110301017,Downtown
+110301071,Westview
+110301108,Old Fourth Ward
+110301123,Thomasville Heights
+110301134,Downtown
+110301150,Lenox
+110301190,Perkerson
+110301191,Berkeley Park
+110301203,Lindbergh/Morosgo
+110301242,Downtown
+110301247,Pittsburgh
+110301261,Adair Park
+110301301,Atlantic Station
+110301308,Grant Park
+110301317,West End
+110301412,Buckhead Village
+110301443,Downtown
+110301458,Pittsburgh
+110301477,Bolton
+110301497,East Lake
+110301566,Mechanicsville
+110301577,Berkeley Park
+110301687,Midtown
+110301725,Glenrose Heights
+110301770,Ashley Courts
+110301804,Vine City
+110301857,Center Hill
+110301879,Lenox
+110301881,Kirkwood
+110301919,Downtown
+110301959,Castleberry Hill
+110301976,Westview
+110301985,Atlanta University Center
+110301986,Downtown
+110302002,Ormewood Park
+110302006,Ashview Heights
+110302038,Castleberry Hill
+110302067,The Villages at Carver
+110030051,Hammond Park
+110290681,Edgewood
+110290708,Pittsburgh
+110290802,Dixie Hills
+110290815,Sylvan Hills
+110290827,Hunter Hills
+110290839,Chosewood Park
+110290875,Thomasville Heights
+110290893,Inman Park
+110290965,Midtown
+110290984,Capitol Gateway
+110291016,Downtown
+110291045,Venetian Hills
+110291174,Atlantic Station
+110291250,Campbellton Road
+110291278,Harland Terrace
+110291281,Pittsburgh
+110291300,Old Fourth Ward
+110291303,Downtown
+110291317,Downtown
+110291352,Hanover West
+110291370,Lakewood Heights
+110291375,Carroll Heights
+110291436,Home Park
+110291456,Mechanicsville
+110291474,Poncey-Highland
+110291552,Inman Park
+110291627,Berkeley Park
+110291656,Lenox
+110291707,Underwood Hills
+110291720,Inman Park
+110291746,Hammond Park
+110291784,Downtown
+110291902,Atlanta University Center
+110291921,English Avenue
+110291935,Lenox
+110291968,Dixie Hills
+110291975,English Avenue
+110292010,Cascade Avenue/Road
+110292053,Atlantic Station
+110292094,Inman Park
+110292163,Downtown
+110282452,English Avenue
+110290009,Brookhaven
+110290071,Downtown
+110290113,Sylvan Hills
+110290122,Home Park
+110290153,Glenrose Heights
+110290277,East Atlanta
+110290283,Sylvan Hills
+110290310,Old Fourth Ward
+110290312,Laurens Valley
+110290315,Lindridge/Martin Manor
+110290325,Castleberry Hill
+110290445,Harris Chiles
+110290485,Cabbagetown
+110290502,Downtown
+110290507,Marietta Street Artery
+110290599,Brandon
+110290612,Carroll Heights
+110290645,Peyton Forest
+110290661,Old Fourth Ward
+110292284,Adams Park
+110292298,Old Fourth Ward
+110292345,Virginia Highland
+110292360,Grant Park
+110292403,Vine City
+110292434,Pittsburgh
+110292471,Atlantic Station
+110292500,Peachtree Heights West
+110292564,English Avenue
+110292577,Adamsville
+110281389,Downtown
+110281464,Capitol View
+110281498,Chosewood Park
+110281505,Lakewood Heights
+110281537,Downtown
+110281540,Oakland City
+110281546,Downtown
+110281593,Old Fourth Ward
+110281604,Ormewood Park
+110281623,Hills Park
+110281631,Loring Heights
+110281633,Chosewood Park
+110281641,Adams Park
+110281652,Oakland City
+110281671,Edgewood
+110281686,Fairburn Heights
+110281721,Custer/McDonough/Guice
+110281730,Ardmore
+110281736,Grant Park
+110281878,Capitol View
+110281898,Campbellton Road
+110281901,Vine City
+110281929,Oakland City
+110281940,Adamsville
+110281979,Downtown
+110282054,Dixie Hills
+110282085,Lenox
+110282184,Downtown
+110282282,Atlantic Station
+110282289,West End
+110282296,Capitol View
+110282385,East Atlanta
+110282425,West End
+110282432,Downtown
+110282443,Venetian Hills
+110280024,Buckhead Village
+110280102,Adams Park
+110280190,Downtown
+110280209,Fairburn Mays
+110280242,Glenrose Heights
+110280422,Lakewood Heights
+110280470,Westview
+110280476,Channing Valley
+110280480,Grove Park
+110280491,Midtown
+110280537,Fairburn Mays
+110280584,East Lake
+110280594,Old Fourth Ward
+110280644,Hunter Hills
+110280657,Southwest
+110280681,Old Gordon
+110280692,Hunter Hills
+110280727,Midtown
+110280731,Lindbergh/Morosgo
+110280732,Downtown
+110280742,Sylvan Hills
+110280758,Sylvan Hills
+110280789,Pittsburgh
+110280837,Lindridge/Martin Manor
+110280885,Cascade Avenue/Road
+110280961,Betmar LaVilla
+110280977,West End
+110280987,East Lake
+110280993,Collier Heights
+110281027,Mechanicsville
+110281068,West Highlands
+110281110,English Avenue
+110281240,Argonne Forest
+110281248,West End
+110281288,Cabbagetown
+110281293,Grove Park
+110281310,Old Fourth Ward
+110281318,Princeton Lakes
+110281353,Pine Hills
+110272624,Oakland
+110282467,Joyland
+110282560,Hanover West
+110282624,Castleberry Hill
+110282660,Home Park
+110282664,The Villages at Carver
+110282800,Lindbergh/Morosgo
+110282874,Ashview Heights
+110282879,Lindbergh/Morosgo
+110282886,Pittsburgh
+110282935,Lindridge/Martin Manor
+110282940,Thomasville Heights
+110221307,Virginia Highland
+110272656,Piedmont Heights
+110272705,Downtown
+110262260,Loring Heights
+110270346,Grove Park
+110270365,Ben Hill Pines
+110270375,Brookwood
+110270390,Old Fourth Ward
+110270394,Ben Hill Pines
+110270402,Old Fourth Ward
+110270411,Peoplestown
+110270426,Rosedale Heights
+110270477,Peoplestown
+110270478,Perkerson
+110270602,Atlanta University Center
+110270644,Oakland
+110270683,Southwest
+110270704,Grove Park
+110270768,Home Park
+110270809,Oakland City
+110270888,West End
+110270906,Morningside/Lenox Park
+110270924,Buckhead Village
+110270944,Grove Park
+110270953,Wildwood (NPU-C)
+110270961,Pittsburgh
+110270984,Grant Park
+110270994,Old Fourth Ward
+110271013,Brookwood
+110271026,East Atlanta
+110271079,Kirkwood
+110271130,Edgewood
+110271141,Harland Terrace
+110271145,Lindbergh/Morosgo
+110271203,Oakland City
+110271214,Piedmont Heights
+110271218,Downtown
+110271254,Mechanicsville
+110271283,Beecher Hills
+110271291,Downtown
+110271311,Loring Heights
+110271321,Peoplestown
+110271340,Norwood Manor
+110271347,West Lake
+110271373,Buckhead Village
+110271438,Poncey-Highland
+110271502,Lenox
+110271511,Downtown
+110271515,Atlanta University Center
+110271592,Downtown
+110271631,Sylvan Hills
+110271671,The Villages at East Lake
+110271785,Morningside/Lenox Park
+110271839,West End
+110271875,Poncey-Highland
+110271887,West Manor
+110271922,Westhaven
+110271986,Buckhead Village
+110272015,Old Fourth Ward
+110272062,Downtown
+110272104,Bolton
+110272111,Downtown
+110272188,Deerwood
+110272221,Riverside
+110272235,Adair Park
+110272251,Virginia Highland
+110272265,Ansley Park
+110272276,Lakewood Heights
+110272279,Downtown
+110272294,Downtown
+110272295,Old Fourth Ward
+110272298,Peoplestown
+110272369,Candler Park
+110272396,Grant Park
+110272405,Hunter Hills
+110272418,Beecher Hills
+110272433,Downtown
+110272503,Home Park
+110272520,Inman Park
+110272531,Sylvan Hills
+110272575,Morningside/Lenox Park
+110272611,West End
+110260043,Dixie Hills
+110260044,West End
+110260189,Midtown
+110260197,Kirkwood
+110260201,Midtown
+110260242,Reynoldstown
+110260262,Capitol View
+110260273,Downtown
+110260297,Hunter Hills
+110260338,Kings Forest
+110260362,Atlanta University Center
+110260364,Pittsburgh
+110260384,Piedmont Heights
+110260405,Amal Heights
+110260420,Buckhead Heights
+110260425,Oakland City
+110260445,Sweet Auburn
+110260468,West End
+110260492,Ansley Park
+110260510,Underwood Hills
+110260513,Sweet Auburn
+110260525,Hammond Park
+110260537,Downtown
+110260538,Old Fourth Ward
+110260582,Pittsburgh
+110260593,Pittsburgh
+110260635,Vine City
+110260638,Downtown
+110260698,Downtown
+110260704,Kirkwood
+110260714,Lenox
+110260781,Mechanicsville
+110260793,Hammond Park
+110260821,West Lake
+110260893,Castleberry Hill
+110260912,Midtown
+110260942,West End
+110260951,Lindbergh/Morosgo
+110261041,Peachtree Heights West
+110261070,Rosedale Heights
+110261087,North Buckhead
+110261108,Sylvan Hills
+110261126,Westview
+110261131,Reynoldstown
+110261135,Berkeley Park
+110261152,Sylvan Hills
+110261155,West End
+110261157,Midtown
+110261245,Sylvan Hills
+110261271,Pittsburgh
+110261294,Sylvan Hills
+110261295,Old Fourth Ward
+110261405,Downtown
+110261408,Grove Park
+110261409,West End
+110261507,South River Gardens
+110261547,Carey Park
+110261717,Carver Hills
+110261758,Butner/Tell
+110261782,Campbellton Road
+110261809,Ashview Heights
+110261842,Old Fourth Ward
+110261851,Venetian Hills
+110261866,Adair Park
+110261921,Downtown
+110261990,Midtown
+110261992,Pittsburgh
+110262004,Westwood Terrace
+110262012,Adams Park
+110262030,West End
+110262077,Downtown
+110262088,Peoplestown
+110262114,Carroll Heights
+110262148,Paces
+110262176,Buckhead Village
+110262177,Buckhead Village
+110262180,Downtown
+110262214,Whittier Mill Village
+110262292,Glenrose Heights
+110262324,Virginia Highland
+110252049,Morningside/Lenox Park
+110152015,Grove Park
+110252050,Ashview Heights
+110252072,Castleberry Hill
+110252077,South River Gardens
+110252094,Brookwood Hills
+110252173,Hammond Park
+110252178,Benteen Park
+110250089,Marietta Street Artery
+110250172,Castleberry Hill
+110250266,Midtown
+110250272,South River Gardens
+110250452,Berkeley Park
+110250499,Custer/McDonough/Guice
+110250590,Greenbriar
+110250669,Edgewood
+110250687,Edgewood
+110250690,Midtown
+110250692,Downtown
+110250708,Sylvan Hills
+110250747,Rosedale Heights
+110250751,Adair Park
+110250789,Penelope Neighbors
+110250805,Virginia Highland
+110250836,Harris Chiles
+110250838,Downtown
+110250843,Mechanicsville
+110250855,Midtown
+110250863,Buckhead Forest
+110250868,Peachtree Park
+110250871,Downtown
+110250893,Old Fourth Ward
+110250902,Washington Park
+110250979,Carroll Heights
+110250989,Capitol View
+110250990,Campbellton Road
+110250993,Kings Forest
+110250995,Downtown
+110250997,Berkeley Park
+110251012,Brandon
+110251031,Lakewood Heights
+110251036,Benteen Park
+110251040,Florida Heights
+110251061,Berkeley Park
+110251065,Downtown
+110251086,Southwest
+110251093,Castleberry Hill
+110251095,West End
+110251097,Peoplestown
+110251121,North Buckhead
+110251130,Lindridge/Martin Manor
+110251158,Westview
+110251167,Pittsburgh
+110251172,Pittsburgh
+110251178,Lake Claire
+110251190,Fairburn
+110251224,Peachtree Battle Alliance
+110251230,West End
+110251252,Lenox
+110251264,Westwood Terrace
+110251268,Midtown
+110251287,Atlantic Station
+110251302,Summerhill
+110251307,Downtown
+110251317,Downtown
+110251339,West Lake
+110251344,West Manor
+110251345,Blandtown
+110251357,Grant Park
+110251361,Riverside
+110251367,Blandtown
+110251393,Mechanicsville
+110251442,Midtown
+110251443,Hammond Park
+110251444,Buckhead Forest
+110251454,Vine City
+110251487,English Park
+110251493,Edgewood
+110251512,Swallow Circle/Baywood
+110251519,Dixie Hills
+110251552,Kirkwood
+110251561,Sweet Auburn
+110251613,Atlantic Station
+110251634,Peoplestown
+110251677,The Villages at Castleberry H
+110251691,Old Fourth Ward
+110251693,Midtown
+110251698,Buckhead Forest
+110251756,Buckhead Forest
+110251759,Cascade Avenue/Road
+110251782,Midtown
+110251829,Florida Heights
+110251867,Heritage Valley
+110251868,Capitol Gateway
+110251887,Edgewood
+110251965,Peoplestown
+110251973,Campbellton Road
+110251994,Old Fourth Ward
+110252009,Downtown
+110242253,North Buckhead
+110242264,Summerhill
+110242337,Oakland
+110242358,The Villages at Carver
+110240076,Downtown
+110240171,Downtown
+110240209,The Villages at Castleberry H
+110240238,Southwest
+110240336,Midtown
+110240346,Underwood Hills
+110240375,Midtown
+110240381,Adair Park
+110240411,Westview
+110240422,East Lake
+110240440,Underwood Hills
+110240457,Vine City
+110240471,Underwood Hills
+110240553,Underwood Hills
+110240656,South River Gardens
+110240668,Wildwood (NPU-C)
+110240674,Benteen Park
+110240684,Bankhead
+110240689,Peoplestown
+110240724,Browns Mill Park
+110240734,The Villages at Carver
+110240740,Princeton Lakes
+110240746,South Atlanta
+110240787,Midtown
+110240822,South Atlanta
+110240824,Lenox
+110240848,Downtown
+110240855,North Buckhead
+110240872,Midtown
+110240933,Midtown
+110240958,Underwood Hills
+110241016,English Avenue
+110241176,Harland Terrace
+110241178,Midtown
+110241179,Home Park
+110241185,Cross Creek
+110241201,Southwest
+110241207,Bankhead/Bolton
+110241227,Capitol Gateway
+110241247,Campbellton Road
+110241263,Edgewood
+110241301,Edgewood
+110241312,Grant Park
+110241320,Lenox
+110241344,Midtown
+110241354,Downtown
+110241369,Downtown
+110241380,Collier Heights
+110241407,West End
+110241418,Niskey Lake
+110241431,Greenbriar
+110241466,Greenbriar
+110241502,Lindbergh/Morosgo
+110241612,West End
+110241618,Carroll Heights
+110241637,North Buckhead
+110241643,Downtown
+110241677,Campbellton Road
+110241735,Midtown
+110241759,Capitol View
+110241765,Cabbagetown
+110241822,Marietta Street Artery
+110241836,Fairburn Mays
+110241841,Adair Park
+110241866,Old Fourth Ward
+110241883,Underwood Hills
+110241898,Edgewood
+110241902,Grove Park
+110241907,Oakland City
+110241908,Downtown
+110241918,Buckhead Village
+110241964,Pittsburgh
+110241985,Florida Heights
+110242035,Lakewood Heights
+110242101,Garden Hills
+110242109,English Avenue
+110242142,Browns Mill Park
+110242168,Capitol View
+110242169,South Tuxedo Park
+110242191,Carey Park
+110242220,Downtown
+110242222,South Tuxedo Park
+110242228,Oakland
+110230009,Greenbriar
+110230037,Cascade Avenue/Road
+110230043,Adamsville
+110230242,Downtown
+110230249,Sweet Auburn
+110230331,Midtown
+110230354,Piedmont Heights
+110230358,Downtown
+110230363,Downtown
+110230440,High Point
+110230484,Peachtree Park
+110230492,Castleberry Hill
+110230512,Reynoldstown
+110230513,Pittsburgh
+110230577,West End
+110230603,Kirkwood
+110230627,Inman Park
+110230645,Old Fourth Ward
+110230650,Downtown
+110230677,Adamsville
+110230772,Ashview Heights
+110230787,Fairburn Mays
+110230791,Oakland City
+110230811,Bankhead
+110230839,Lenox
+110230840,Downtown
+110230946,Edgewood
+110230997,South River Gardens
+110231074,West End
+110231077,Boulevard Heights
+110231080,North Buckhead
+110231107,Kirkwood
+110231115,Lakewood Heights
+110231138,Glenrose Heights
+110231145,Lindridge/Martin Manor
+110231159,Capitol View
+110231196,North Buckhead
+110231238,Scotts Crossing
+110231250,Grove Park
+110231251,Berkeley Park
+110231287,West End
+110231333,Berkeley Park
+110231374,Greenbriar
+110231387,Lindbergh/Morosgo
+110231398,Hammond Park
+110231424,Capitol View
+110231426,Buckhead Village
+110231433,Glenrose Heights
+110231449,Sylvan Hills
+110231462,East Atlanta
+110231479,Fairburn Mays
+110231525,Downtown
+110231596,Peoplestown
+110231600,English Avenue
+110231621,Atlanta University Center
+110231718,Chosewood Park
+110231745,Old Fourth Ward
+110231750,High Point
+110231779,Thomasville Heights
+110231798,West Lake
+110231808,Scotts Crossing
+110231904,Mozley Park
+110231916,English Avenue
+110231946,Lakewood Heights
+110231965,Carroll Heights
+110182265,Midtown
+110221100,Old Fourth Ward
+110221171,Midtown
+110221177,Sylvan Hills
+110221182,Bankhead
+110212475,Chosewood Park
+110221322,Buckhead Forest
+110221339,Kirkwood
+110221340,Adamsville
+110221342,Monroe Heights
+110221344,Hammond Park
+110221422,Lincoln Homes
+110221487,Midtown
+110221496,Lindbergh/Morosgo
+110221516,English Avenue
+110221569,Lenox
+110221617,Downtown
+110221671,Berkeley Park
+110221679,Downtown
+110221682,Adamsville
+110221793,Pittsburgh
+110221859,Browns Mill Park
+110221862,Summerhill
+110221935,Sylvan Hills
+110222054,Sylvan Hills
+110222082,Carey Park
+110222099,Atlantic Station
+110222136,East Lake
+110222139,Fairburn Mays
+110222193,East Atlanta
+110222206,Downtown
+110222279,Vine City
+110222304,Old Fourth Ward
+110222332,Old Fourth Ward
+110222345,Fairburn Mays
+110220029,Atlanta Industrial Park
+110220043,Princeton Lakes
+110220131,Browns Mill Park
+110220296,Poncey-Highland
+110220317,Brookview Heights
+110220328,Hammond Park
+110220396,Old Gordon
+110220543,Midtown
+110220652,English Avenue
+110220731,Lindbergh/Morosgo
+110220757,Downtown
+110220763,Downtown
+110220765,Downtown
+110220779,Oakland City
+110220849,Kings Forest
+110220870,Sylvan Hills
+110220881,Brookwood Hills
+110220912,Sweet Auburn
+110220943,Browns Mill Park
+110220972,Sylvan Hills
+110220995,Westview
+110221051,Wesley Battle
+110221064,Westview
+110221084,Downtown
+110221085,Atlanta University Center
+110211461,Perkerson
+110221239,Carey Park
+110221253,Sylvan Hills
+110211526,Candler Park
+110211530,Old Fourth Ward
+110211531,Princeton Lakes
+110211532,Old Fourth Ward
+110211556,Berkeley Park
+110211564,Custer/McDonough/Guice
+110211616,Lenox
+110211651,Downtown
+110211713,Capitol View
+110211760,Bakers Ferry
+110211763,Capitol View
+110211766,Lenox
+110211779,Ashview Heights
+110211805,Downtown
+110211819,Old Fourth Ward
+110211825,Peachtree Heights West
+110211886,Pleasant Hill
+110211902,South Atlanta
+110211903,Downtown
+110211968,Edgewood
+110211987,Downtown
+110212019,Castleberry Hill
+110212027,Westview
+110212081,Grove Park
+110212093,Vine City
+110212195,Downtown
+110212203,Venetian Hills
+110212213,Lenox
+110212217,Sylvan Hills
+110212243,The Villages at East Lake
+110212328,Harland Terrace
+110212332,Virginia Highland
+110212380,Piedmont Heights
+110212390,Kings Forest
+110212471,Vine City
+110210044,Carey Park
+110210053,English Avenue
+110210067,Virginia Highland
+110210087,Midtown
+110210130,Browns Mill Park
+110210186,English Avenue
+110210270,Washington Park
+110210304,Vine City
+110210348,Peachtree Park
+110210415,Fairburn Mays
+110210443,East Chastain Park
+110210462,Piedmont Heights
+110210476,Lakewood
+110210494,Sylvan Hills
+110210507,Westview
+110210512,Westwood Terrace
+110210547,West End
+110210581,East Lake
+110210684,Carver Hills
+110210719,English Avenue
+110210722,Fairburn Mays
+110210749,North Buckhead
+110210768,Piedmont Heights
+110210786,Downtown
+110210802,Peachtree Park
+110210821,Midtown
+110210866,Midtown
+110210878,South River Gardens
+110210915,Blandtown
+110210926,Old Fourth Ward
+110210971,Virginia Highland
+110210991,Venetian Hills
+110211051,Wildwood (NPU-C)
+110211067,Oakland City
+110211102,Virginia Highland
+110211117,Downtown
+110211119,Mechanicsville
+110211145,Lakewood Heights
+110211156,Campbellton Road
+110211173,Dixie Hills
+110211217,West End
+110211220,Berkeley Park
+110211223,Glenrose Heights
+110211243,Capitol View
+110211270,Harland Terrace
+110211276,Candler Park
+110211296,Old Fourth Ward
+110211366,Leila Valley
+110211370,Grove Park
+110211383,Midtown
+110211435,The Villages at Castleberry H
+110211452,Lindridge/Martin Manor
+110211460,West End
+110212495,Grant Park
+110212502,Collier Heights
+110212504,West End
+110212629,Bolton
+110201028,Downtown
+110181413,Edgewood
+110181317,Edgewood
+110201032,South Atlanta
+110201043,Fairburn Mays
+110201061,Dixie Hills
+110201066,Rosedale Heights
+110201109,Atlantic Station
+110201146,Pittsburgh
+110201151,Peoplestown
+110201198,Ormewood Park
+110201208,Downtown
+110201286,Atlantic Station
+110201318,East Lake
+110201359,Downtown
+110201378,East Lake
+110201384,Peachtree Heights West
+110201408,West End
+110201412,West End
+110201425,Perkerson
+110201446,Underwood Hills
+110201451,South River Gardens
+110201480,West Highlands
+110201532,Westhaven
+110201535,Washington Park
+110201581,Adamsville
+110201631,North Buckhead
+110201680,Venetian Hills
+110201692,Reynoldstown
+110201708,Princeton Lakes
+110201711,Greenbriar
+110201725,Home Park
+110201733,Lake Claire
+110201747,Downtown
+110201750,Piedmont Heights
+110201788,East Lake
+110201862,Grant Park
+110201872,Hunter Hills
+110201891,West End
+110201945,West End
+110201990,The Villages at Carver
+110202070,Pine Hills
+110202096,Center Hill
+110202100,Grove Park
+110202125,Greenbriar
+110202143,Lenox
+110202166,Greenbriar
+110202182,West End
+110202311,Kirkwood
+110202391,Buckhead Forest
+110202410,Candler Park
+110202434,Almond Park
+110202463,Atlanta University Center
+110202474,Castleberry Hill
+110202483,Ashview Heights
+110202533,English Avenue
+110202552,Morningside/Lenox Park
+110192255,Candler Park
+110200007,Old Fourth Ward
+110200046,Old Fourth Ward
+110200308,Wisteria Gardens
+110200328,Grant Park
+110200397,East Lake
+110200436,Scotts Crossing
+110200486,Old Fourth Ward
+110200531,Lincoln Homes
+110200532,Downtown
+110200553,Glenrose Heights
+110200570,Grant Park
+110200581,Collier Heights
+110200595,North Buckhead
+110200600,Polar Rock
+110200610,Midtown
+110200652,Grant Park
+110200670,Downtown
+110200714,Old Fourth Ward
+110200728,Pittsburgh
+110200800,Old Fourth Ward
+110200976,West Highlands
+110200988,Bolton Hills
+110201008,Old Fourth Ward
+110201019,Adair Park
+110192328,Midtown
+110192367,Campbellton Road
+1.102E+11,East Lake
+110192269,Inman Park
+110192295,Ben Hill
+110192296,West End
+110192305,Reynoldstown
+110182267,Midtown
+110190090,East Lake
+110190134,Downtown
+110190203,Adamsville
+110190249,Collier Heights
+110190344,Castleberry Hill
+110190394,Whittier Mill Village
+110190432,North Buckhead
+110190443,Berkeley Park
+110190449,Hunter Hills
+110190481,South Atlanta
+110190485,Old Gordon
+110190619,Chosewood Park
+110190626,Midtown
+110190633,Downtown
+110190678,Marietta Street Artery
+110190700,Chosewood Park
+110190710,Buckhead Village
+110190717,East Lake
+110190762,Peoplestown
+110190858,Midtown
+110190871,Laurens Valley
+110190875,Hunter Hills
+110190908,Southwest
+110190909,Harland Terrace
+110190942,Berkeley Park
+110190950,Ormewood Park
+110190963,Ben Hill Terrace
+110190978,Midtown
+110190979,English Avenue
+110190998,Berkeley Park
+110191027,Loring Heights
+110191040,Edgewood
+110191098,Grant Park
+110191145,Virginia Highland
+110191164,Loring Heights
+110191223,Castleberry Hill
+110191233,Blair Villa/Poole Creek
+110191247,Poncey-Highland
+110191259,Blandtown
+110191267,Pittsburgh
+110191284,North Buckhead
+110191309,Poncey-Highland
+110191328,Pittsburgh
+110191353,Capitol View
+110191354,Midtown
+110191357,Bankhead
+110191370,Fairburn Mays
+110191390,Castleberry Hill
+110191404,West End
+110191448,Vine City
+110191452,Brandon
+110191500,Greenbriar
+110191509,Glenrose Heights
+110191510,Fairburn Mays
+110191599,Rosedale Heights
+110191628,Loring Heights
+110191634,Midtown
+110191666,Hammond Park
+110191677,Pittsburgh
+110191693,Downtown
+110191694,Carey Park
+110191750,Cascade Avenue/Road
+110191777,Lenox
+110191829,Oakland City
+110191835,Berkeley Park
+110191836,Peoplestown
+110191848,Lakewood
+110191938,English Avenue
+110191949,Midtown
+110191971,Lenox
+110192005,Thomasville Heights
+110192028,Grove Park
+110192058,Pine Hills
+110192079,Candler Park
+110192090,Mays
+110192096,Midtown
+110192114,Morningside/Lenox Park
+110192116,Morningside/Lenox Park
+110192117,Morningside/Lenox Park
+110192130,Sylvan Hills
+110192146,Downtown
+110192150,Lakewood Heights
+110192157,Buckhead Forest
+110192246,Morningside/Lenox Park
+110170638,Virginia Highland
+110180686,Downtown
+110180699,Memorial Park
+110180703,Center Hill
+110180737,Morningside/Lenox Park
+110180749,Piedmont Heights
+110180758,Adair Park
+110180783,West End
+110180785,Downtown
+110180786,Virginia Highland
+110180789,Princeton Lakes
+110180801,Peachtree Hills
+110180845,Downtown
+110180936,Buckhead Village
+110180959,Mozley Park
+110180998,Tuxedo Park
+110181003,South River Gardens
+110181019,West End
+110181050,The Villages at Castleberry H
+110181054,Peachtree Heights West
+110181127,Sylvan Hills
+110181129,Sylvan Hills
+110181194,Grant Park
+110181204,Midtown
+110181231,Morningside/Lenox Park
+110181232,Scotts Crossing
+110181236,Downtown
+110181240,Capitol View
+110181266,Browns Mill Park
+110181268,Berkeley Park
+110181293,Old Fourth Ward
+110181311,Atlantic Station
+110181313,Grant Park
+110181324,Collier Heights
+110181339,Ashview Heights
+110181360,South River Gardens
+110181361,North Buckhead
+110181362,Ashview Heights
+110181369,West End
+110181386,Berkeley Park
+110181390,East Chastain Park
+110181391,Midtown
+110181405,Old Fourth Ward
+110181407,English Avenue
+110181457,Lindbergh/Morosgo
+110181508,Pittsburgh
+110181533,Downtown
+110180061,Edgewood
+110180167,Old Fourth Ward
+110180171,West End
+110180202,Lindridge/Martin Manor
+110180320,Campbellton Road
+110180344,Berkeley Park
+110180353,Sylvan Hills
+110180366,Glenrose Heights
+110180400,Pittsburgh
+110180416,Midtown
+110180419,Peoplestown
+110180434,Collier Heights
+110180471,Lakewood Heights
+110180494,Perkerson
+110180501,Kings Forest
+110180515,Baker Hills
+110180533,Sylvan Hills
+110180538,North Buckhead
+110180559,Center Hill
+110180617,Collier Heights
+110180632,Old Fourth Ward
+110180647,Old Fourth Ward
+110180648,South River Gardens
+110180652,Hammond Park
+110180658,Sylvan Hills
+110181568,Virginia Highland
+110181571,North Buckhead
+110181578,West End
+110181629,Old Fourth Ward
+110181635,Carey Park
+110181643,Lindbergh/Morosgo
+110181675,Carver Hills
+110181686,Inman Park
+110181724,South River Gardens
+110181731,Mechanicsville
+110181737,Glenrose Heights
+110181776,Pittsburgh
+110181790,Morningside/Lenox Park
+110181815,Lenox
+110181832,Lenox
+110181902,Fairburn Mays
+110181935,The Villages at Castleberry H
+110181958,English Avenue
+110181979,Capitol View Manor
+110181982,The Villages at Castleberry H
+110181986,Buckhead Village
+110182006,Thomasville Heights
+110182014,Ardmore
+110182021,Princeton Lakes
+110182039,North Buckhead
+110182066,North Buckhead
+110182075,West End
+110182087,Home Park
+110182102,Downtown
+110182103,Harvel Homes Community
+110182124,West End
+110182146,Home Park
+110182180,Princeton Lakes
+110182219,North Buckhead
+110182223,Old Fourth Ward
+110182257,Bankhead
+110182262,Lindbergh/Morosgo
+110182290,Campbellton Road
+110182332,Perkerson
+110182336,English Avenue
+110182343,West End
+110170645,Blair Villa/Poole Creek
+110170667,Pittsburgh
+110170678,Underwood Hills
+110170702,Harland Terrace
+110170712,Reynoldstown
+110170749,Ben Hill
+110170750,Capitol Gateway
+110170767,Kirkwood
+110170794,East Lake
+110170795,Chosewood Park
+110170808,Downtown
+110170854,Harland Terrace
+110170908,Old Fourth Ward
+110170935,Peoplestown
+110170938,Orchard Knob
+110170954,Knight Park/Howell Station
+110170968,Castleberry Hill
+110170977,Blandtown
+110170985,Fairburn Mays
+110170988,Cascade Heights
+110170997,Mechanicsville
+110171004,English Avenue
+110171020,Downtown
+110171058,Blandtown
+110171109,Ansley Park
+110171114,Mozley Park
+110171115,Atlantic Station
+110171117,East Atlanta
+110171123,Capitol View
+110171149,The Villages at Castleberry H
+110171158,Heritage Valley
+110171194,Ashley Courts
+110171199,Glenrose Heights
+110171201,Mozley Park
+110171216,Downtown
+110171270,Marietta Street Artery
+110171275,Downtown
+110171294,Mechanicsville
+110171308,Summerhill
+110171314,Joyland
+110171318,Downtown
+110171319,Old Fourth Ward
+110171334,Cascade Avenue/Road
+110171347,Morningside/Lenox Park
+110171349,Harris Chiles
+110171374,Fairburn Tell
+110171378,Atlanta University Center
+110171434,Lenox
+110171456,West End
+110171463,Old Fourth Ward
+110171490,Hunter Hills
+110171498,Venetian Hills
+110171573,Buckhead Forest
+110171580,Midtown
+110171605,Grove Park
+110171611,Southwest
+110171620,Midtown
+110171627,Brookwood Hills
+110171645,Grant Park
+110171663,Peachtree Hills
+110171675,Ben Hill Forest
+110171788,Cascade Avenue/Road
+110171808,East Lake
+110171810,Glenrose Heights
+110171811,East Lake
+110171873,Glenrose Heights
+110171888,English Avenue
+110170027,Atlanta University Center
+110170037,Midtown
+110170044,Midtown
+110170114,Atlanta University Center
+110170318,Greenbriar
+110170461,Downtown
+110170475,North Buckhead
+110170495,Mechanicsville
+110170524,Grant Park
+110170551,West End
+110170585,Carver Hills
+110170590,Downtown
+110170592,Midwest Cascade
+110170596,Mt. Gilead Woods
+110170613,Buckhead Forest
+110170626,Morningside/Lenox Park
+110170632,Carver Hills
+110160003,Orchard Knob
+110160012,Hunter Hills
+110160119,Old Fourth Ward
+110160170,Midtown
+110160241,Poncey-Highland
+110160278,Vine City
+110160293,Lakewood Heights
+110160342,Sylvan Hills
+110160355,Home Park
+110160402,Oakland City
+110160443,Southwest
+110160452,Morningside/Lenox Park
+110160478,Capitol View
+110160512,Thomasville Heights
+110160612,Downtown
+110160630,East Atlanta
+110160648,Fairburn Road/Wisteria Lane
+110160658,Pittsburgh
+110160661,Downtown
+110160698,Rockdale
+110160728,Buckhead Heights
+110160742,North Buckhead
+110160757,Inman Park
+110160794,Midtown
+110160803,Atlantic Station
+110160816,Downtown
+110160817,Old Fourth Ward
+110160842,Sweet Auburn
+110160896,Wildwood (NPU-H)
+110160940,Edgewood
+110160946,Bolton
+110160947,Sweet Auburn
+110160948,Midtown
+110160970,The Villages at Castleberry H
+110161098,English Avenue
+110161140,Virginia Highland
+110161166,Lindbergh/Morosgo
+110161264,Inman Park
+110161274,Bankhead
+110161280,The Villages at Carver
+110161295,Downtown
+110161312,North Buckhead
+110161324,Midtown
+110161335,Morningside/Lenox Park
+110161347,Lenox
+110161353,Princeton Lakes
+110161355,Cabbagetown
+110161388,Edgewood
+110161436,Midtown
+110161456,Atlantic Station
+110161460,Hills Park
+110161470,Atlantic Station
+110161476,Blair Villa/Poole Creek
+110161497,Pittsburgh
+110161544,Brookwood
+110161549,Princeton Lakes
+110161551,Midtown
+110161564,Peachtree Park
+110161566,Old Fourth Ward
+110161575,North Buckhead
+110161592,North Buckhead
+110161619,Berkeley Park
+110161635,Vine City
+110161651,Atlantic Station
+110161692,Old Fourth Ward
+110161760,Lakewood Heights
+110161767,Loring Heights
+110161773,Lakewood Heights
+110161777,Princeton Lakes
+110161834,Berkeley Park
+110161862,Berkeley Park
+110161938,Oakland City
+110161941,Capitol View
+110150010,Sylvan Hills
+110150093,The Villages at East Lake
+110150239,Collier Heights
+110150254,Downtown
+110150265,Center Hill
+110150266,Glenrose Heights
+110150271,Adair Park
+110150323,Leila Valley
+110150439,Downtown
+110150487,Sweet Auburn
+110150519,Midtown
+110150520,Dixie Hills
+110150542,Perkerson
+110150581,Castleberry Hill
+110150588,Mechanicsville
+110150684,Midtown
+110150707,Campbellton Road
+110150728,Old Fourth Ward
+110150770,Greenbriar
+110150783,Rosedale Heights
+110150795,Hammond Park
+110150838,Campbellton Road
+110150844,Berkeley Park
+110150884,Lindbergh/Morosgo
+110150892,Loring Heights
+110150924,Baker Hills
+110150950,Downtown
+110150954,Castleberry Hill
+110150999,Downtown
+110151003,Mechanicsville
+110151009,Glenrose Heights
+110151016,Collier Heights
+110151021,Sweet Auburn
+110151026,Harland Terrace
+110151058,Thomasville Heights
+110151059,Scotts Crossing
+110151104,Lindridge/Martin Manor
+110151156,Lakewood Heights
+110151170,Brookwood
+110151186,Home Park
+110151193,Lenox
+110151250,Edgewood
+110151253,Vine City
+110151279,Brookwood Hills
+110151335,East Atlanta
+110151410,Inman Park
+110151431,Grove Park
+110151438,Westhaven
+110151459,Greenbriar
+110151506,East Atlanta
+110151513,Wilson Mill Meadows
+110151550,Ashview Heights
+110151554,Custer/McDonough/Guice
+110151562,Midtown
+110151604,Lenox
+110151613,Pittsburgh
+110151706,Collier Heights
+110151802,Adamsville
+110151845,Edgewood
+110151849,Berkeley Park
+110151850,Mays
+110151927,Glenrose Heights
+110151928,South Tuxedo Park
+110151933,Edgewood
+110151962,Peoplestown
+110151994,Ashley Courts
+110152003,Woodland Hills
+110140932,Old Fourth Ward
+110141008,Downtown
+110152200,Bakers Ferry
+110152203,Downtown
+110152221,Westview
+100091065,English Avenue
+1.10141E+11,Campbellton Road
+110141017,Inman Park
+110141018,Riverside
+110141030,Mechanicsville
+110141031,Old Fourth Ward
+110141066,Florida Heights
+110141074,Old Fourth Ward
+110141086,The Villages at Carver
+110141087,Home Park
+110141089,Midtown
+110141096,Garden Hills
+110141292,Midtown
+110141305,Southwest
+110141326,Ashview Heights
+110141359,Lindbergh/Morosgo
+110141364,Campbellton Road
+110141390,Underwood Hills
+110141536,Browns Mill Park
+110141542,Berkeley Park
+110141582,Midtown
+110141624,The Villages at Carver
+110141692,Downtown
+110141745,Edgewood
+110141762,Grove Park
+110141770,Cascade Avenue/Road
+110141781,Old Fourth Ward
+110141784,Pittsburgh
+110141792,Glenrose Heights
+110141804,Downtown
+110141834,East Atlanta
+110141875,Midtown
+110141897,Harland Terrace
+110141906,North Buckhead
+110141909,Sweet Auburn
+110141986,East Lake
+110142012,Peachtree Heights West
+110140939,Berkeley Park
+110140968,Venetian Hills
+110140974,Home Park
+110140975,Adams Park
+110140998,Oakland City
+110141002,Downtown
+110131509,Morningside/Lenox Park
+110140010,Downtown
+110140116,Bush Mountain
+110140117,Oakland City
+110140247,Wildwood (NPU-H)
+110140277,Old Fourth Ward
+110140396,Mechanicsville
+110140442,East Atlanta
+110140443,Peachtree Park
+110140455,Ormewood Park
+110140515,Downtown
+110140524,Midtown
+110140538,Cascade Avenue/Road
+110140579,West End
+110140586,Mechanicsville
+110140626,Pittsburgh
+110140636,Downtown
+110140684,Lindridge/Martin Manor
+110140693,Downtown
+110140710,Bankhead
+110140713,Old Fourth Ward
+110140716,Bolton
+110140735,Cascade Avenue/Road
+110140741,Oakland City
+110140744,Venetian Hills
+110140779,Virginia Highland
+110140784,Druid Hills
+110140786,Mays
+110140791,Westview
+110140800,South River Gardens
+110140827,Edgewood
+110140831,Downtown
+110140847,Cascade Avenue/Road
+110140868,Atlantic Station
+110140869,Piedmont Heights
+110140876,Harland Terrace
+110140891,Cross Creek
+110140925,Riverside
+110140930,Midtown
+110130028,Glenrose Heights
+110130050,Ashview Heights
+110130061,Carey Park
+110130070,Carver Hills
+110130114,Vine City
+110130127,Castleberry Hill
+110130154,Greenbriar
+110130162,Chosewood Park
+110130201,Campbellton Road
+110130225,Greenbriar
+110130263,Edgewood
+110130275,Thomasville Heights
+110130289,Midtown
+110130316,Wildwood (NPU-H)
+110130337,South River Gardens
+110130358,South River Gardens
+110130387,Buckhead Village
+110130407,North Buckhead
+110130421,Mozley Park
+110130427,Old Fourth Ward
+110130433,Adamsville
+110130451,Brookwood
+110130473,North Buckhead
+110130524,Midtown
+110130530,Adamsville
+110130542,Southwest
+110130553,Grove Park
+110130600,Lindridge/Martin Manor
+110130608,Adamsville
+110130621,Lakewood Heights
+110130639,Pittsburgh
+110130658,Downtown
+110130662,Norwood Manor
+110130691,West End
+110130695,Berkeley Park
+110130714,Pine Hills
+110130766,Edgewood
+110130777,Pittsburgh
+110130790,Underwood Hills
+110130798,Downtown
+110130803,Sweet Auburn
+110130804,Buckhead Village
+110130836,Wildwood (NPU-H)
+110130839,Campbellton Road
+110130851,West End
+110130863,Grant Park
+110130900,Pittsburgh
+110130964,Atlantic Station
+110130965,Norwood Manor
+110130975,Berkeley Park
+110131003,Old Fourth Ward
+110131058,Perkerson
+110131165,Downtown
+110131167,East Lake
+110131180,Marietta Street Artery
+110131191,Downtown
+110131210,The Villages at Carver
+110131211,Orchard Knob
+110131227,Almond Park
+110131234,Atlantic Station
+110131240,Browns Mill Park
+110131265,Campbellton Road
+110131275,Grove Park
+110131280,West End
+110131286,Mays
+110131299,Oakland City
+110131300,Thomasville Heights
+110131331,Sylvan Hills
+110131340,Home Park
+110131355,Carey Park
+110131375,Downtown
+110131383,Home Park
+110131384,Midtown
+110131390,East Atlanta
+110131391,Grove Park
+110131420,Piedmont Heights
+110131442,Lindbergh/Morosgo
+110131447,Venetian Hills
+110131480,Lindridge/Martin Manor
+110131481,Old Fourth Ward
+110131500,North Buckhead
+110131504,Swallow Circle/Baywood
+110131549,Downtown
+110131563,Mechanicsville
+110131588,Castleberry Hill
+110121224,Buckhead Village
+1.10131E+11,Downtown
+110071515,Collier Heights
+110121228,Lindbergh/Morosgo
+110121272,Pittsburgh
+110121279,Midtown
+110110899,Summerhill
+110120005,Berkeley Park
+110120084,Thomasville Heights
+110120149,Midtown
+110120151,Downtown
+110120195,Capitol View
+110120222,Sylvan Hills
+110120223,Piedmont Heights
+110120239,South Atlanta
+110120272,Monroe Heights
+110120287,Morningside/Lenox Park
+110120314,Downtown
+110120318,Adamsville
+110120358,Old Fourth Ward
+110120384,Grant Park
+110120428,Downtown
+110120538,Ben Hill
+110120541,Midtown
+110120563,Glenrose Heights
+110120566,Downtown
+110120608,Downtown
+110120618,Old Fourth Ward
+110120631,Center Hill
+110120642,Adams Park
+110120695,Greenbriar
+110120719,Old Fourth Ward
+110120727,Southwest
+110120730,The Villages at Castleberry H
+110120748,Ansley Park
+110120752,Atlantic Station
+110120761,East Lake
+110120780,Atlantic Station
+110120807,Center Hill
+110120812,Lindridge/Martin Manor
+110120836,Dixie Hills
+110120842,Midtown
+110120872,English Avenue
+110120898,East Atlanta
+110120907,Midtown
+110120937,Grove Park
+110120957,Old Fourth Ward
+110120958,Inman Park
+110120995,Berkeley Park
+110121012,Berkeley Park
+110121071,Marietta Street Artery
+110121087,Hammond Park
+110121095,Old Fourth Ward
+110121108,Peoplestown
+110110900,Atlanta University Center
+110110746,Center Hill
+110110749,Perkerson
+110110768,Center Hill
+110110831,Southwest
+110060590,Ashview Heights
+110110037,Scotts Crossing
+110110078,Grove Park
+110110083,Perkerson
+110110126,Greenbriar
+110110141,Piedmont Heights
+110110156,Cabbagetown
+110110181,Swallow Circle/Baywood
+110110208,Downtown
+110110231,Cabbagetown
+110110237,Atlantic Station
+110110247,Hammond Park
+110110253,Lakewood Heights
+110110294,Hammond Park
+110110302,Vine City
+110110367,Cabbagetown
+110110423,Underwood Hills
+110110424,Vine City
+110110443,Lakewood Heights
+110110459,Downtown
+110110471,Peachtree Heights West
+110110479,Marietta Street Artery
+110110484,Old Fourth Ward
+110110492,Downtown
+110110505,Carroll Heights
+110110514,North Buckhead
+110110516,Sylvan Hills
+110110521,Berkeley Park
+110110537,Fairburn Mays
+110110541,Oakland City
+110110568,Peoplestown
+110110571,North Buckhead
+110110579,Vine City
+110110600,Greenbriar
+110110608,Glenrose Heights
+110110620,Peoplestown
+110110627,Harland Terrace
+110110640,Downtown
+110110646,Bankhead
+110110648,Lakewood Heights
+110110699,Old Fourth Ward
+110100787,Lakewood Heights
+110100033,Edgewood
+110100133,East Chastain Park
+110100137,Glenrose Heights
+110100177,Downtown
+110100260,Southwest
+110100275,Poncey-Highland
+110100287,Mechanicsville
+110100299,Downtown
+110100344,Downtown
+110100414,West End
+110100425,Downtown
+110100438,Mechanicsville
+110100443,Pittsburgh
+110100467,Old Fourth Ward
+110100494,Mechanicsville
+110100496,Bankhead
+110100561,Lindridge/Martin Manor
+110100583,The Villages at Carver
+110100599,Loring Heights
+110100614,Southwest
+110100688,Carey Park
+110100735,Mechanicsville
+110100742,Pittsburgh
+110100752,Midwest Cascade
+110082105,Sylvan Hills
+110051128,Tuxedo Park
+110090023,South Atlanta
+110090096,Princeton Lakes
+110090117,Downtown
+110090140,Grove Park
+110090181,Downtown
+110090240,Pomona Park
+110090287,Downtown
+110090356,Sweet Auburn
+110090360,East Atlanta
+110090412,Perkerson
+110090468,Center Hill
+110090502,Hammond Park
+110090609,Garden Hills
+110090658,East Atlanta
+110090659,Ben Hill Terrace
+110090672,Sylvan Hills
+110090679,Kirkwood
+110090719,Lindridge/Martin Manor
+110090779,Lindbergh/Morosgo
+110090817,Brandon
+110090832,Hunter Hills
+110090833,Westview
+110090876,Grove Park
+110090886,Atlanta University Center
+110090938,Campbellton Road
+110090941,Home Park
+110090955,Cabbagetown
+110091008,Thomasville Heights
+110091011,Peachtree Hills
+110091021,Peachtree Heights East
+110091037,Fairburn Heights
+110091049,Morningside/Lenox Park
+110091069,Wilson Mill Meadows
+110091109,Sylvan Hills
+110091112,Scotts Crossing
+110091123,Piedmont Heights
+110091142,Blandtown
+110091158,Lakewood Heights
+110091164,Venetian Hills
+110091193,Lenox
+110091209,Greenbriar
+110091210,Lenox
+110091300,Downtown
+110091303,Underwood Hills
+110091314,North Buckhead
+110091358,North Buckhead
+110091372,Berkeley Park
+110091384,South Atlanta
+110091395,Lenox
+110091403,Poncey-Highland
+110091420,Lindridge/Martin Manor
+110091531,Pittsburgh
+110091563,Berkeley Park
+110091581,Baker Hills
+110091608,Hunter Hills
+110091639,Pittsburgh
+110091653,East Atlanta
+110091676,Kings Forest
+110091709,Pittsburgh
+110091915,Center Hill
+110061231,Vine City
+110072248,Sylvan Hills
+110082113,Glenrose Heights
+110082240,Ashview Heights
+110082245,Mozley Park
+110072601,Adams Park
+110080032,Pittsburgh
+110080122,Piedmont Heights
+110080151,Midtown
+110080152,Greenbriar
+110080159,Lakewood Heights
+110080225,Downtown
+110080269,Kirkwood
+110080276,East Atlanta
+110080325,Center Hill
+110080342,Mechanicsville
+110080389,Old Fourth Ward
+110080404,Perkerson
+110080423,Glenrose Heights
+110080426,Bankhead/Bolton
+110080468,Poncey-Highland
+110080496,Hills Park
+110080578,West End
+110080591,Old Fourth Ward
+110080631,Druid Hills
+110080638,East Atlanta
+110080696,Ashley Courts
+110080739,South River Gardens
+110080743,Lakewood Heights
+110080751,Carroll Heights
+110080776,Old Fourth Ward
+110080803,Old Gordon
+110080807,Capitol View
+110080844,Peoplestown
+110080869,Greenbriar
+110080895,Florida Heights
+110080961,South Tuxedo Park
+110080966,Niskey Cove
+110080968,Edgewood
+110081000,Old Fourth Ward
+110081008,Virginia Highland
+110081016,Berkeley Park
+110081052,Greenbriar
+110081066,Harland Terrace
+110081070,Baker Hills
+110081088,Washington Park
+110081097,Downtown
+110081098,Grove Park
+110081131,Peoplestown
+110081167,Midtown
+110081218,Polar Rock
+110081224,Peachtree Park
+110081232,Vine City
+110081236,Harland Terrace
+110081251,Baker Hills
+110081255,Sylvan Hills
+110081256,Piedmont Heights
+110081305,Old Fourth Ward
+110081335,Bankhead
+110081337,The Villages at Castleberry H
+110081342,South River Gardens
+110081378,Norwood Manor
+110081379,Perkerson
+110081399,Berkeley Park
+110081402,Old Fourth Ward
+110081429,Castleberry Hill
+110081464,Fairburn Heights
+110081465,Amal Heights
+110081475,The Villages at Castleberry H
+110081490,Lenox
+110081499,Berkeley Park
+110081504,Hammond Park
+110081525,Midtown
+110081594,Edgewood
+110081611,Lenox
+110081617,West End
+110081661,Downtown
+110081679,West Highlands
+110081784,Berkeley Park
+110081798,Home Park
+110081809,Harland Terrace
+110081846,Campbellton Road
+110081848,East Atlanta
+110081858,Perkerson
+110081861,Sylvan Hills
+110081913,Ridgewood Heights
+110081943,Carey Park
+110081960,Downtown
+110081976,Atlantic Station
+110081982,Peachtree Heights West
+110081993,Edgewood
+110081996,Center Hill
+110082001,Lenox
+110082002,Perkerson
+110082026,Lenox
+110082052,Edgewood
+110082069,Grant Park
+110082090,Loring Heights
+110071549,Atlanta University Center
+110071557,Castleberry Hill
+110071577,Venetian Hills
+110071628,West End
+110071690,English Avenue
+110071701,Greenbriar
+110071715,Mechanicsville
+110071731,Greenbriar
+110071780,West End
+110071838,Channing Valley
+110071840,Collier Heights
+110071844,Scotts Crossing
+110071871,Grove Park
+110071911,Custer/McDonough/Guice
+110071914,Peachtree Heights West
+110071921,Perkerson
+110071946,Browns Mill Park
+110071977,Downtown
+110072004,Lindbergh/Morosgo
+110072008,Grant Park
+110072035,South River Gardens
+110072046,Ashview Heights
+110072075,West End
+110072080,Washington Park
+110072083,Greenbriar
+110072112,Cross Creek
+110072125,South River Gardens
+110072135,Ormewood Park
+110072151,Hammond Park
+110072154,Westview
+110072170,Lenox
+110072182,Glenrose Heights
+110072191,Loring Heights
+110072215,Sweet Auburn
+110072245,Hunter Hills
+110070010,South River Gardens
+110070019,Perkerson
+110070287,Castleberry Hill
+110070288,Washington Park
+110070300,Grove Park
+110070333,Pine Hills
+110070351,Midtown
+110070357,Sweet Auburn
+110070411,Browns Mill Park
+110070435,Randall Mill
+110070444,Blandtown
+110070472,Southwest
+110070496,Hunter Hills
+110070543,Downtown
+110070546,The Villages at East Lake
+110070562,The Villages at Castleberry H
+110070565,Downtown
+110070597,Southwest
+110070608,Washington Park
+110070642,Ashley Courts
+110070654,Fairburn Tell
+110070670,Virginia Highland
+110070671,Polar Rock
+110070674,Pine Hills
+110070705,Old Fourth Ward
+110070718,Downtown
+110070821,Downtown
+110070890,Mechanicsville
+110070920,Cascade Avenue/Road
+110070937,Lindridge/Martin Manor
+110071004,Swallow Circle/Baywood
+110071083,Lenox
+110071134,Downtown
+110071156,Southwest
+110071173,Grove Park
+110071210,Bankhead
+110071234,Pittsburgh
+110071360,Sweet Auburn
+110071403,North Buckhead
+110071417,Collier Heights
+110071418,Dixie Hills
+110071479,Ben Hill
+110071510,Greenbriar
+110061567,Virginia Highland
+110072611,North Buckhead
+110072710,Midtown
+110072725,Greenbriar
+110072781,Pittsburgh
+110072285,Chosewood Park
+110072304,Buckhead Village
+110072324,Pittsburgh
+110072325,Atlantic Station
+110072344,Westview
+110072382,North Buckhead
+110072427,Ashview Heights
+110072431,Cross Creek
+110072444,Harland Terrace
+110072462,North Buckhead
+110072465,Pittsburgh
+110072479,Downtown
+110072481,Harland Terrace
+110072492,Cascade Avenue/Road
+110072511,Old Fourth Ward
+110061233,Berkeley Park
+110061295,Glenrose Heights
+110061317,North Buckhead
+110061339,Pittsburgh
+110061382,Almond Park
+110061420,Blair Villa/Poole Creek
+110061448,Glenrose Heights
+110061471,Kirkwood
+110061496,Downtown
+110061539,Atlanta University Center
+110061547,South River Gardens
+110061573,Edgewood
+110061608,Lake Claire
+110061621,Lindbergh/Morosgo
+110061632,Atlanta University Center
+110061641,Loring Heights
+110061708,The Villages at Carver
+110061746,Downtown
+110061800,Downtown
+110061804,Downtown
+110061806,Old Fourth Ward
+110061838,West End
+110061858,Wildwood (NPU-C)
+110061863,Center Hill
+110061884,Glenrose Heights
+110061891,Perkerson
+110061898,English Avenue
+110061907,Georgia Tech
+110062010,West End
+110062027,Berkeley Park
+110062046,Old Fourth Ward
+110062055,Candler Park
+110062058,Midtown
+110062073,Berkeley Park
+110062092,Pine Hills
+110062097,Garden Hills
+110062103,Old Fourth Ward
+110062138,Bankhead
+110062146,East Atlanta
+110062151,The Villages at Carver
+110062152,Grant Park
+110062225,Home Park
+110062226,Collier Heights
+110062277,Edgewood
+110062313,Old Fourth Ward
+110062315,Pittsburgh
+110062349,Greenbriar
+110062382,Edgewood
+110062407,North Buckhead
+110062536,Mozley Park
+110062558,Garden Hills
+110060617,Florida Heights
+110060683,Mechanicsville
+110060702,Wilson Mill Meadows
+110060742,East Atlanta
+110060765,English Avenue
+110060809,Lindbergh/Morosgo
+110060810,Custer/McDonough/Guice
+110060863,Penelope Neighbors
+110060889,Downtown
+110060901,Lindridge/Martin Manor
+110060939,Lindbergh/Morosgo
+110060952,Downtown
+110060953,Chosewood Park
+110060962,Morningside/Lenox Park
+110060974,Oakland City
+110061008,Collier Heights
+110061015,Poncey-Highland
+110061016,Downtown
+110061021,Downtown
+110061031,North Buckhead
+110061062,Collier Heights
+110061112,Atlantic Station
+110061115,Peoplestown
+110061132,Browns Mill Park
+110061181,Glenrose Heights
+110061187,Southwest
+110061192,Ben Hill
+110060242,Downtown
+110060246,Midtown
+110060249,Campbellton Road
+110060257,Sylvan Hills
+110060300,Downtown
+110060337,Blair Villa/Poole Creek
+110060339,Carroll Heights
+110060343,Collier Heights
+110060351,Grove Park
+110060355,Knight Park/Howell Station
+110060441,Mechanicsville
+110060445,Grant Park
+110060452,Audobon Forest
+110060491,West End
+110060497,West End
+110060547,The Villages at Castleberry H
+110060557,Lindbergh/Morosgo
+110060577,Atlanta Industrial Park
+110060589,Sweet Auburn
+110051311,Downtown
+110051314,Westhaven
+110051355,Mechanicsville
+110051361,Grove Park
+110051382,Summerhill
+110051435,Venetian Hills
+110051438,Capitol View
+110051547,Glenrose Heights
+110051561,Grove Park
+110051578,Piedmont Heights
+110051669,Kirkwood
+110051720,Southwest
+110051734,Campbellton Road
+110051764,Berkeley Park
+110051774,Bolton
+110051800,Venetian Hills
+110051832,Vine City
+110051835,Southwest
+110051865,Midtown
+110051892,Downtown
+110051895,Perkerson
+110051906,Sylvan Hills
+110051922,East Lake
+110051924,Midtown
+110051958,Almond Park
+110051963,Wesley Battle
+110052008,South Tuxedo Park
+110052017,Campbellton Road
+110052028,Sylvan Hills
+110052034,Custer/McDonough/Guice
+110052063,Glenrose Heights
+110052067,Morningside/Lenox Park
+110052084,Lenox
+110052107,Blandtown
+110052113,Fort Valley
+110052138,Midtown
+110052151,North Buckhead
+110052161,Downtown
+110052164,Lenox
+110052194,East Atlanta
+110052207,Wesley Battle
+110052214,Old Fourth Ward
+110052221,Morningside/Lenox Park
+110052235,North Buckhead
+110052238,Downtown
+110052243,Ben Hill
+110052263,Campbellton Road
+110052275,English Avenue
+110052277,Poncey-Highland
+110052288,West Lake
+110052294,Fairburn Heights
+110052322,Midtown
+110052329,North Buckhead
+110052334,Center Hill
+110052353,Bankhead/Bolton
+110050440,East Atlanta
+110050448,Lakewood Heights
+110050488,Underwood Hills
+110050523,West End
+110050527,High Point
+110050530,South Atlanta
+110050609,Midtown
+110050630,Princeton Lakes
+110050730,East Atlanta
+110050743,English Avenue
+110050754,Morningside/Lenox Park
+110050796,Midtown
+110050797,English Avenue
+110050847,Sweet Auburn
+110050915,Buckhead Forest
+110050934,Perkerson
+110050946,Capitol View
+110050956,Blandtown
+110050959,East Lake
+110051037,East Lake
+110051040,Oakland City
+110051043,Scotts Crossing
+110051078,Lindridge/Martin Manor
+110051087,West End
+110051113,Chosewood Park
+110051126,Peyton Forest
+110051187,Hammond Park
+110051230,North Buckhead
+110051264,Garden Hills
+110051272,Venetian Hills
+110051285,Campbellton Road
+110051290,Venetian Hills
+110051131,South Atlanta
+110051135,Kirkwood
+110051142,Blair Villa/Poole Creek
+110051175,Sweet Auburn
+110050011,Harland Terrace
+110050059,Home Park
+110050064,Grant Park
+110050071,Midtown
+110050110,Knight Park/Howell Station
+110050154,Sylvan Hills
+110050185,Perkerson
+110050229,Greenbriar
+110050301,Midtown
+110050305,East Atlanta
+110050327,Cascade Avenue/Road
+110050333,Grove Park
+110050338,Pittsburgh
+110050346,Grant Park
+110050349,Old Fourth Ward
+110041558,Almond Park
+110031132,Downtown
+110040005,Piedmont Heights
+110040045,Home Park
+110040099,Southwest
+110040122,Polar Rock
+110040192,Castleberry Hill
+110040220,Summerhill
+110040329,Pittsburgh
+110040335,Midtown
+110040338,Midtown
+110040349,Old Fourth Ward
+110040392,Old Gordon
+110040407,Blandtown
+110040428,West End
+110040468,North Buckhead
+110040471,Venetian Hills
+110040473,Carey Park
+110040490,English Avenue
+110040503,North Buckhead
+110040542,West End
+110040573,Greenbriar
+110040584,Pittsburgh
+110040611,Sweet Auburn
+110040612,East Atlanta
+110040613,Pittsburgh
+110040627,Virginia Highland
+110040661,Home Park
+110040701,Old Gordon
+110040717,Downtown
+110040722,East Lake
+110040816,Capitol Gateway
+110040823,Perkerson
+110040825,Hunter Hills
+110040828,Oakland City
+110040835,Collier Heights
+110040848,Lake Claire
+110040911,Lenox
+110040917,Tuxedo Park
+110040925,Chosewood Park
+110040927,Summerhill
+110040936,West End
+110040947,Berkeley Park
+110040956,Grove Park
+110040978,Atlanta University Center
+110040986,Adair Park
+110040992,Grove Park
+110041003,Perkerson
+110041017,Lakewood Heights
+110041033,Home Park
+110041050,Midtown
+110041073,Bankhead
+110041075,Edgewood
+110041076,Downtown
+110041095,East Atlanta
+110041115,Summerhill
+110041119,Downtown
+110041158,Vine City
+110041172,Campbellton Road
+110041202,Florida Heights
+110041212,Knight Park/Howell Station
+110041213,Downtown
+110041223,Midtown
+110041244,North Buckhead
+110041256,Brandon
+110041260,Midtown
+110041289,Downtown
+110041293,Riverside
+110041318,Baker Hills
+110041320,Venetian Hills
+110041351,Carver Hills
+110041374,Betmar LaVilla
+110041375,Garden Hills
+110041382,Vine City
+110041384,Princeton Lakes
+110041426,Grant Park
+110041451,Hunter Hills
+110041454,Pittsburgh
+110041490,East Lake
+110041511,Pittsburgh
+110010405,Inman Park
+110041560,Atlantic Station
+110041606,Atlantic Station
+110041663,Downtown
+110041717,Brookwood
+110041741,Thomasville Heights
+110041756,Lakewood
+110041808,Atlantic Station
+110041853,Capitol View
+110041892,Grant Park
+110041927,Hammond Park
+110041930,Garden Hills
+110041932,Perkerson
+110042004,Hammond Park
+110042019,Home Park
+110042021,Campbellton Road
+110042027,Old Fourth Ward
+110042053,English Avenue
+110042068,Fairway Acres
+110042116,East Lake
+110042121,Perkerson
+110042154,Elmco Estates
+110042166,East Atlanta
+110042194,Swallow Circle/Baywood
+110042200,Grant Park
+110042240,Buckhead Forest
+110042270,Buckhead Village
+110042281,Hunter Hills
+110042302,Fairburn Road/Wisteria Lane
+110042345,Cabbagetown
+110042350,Florida Heights
+110030997,Pleasant Hill
+1.10042E+11,Southwest
+103621145,South River Gardens
+1.10032E+11,South River Gardens
+110021825,Old Fourth Ward
+110031035,Berkeley Park
+110031047,Lindridge/Martin Manor
+110031051,Downtown
+110031086,Greenbriar
+110031090,Oakland City
+110031097,Bankhead
+110031103,Underwood Hills
+110031117,Ardmore
+110031128,West Manor
+110031137,Atlanta University Center
+110031140,Hammond Park
+110031186,Downtown
+110031203,Berkeley Park
+110031207,Kingswood
+110031225,Fairburn Mays
+110031256,Midtown
+110031267,Center Hill
+110031268,Midtown
+110031343,Castleberry Hill
+110031353,Downtown
+110031378,Cascade Avenue/Road
+110031410,Midtown
+110031478,North Buckhead
+110031505,Dixie Hills
+110031519,Lenox
+110031548,Perkerson
+110031556,Bakers Ferry
+110031558,Margaret Mitchell
+110031591,Berkeley Park
+110031595,Morningside/Lenox Park
+110031601,Southwest
+110031629,Marietta Street Artery
+110031676,Sylvan Hills
+110031688,Mechanicsville
+110031716,Home Park
+110031718,Riverside
+110031730,Washington Park
+110031753,The Villages at Carver
+110031768,Channing Valley
+110031774,Midtown
+110031836,East Atlanta
+110031847,The Villages at East Lake
+110031876,Wildwood (NPU-H)
+110031888,Kirkwood
+110031921,Buckhead Forest
+110031957,South Tuxedo Park
+110031961,Midtown
+110031965,Vine City
+110031985,West Paces Ferry/Northside
+110031990,Midtown
+110031991,Midtown
+110031999,English Avenue
+110032029,Downtown
+110032030,English Avenue
+110032040,Cabbagetown
+110032041,Peachtree Heights West
+110032070,Adair Park
+110032071,South Tuxedo Park
+110032086,Loring Heights
+110032148,Midtown
+110032176,Old Fourth Ward
+110032192,Mechanicsville
+110030062,Downtown
+110030125,Downtown
+110030164,Midtown
+110030249,Vine City
+110030269,Hammond Park
+110030319,Morningside/Lenox Park
+110030341,Collier Heights
+110030366,Old Gordon
+110030395,South River Gardens
+110030408,Pittsburgh
+110030438,Fairburn Mays
+110030446,Reynoldstown
+110030461,Peachtree Park
+110030473,Old Fourth Ward
+110030504,Downtown
+110030551,Ben Hill
+110030569,Collier Heights
+110030575,Castleberry Hill
+110030616,Boulder Park
+110030632,Collier Heights
+110030661,Edgewood
+110030723,Old Fourth Ward
+110030739,Downtown
+110030746,Ormewood Park
+110030752,Summerhill
+110030763,Fort Valley
+110030797,Custer/McDonough/Guice
+110030839,Florida Heights
+110030840,Midtown
+110030865,Old Fourth Ward
+110030871,Chosewood Park
+110030880,English Park
+110030884,Dixie Hills
+110030887,Pittsburgh
+110030891,Adair Park
+110030899,East Lake
+110030927,Lenox
+110030956,Grove Park
+110030958,Woodland Hills
+110020009,Peoplestown
+110020094,Downtown
+110020131,Southwest
+110020144,Downtown
+110020199,Venetian Hills
+110020200,Grove Park
+110020214,Old Fourth Ward
+110020257,Old Fourth Ward
+110020277,Morningside/Lenox Park
+110020300,Peachtree Park
+110020353,Home Park
+110020354,Downtown
+110020423,Capitol View
+110020457,Center Hill
+110020556,Washington Park
+110020583,Florida Heights
+110020607,Cascade Avenue/Road
+110020615,East Atlanta
+110020678,South River Gardens
+110020706,Ansley Park
+110020731,The Villages at Castleberry H
+110020765,Inman Park
+110020779,Buckhead Village
+110020782,Home Park
+110020797,Old Fourth Ward
+110020835,Atlanta University Center
+110020859,Bankhead/Bolton
+110020860,Bankhead
+110020928,Atlanta University Center
+110020933,Grove Park
+110020975,Downtown
+110021013,Oakland City
+110021026,Hunter Hills
+110021069,Peachtree Heights West
+110021076,Atlanta University Center
+110021077,Heritage Valley
+110021106,The Villages at Castleberry H
+110021140,Edgewood
+110021154,West End
+110021170,Brookwood Hills
+110021196,Beecher Hills
+110021214,Washington Park
+110021228,Perkerson
+110021250,Midtown
+110021258,Chastain Park
+110021275,Atlantic Station
+110021302,Princeton Lakes
+110021428,Thomasville Heights
+110021455,Berkeley Park
+110021469,Center Hill
+110021491,Hammond Park
+110021498,South Tuxedo Park
+110021549,Dixie Hills
+110021568,Downtown
+110021569,Home Park
+110021574,Greenbriar
+110021611,Edgewood
+110021629,West End
+110021656,Adams Park
+110021687,Oakland
+110021704,Buckhead Forest
+110021754,Southwest
+110021799,Home Park
+100020717,Atlanta University Center
+110010415,Grove Park
+110010445,Downtown
+110010466,Kirkwood
+110010484,Buckhead Forest
+110010491,Home Park
+110010509,Downtown
+110010546,Buckhead Village
+110010556,Midtown
+110010595,Fairburn Mays
+110010616,Carey Park
+110010622,Downtown
+110010642,Wildwood (NPU-H)
+110010659,Midtown
+110010687,Southwest
+110010694,Pine Hills
+110010737,Pine Hills
+110010750,Southwest
+110010753,Southwest
+110010786,Greenbriar
+110010794,Harris Chiles
+110010808,Carroll Heights
+110010825,Kirkwood
+110010887,Southwest
+110010896,Vine City
+110010900,Edgewood
+110010923,Grove Park
+110010933,Ormewood Park
+110010939,Midtown
+110011011,Downtown
+110011037,Cascade Avenue/Road
+110011046,Campbellton Road
+110011098,North Buckhead
+110011116,Cascade Avenue/Road
+110011135,Downtown
+110011160,Summerhill
+110011188,Virginia Highland
+110011233,Chosewood Park
+110011279,Southwest
+110011302,Southwest
+110011314,Downtown
+110011319,Cascade Avenue/Road
+110011326,Downtown
+110011331,Center Hill
+110011333,Betmar LaVilla
+110011341,Lindbergh/Morosgo
+110011347,Peachtree Heights West
+110011367,Perkerson
+110011372,Heritage Valley
+110011388,West End
+110011403,West End
+110011443,Edgewood
+110011447,Underwood Hills
+110011452,Grove Park
+110011465,Summerhill
+110011491,Downtown
+110011510,Chosewood Park
+110011518,Lenox
+110011519,Downtown
+110011520,Adamsville
+110011528,Bankhead
+110011534,Grove Park
+110011576,Perkerson
+110011579,Midtown
+110011588,Downtown
+110011611,Downtown
+110011620,Oakland City
+110011642,Sylvan Hills
+110011651,Greenbriar
+110011689,Midtown
+110011719,Mechanicsville
+110011721,Reynoldstown
+110011748,Downtown
+110011757,Washington Park
+110011760,The Villages at Carver
+110011794,Collier Heights
+110011821,East Atlanta
+110011826,Grove Park
+110011836,Lenox
+110011874,Midtown
+110011921,Collier Heights
+110011939,Midtown
+110011974,Midtown
+110012038,Peachtree Park
+110012062,Pittsburgh
+110012069,Grant Park
+110012079,West End
+110012085,East Atlanta
+110012086,Audobon Forest
+110012128,Capitol View
+110012149,Center Hill
+110012160,Southwest
+110010006,Lindridge/Martin Manor
+110010014,Chosewood Park
+110010033,Downtown
+110010165,Capitol View
+110010170,Edgewood
+110010213,Midtown
+110010265,Poncey-Highland
+110010364,Bankhead
+110010381,Hunter Hills
+1.10012E+11,Huntington
+103331428,Ben Hill
+103340799,Lenox
+103340802,Princeton Lakes
+103340803,Fairburn Mays
+103340861,Westwood Terrace
+103340864,Old Fourth Ward
+103340935,Home Park
+103340953,Sweet Auburn
+103340955,Adair Park
+103340974,Campbellton Road
+103340990,Just Us
+103341018,Thomasville Heights
+103341026,Adair Park
+103341037,Downtown
+103341051,East Atlanta
+103341059,Virginia Highland
+103341076,West Paces Ferry/Northside
+103341105,Just Us
+103341112,Ormewood Park
+103341119,Riverside
+103341147,Sylvan Hills
+103341164,Laurens Valley
+103341170,Sylvan Hills
+103341175,Southwest
+103341180,Sweet Auburn
+103341187,Center Hill
+103341200,Peachtree Park
+103341206,Edgewood
+103341221,Rosedale Heights
+103341265,Glenrose Heights
+103341269,Carver Hills
+103341280,West Lake
+103341310,Center Hill
+103341321,Almond Park
+103341335,Downtown
+103341349,Atlanta University Center
+103341351,Capitol View Manor
+103341366,East Atlanta
+103341397,Pittsburgh
+103341409,Center Hill
+103341423,Berkeley Park
+103341440,Pleasant Hill
+103341468,Downtown
+103341486,Bankhead
+103341501,Piedmont Heights
+103341510,Custer/McDonough/Guice
+103341535,Virginia Highland
+103341539,West End
+103341547,Fairburn Mays
+103341570,Ben Hill Pines
+103341573,Collier Heights
+103341582,Grant Park
+103341583,West Paces Ferry/Northside
+103341593,Inman Park
+103341640,Venetian Hills
+103341672,Ashview Heights
+103341673,Underwood Hills
+103341708,Peoplestown
+103341740,East Chastain Park
+103341743,Mechanicsville
+103341746,Downtown
+103341748,Ormewood Park
+103341758,Downtown
+103341764,Collier Heights
+103341767,North Buckhead
+103341787,Greenbriar
+103341795,Browns Mill Park
+103341816,Old Fourth Ward
+103341819,Berkeley Park
+103341830,Chosewood Park
+103341891,West Paces Ferry/Northside
+103341892,Pine Hills
+103341917,Downtown
+103341928,Ansley Park
+103341958,Randall Mill
+103342036,Downtown
+103342069,Summerhill
+103342071,Garden Hills
+103342079,North Buckhead
+103342097,Capitol View
+103342102,Greenbriar
+103342112,Venetian Hills
+103342125,East Atlanta
+103342260,West End
+103340115,Ormewood Park
+103340124,Buckhead Village
+103340134,Vine City
+103340166,Adamsville
+103340233,Buckhead Heights
+103340324,Greenbriar
+103340347,Harris Chiles
+103340370,Marietta Street Artery
+103340409,Ansley Park
+103340527,Old Fourth Ward
+103340531,Virginia Highland
+103340555,Old Fourth Ward
+103340691,Adams Park
+103340712,Inman Park
+103340753,Thomasville Heights
+103340770,West End
+103340776,English Park
+103340778,Downtown
+103332060,Capitol Gateway
+103332105,Browns Mill Park
+103271205,Morningside/Lenox Park
+103332149,Underwood Hills
+103332158,Sylvan Hills
+103332171,Old Fourth Ward
+103332075,Collier Heights
+103332076,Peachtree Hills
+103332080,Downtown
+103332097,North Buckhead
+103331449,Regency Trace
+103331477,Lindbergh/Morosgo
+103331499,Cross Creek
+103331502,West Lake
+103331519,North Buckhead
+103331547,Atlanta University Center
+103331565,Kirkwood
+103331568,Inman Park
+103331573,Sylvan Hills
+103331577,Sweet Auburn
+103331592,Berkeley Park
+103331599,Oakland
+103331632,Vine City
+103331642,Westview
+103331643,Grove Park
+103331652,Lenox
+103331683,Downtown
+103331701,Berkeley Park
+103331706,Atlantic Station
+103331711,Grant Park
+103331714,Glenrose Heights
+103331733,Westwood Terrace
+103331740,Carey Park
+103331790,Downtown
+103331809,North Buckhead
+103331812,Princeton Lakes
+103331834,Midtown
+103331854,Arlington Estates
+103331867,Greenbriar
+103331868,English Park
+103331930,Oakland City
+103331979,Peoplestown
+103331992,Fairway Acres
+103332030,Castleberry Hill
+103332056,Atlantic Station
+103330008,Ashview Heights
+103330031,Thomasville Heights
+103330119,Pittsburgh
+103330202,Custer/McDonough/Guice
+103330270,Grant Park
+103330331,Ormewood Park
+103330388,Lakewood Heights
+103330404,Midtown
+103330407,Lakewood Heights
+103330419,Grant Park
+103330429,Arlington Estates
+103330439,Thomasville Heights
+103330457,Dixie Hills
+103330478,Southwest
+103330504,Adamsville
+103330508,Peachtree Heights East
+103330510,Southwest
+103330538,Grant Park
+103330539,Custer/McDonough/Guice
+103330547,Pittsburgh
+103330572,Adamsville
+103330573,English Avenue
+103330610,Collier Heights
+103330611,Capitol Gateway
+103330622,Custer/McDonough/Guice
+103330630,Hills Park
+103330640,Wildwood (NPU-C)
+103330673,Buckhead Forest
+103330686,Custer/McDonough/Guice
+103330707,Cascade Heights
+103330720,Benteen Park
+103330734,Pittsburgh
+103330736,English Avenue
+103330744,Riverside
+103330757,Old Fourth Ward
+103330765,Campbellton Road
+103330767,Hills Park
+103330784,Hammond Park
+103330787,Castleberry Hill
+103330790,Midtown
+103330792,Sylvan Hills
+103330798,South Atlanta
+103330799,Almond Park
+103330834,Downtown
+103330844,Grant Park
+103330849,Polar Rock
+103330853,Mechanicsville
+103330856,Pittsburgh
+103330868,Collier Heights
+103330869,Underwood Hills
+103330870,Grove Park
+103330872,Florida Heights
+103330896,Washington Park
+103330916,English Avenue
+103330917,Downtown
+103330918,Florida Heights
+103330946,Bolton
+103330953,Old Fourth Ward
+103330954,Peachtree Battle Alliance
+103330958,Underwood Hills
+103331010,South River Gardens
+103331011,Sweet Auburn
+103331015,Dixie Hills
+103331034,Piedmont Heights
+103331080,Pine Hills
+103331095,Brookwood
+103331123,Downtown
+103331124,West End
+103331125,Midtown
+103331147,Sylvan Hills
+103331149,East Lake
+103331169,Perkerson
+103331178,Lenox
+103331189,Pittsburgh
+103331193,Edgewood
+103331196,Virginia Highland
+103331201,Princeton Lakes
+103331203,Kirkwood
+103331206,Midtown
+103331209,Pittsburgh
+103331210,Fairburn
+103331246,Grove Park
+103331264,Almond Park
+103331277,West End
+103331286,Garden Hills
+103331304,Downtown
+103331363,Hammond Park
+103331371,Greenbriar
+103331391,Pittsburgh
+103331412,South Atlanta
+103300736,Ormewood Park
+1.03332E+11,Ashview Heights
+103320030,Mozley Park
+103320134,Home Park
+103320154,Oakland City
+103320177,Downtown
+103320186,East Atlanta
+103320202,Greenbriar
+103320282,Mechanicsville
+103320341,Grove Park
+103320347,Southwest
+103320413,Pittsburgh
+103320433,Pittsburgh
+103320470,Fairburn Mays
+103320497,The Villages at Carver
+103320515,Midtown
+103320534,Lindbergh/Morosgo
+103320538,Bankhead Courts
+103320559,Sherwood Forest
+103320560,Sylvan Hills
+103320582,Sylvan Hills
+103320586,English Avenue
+103320619,Marietta Street Artery
+103320634,Center Hill
+103320642,Center Hill
+103320653,Paces
+103320677,Westwood Terrace
+103320700,Bankhead
+103320711,Ridgedale Park
+103320721,Grove Park
+103320735,Edgewood
+103320744,Harland Terrace
+103320760,Colonial Homes
+103320765,Center Hill
+103320801,Venetian Hills
+103320806,Venetian Hills
+103320809,Midtown
+103320859,Home Park
+103320863,Kirkwood
+103320884,Lindbergh/Morosgo
+103320956,Washington Park
+103320977,Reynoldstown
+103320984,Atlantic Station
+103320991,North Buckhead
+103320995,North Buckhead
+103321001,Kirkwood
+103321011,Atlantic Station
+103321015,Ormewood Park
+103321016,Downtown
+103321021,Grove Park
+103321033,Old Fourth Ward
+103321052,Virginia Highland
+103321058,Downtown
+103321060,Midtown
+103321080,Ridgedale Park
+103321134,Piedmont Heights
+103321140,Glenrose Heights
+103321163,Lakewood
+103321204,English Avenue
+103321237,Downtown
+103321244,Brookhaven
+103321250,Atlanta University Center
+103321264,Atlantic Station
+103321302,Princeton Lakes
+103321315,Greenbriar
+103321333,Berkeley Park
+103321337,Lakewood Heights
+103321366,Carroll Heights
+103321412,Castleberry Hill
+103321429,Glenrose Heights
+103321448,Dixie Hills
+103321460,Westview
+103321469,West End
+103321478,Old Fourth Ward
+103321484,Virginia Highland
+103321488,Campbellton Road
+103321493,Downtown
+103321494,Midwest Cascade
+103321530,Colonial Homes
+103321563,Florida Heights
+103321568,Old Fourth Ward
+103321579,Buckhead Heights
+103321580,Ansley Park
+103321587,Morningside/Lenox Park
+103321632,East Atlanta
+103321638,Hunter Hills
+103321640,Pomona Park
+103321672,Downtown
+103321712,West End
+103321739,Sweet Auburn
+103321792,Brookwood Hills
+103321822,Mechanicsville
+103321837,East Atlanta
+103312212,Peachtree Heights West
+103340779,Downtown
+103301870,Vine City
+103301944,Mechanicsville
+103312234,Center Hill
+103320852,Ridgewood Heights
+103310090,West End
+103310148,Princeton Lakes
+103310344,Midtown
+103310403,Midtown
+103310445,Sylvan Hills
+103310473,Adair Park
+103310520,Cascade Green
+103310542,Harland Terrace
+103310560,Oakland City
+103310575,Arlington Estates
+103310612,Lakewood Heights
+103310649,Lenox
+103310669,Westview
+103310686,Ormewood Park
+103310710,Marietta Street Artery
+103310765,North Buckhead
+103310791,Grove Park
+103310804,Inman Park
+103310829,Adamsville
+103310907,Midtown
+103310931,Dixie Hills
+103310936,Lenox
+103310946,Kirkwood
+103310962,Lakewood Heights
+103310971,Benteen Park
+103311001,Vine City
+103311017,Candler Park
+103311019,Lakewood Heights
+103311036,Perkerson
+103311073,Thomasville Heights
+103311097,Mays
+103311099,Florida Heights
+103311105,Bolton
+103311117,West End
+103311176,Knight Park/Howell Station
+103311216,Downtown
+103311219,Scotts Crossing
+103311224,Sherwood Forest
+103311235,English Park
+103311238,Castleberry Hill
+103311245,Ben Hill Terrace
+103311252,Downtown
+103311256,Atlantic Station
+103311278,Grant Park
+103311327,Custer/McDonough/Guice
+103311379,Poncey-Highland
+103311402,Harland Terrace
+103311433,Sylvan Hills
+103311445,Scotts Crossing
+103311460,Grove Park
+103311462,Atlantic Station
+103311507,Atlantic Station
+103311510,Custer/McDonough/Guice
+103311529,Adamsville
+103311569,Venetian Hills
+103311586,Rosedale Heights
+103311590,Custer/McDonough/Guice
+103311598,Pine Hills
+103311635,Sweet Auburn
+103311658,Lenox
+103311674,Lakewood
+103311703,Adair Park
+103311747,Midtown
+103311778,Mechanicsville
+103311789,Atlantic Station
+103311794,Castleberry Hill
+103311821,Glenrose Heights
+103311860,North Buckhead
+103311883,Downtown
+103311887,West End
+103311896,Lenox
+103311897,Downtown
+103311932,Grove Park
+103311957,Venetian Hills
+103311958,Atlantic Station
+103311999,Lakewood
+103312027,West End
+103312029,Old Fourth Ward
+103312060,Center Hill
+103312084,Dixie Hills
+103312102,Kirkwood
+103312119,High Point
+103312121,Lindridge/Martin Manor
+103312169,South River Gardens
+103300757,Polar Rock
+103300781,West End
+103300809,Scotts Crossing
+103300816,Lindbergh/Morosgo
+103300831,Downtown
+103300833,Vine City
+103300904,Southwest
+103300914,Vine City
+103300934,Castleberry Hill
+103300970,Paces
+103300988,Lindbergh/Morosgo
+103301003,West End
+103301009,Greenbriar
+103301026,South River Gardens
+103301031,Lindbergh/Morosgo
+103301066,Atlantic Station
+103301069,East Atlanta
+103301088,Lindbergh/Morosgo
+103301091,English Park
+103301192,Lindbergh/Morosgo
+103301195,Peachtree Heights West
+103301219,Cascade Avenue/Road
+103301221,West End
+103301228,Lindbergh/Morosgo
+103301232,Leila Valley
+103301243,Oakland City
+103301300,Adamsville
+103301347,Paces
+103301381,The Villages at Castleberry H
+103301391,West End
+103301405,Summerhill
+103301419,Venetian Hills
+103301427,Glenrose Heights
+103301483,Collier Heights
+103301510,Midtown
+103301516,Venetian Hills
+103301549,Kirkwood
+103301602,Atlantic Station
+103301624,Greenbriar
+103301685,Berkeley Park
+103301697,Downtown
+103301700,Lindbergh/Morosgo
+103301729,Reynoldstown
+103301750,Atlantic Station
+103301775,Midtown
+103301789,Lindbergh/Morosgo
+103301846,Reynoldstown
+103301912,Greenbriar
+103301957,Downtown
+103301979,Inman Park
+103301983,Lenox
+103302004,Downtown
+103302016,Oakland City
+103302072,Midtown
+103301873,Cascade Avenue/Road
+103300512,Kirkwood
+103300527,Venetian Hills
+103300554,Westview
+103300614,Lakewood Heights
+103300620,The Villages at Castleberry H
+103300632,Lake Claire
+103300690,Pine Hills
+103300696,Downtown
+103300704,Old Fourth Ward
+103300723,Cascade Avenue/Road
+103241462,Poncey-Highland
+103300004,Dixie Hills
+103300126,Adair Park
+103300136,Pine Hills
+103300204,Midtown
+103300207,Audobon Forest West
+103300261,Loring Heights
+103300313,Old Fourth Ward
+103300318,Thomasville Heights
+103300346,Lindbergh/Morosgo
+103300475,Edgewood
+103300511,Downtown
+103282343,Pittsburgh
+103290018,Downtown
+103290021,Cascade Avenue/Road
+103290028,Vine City
+103290204,West End
+103290252,Glenrose Heights
+103290259,Custer/McDonough/Guice
+103290390,The Villages at Carver
+103290457,Pittsburgh
+103290479,South Tuxedo Park
+103290481,Buckhead Forest
+103290488,Sylvan Hills
+103290514,Dixie Hills
+103290531,Atlanta University Center
+103290548,Dixie Hills
+103290601,Lindridge/Martin Manor
+103290626,Glenrose Heights
+103290630,Buckhead Forest
+103290637,Midwest Cascade
+103290642,Southwest
+103290644,Glenrose Heights
+103290666,Adair Park
+103290674,Midtown
+103290699,Castleberry Hill
+103290734,Old Fourth Ward
+103290758,Downtown
+103290767,Garden Hills
+103290774,Bankhead
+103290826,Chalet Woods
+103290879,Peachtree Hills
+103290890,Lindridge/Martin Manor
+103290919,Old Fourth Ward
+103290950,Downtown
+103290993,Midtown
+103291027,Oakland City
+103291031,Brookview Heights
+103291069,Bolton
+103291096,English Avenue
+103291126,Campbellton Road
+103291129,Bankhead
+103291171,Downtown
+103291195,Sylvan Hills
+103291224,Midtown
+103291230,Campbellton Road
+103291336,Atlantic Station
+103291354,Lindbergh/Morosgo
+103291375,Campbellton Road
+103291407,Westwood Terrace
+103291428,English Park
+103291434,Downtown
+103291442,Downtown
+103291443,Kirkwood
+103291447,Ashview Heights
+103291448,Elmco Estates
+103291508,Adair Park
+103291513,Ormewood Park
+103291522,Ben Hill Acres
+103291550,Almond Park
+103291556,Glenrose Heights
+103291615,Midtown
+103291639,Campbellton Road
+103291661,Oakland City
+103291684,Southwest
+103280119,Brookwood Hills
+103280181,Cascade Heights
+103280208,Brookwood Hills
+103280247,Capitol Gateway
+103280353,Greenbriar
+103280413,Adamsville
+103280481,Harland Terrace
+103280494,Harland Terrace
+103280499,Paces
+103280554,Summerhill
+103280581,Lakewood Heights
+103280627,Capitol View
+103280635,Home Park
+103280654,Atkins Park
+103280680,Bolton
+103280690,Mechanicsville
+103280696,South River Gardens
+103280720,Pittsburgh
+103280753,Carroll Heights
+103280812,Perkerson
+103280860,Downtown
+103280867,Midtown
+103280871,East Atlanta
+103280883,Peoplestown
+103280946,Atlanta Industrial Park
+103280960,Campbellton Road
+103280972,Cascade Avenue/Road
+103281001,Washington Park
+103281014,Downtown
+103281021,Berkeley Park
+103281029,Sylvan Hills
+103281065,Oakland City
+103281091,Loring Heights
+103281101,Rockdale
+103281169,Piedmont Heights
+103281178,Home Park
+103281208,West End
+103281223,Carey Park
+103281269,Piedmont Heights
+103281273,Grant Park
+103281282,Atlantic Station
+103281291,Old Fourth Ward
+103281314,Beecher Hills
+103281319,Poncey-Highland
+103281337,Hunter Hills
+103281346,Old Fourth Ward
+103281348,Grant Park
+103281377,Garden Hills
+103281383,North Buckhead
+103281386,English Park
+103281413,Downtown
+103281427,Atlanta University Center
+103281432,Berkeley Park
+103281433,Sylvan Hills
+103281447,Whitewater Creek
+103281467,Poncey-Highland
+103281489,Greenbriar
+103281499,Capitol Gateway
+103281517,Peoplestown
+103281520,Castleberry Hill
+103281528,Midtown
+103281555,Polar Rock
+103281628,West End
+103281701,Lenox
+103281714,Lenox
+103281739,Adair Park
+103281747,Lakewood Heights
+103281767,Reynoldstown
+103281817,Carroll Heights
+103281835,Mechanicsville
+103281851,Vine City
+103281884,Lakewood
+103281894,Capitol View Manor
+103281900,South Atlanta
+103281915,Old Fourth Ward
+103281920,Atlanta University Center
+103281943,Pittsburgh
+103281960,Pine Hills
+103281986,Pittsburgh
+103281993,Mozley Park
+103282059,Midtown
+103282103,Princeton Lakes
+103282107,Fairway Acres
+103282109,Midtown
+103282119,Adamsville
+103282139,West End
+103282144,Oakland City
+103282145,Fairway Acres
+103282156,East Atlanta
+103282175,Blandtown
+103282196,English Avenue
+103282211,Lenox
+103282226,Old Fourth Ward
+103282228,Lenox
+103282274,Downtown
+103282275,Castleberry Hill
+103282307,Atlantic Station
+103282324,Grove Park
+103282325,Poncey-Highland
+103282347,Downtown
+103282387,Old Fourth Ward
+103282391,Cascade Avenue/Road
+103272152,Greenbriar
+103250148,Downtown
+103271212,Edgewood
+103271224,Old Fourth Ward
+103271242,Mozley Park
+103271244,Peachtree Heights West
+103271247,Greenbriar
+103271266,Old Fourth Ward
+103271298,Atlantic Station
+103271299,Princeton Lakes
+103271310,Center Hill
+103271325,Downtown
+103271335,Peachtree Heights West
+103271338,Capitol View
+103271356,East Atlanta
+103271389,Berkeley Park
+103271397,Marietta Street Artery
+103271442,Brookhaven
+103271454,Midtown
+103271473,Hunter Hills
+103271569,Downtown
+103271595,Adamsville
+103271612,Lenox
+103271628,Downtown
+103271775,Ben Hill
+103271795,Center Hill
+103271874,Atlantic Station
+103271876,Campbellton Road
+103271926,East Atlanta
+103271933,Greenbriar
+103271965,Capitol View Manor
+103271976,Westhaven
+103272017,Ormewood Park
+103272023,Buckhead Forest
+103272025,Atlantic Station
+103272034,Grant Park
+103272043,Berkeley Park
+103272057,Bankhead
+103272072,Brookwood
+103272080,Midtown
+103272115,English Park
+103272129,Southwest
+103272142,Southwest
+103272148,Atlanta University Center
+103261220,The Villages at Carver
+103262297,Lindbergh/Morosgo
+103270010,Sylvan Hills
+103270036,Grant Park
+103270066,Greenbriar
+103270090,Grant Park
+103270094,Center Hill
+103270098,Grove Park
+103270138,Grove Park
+103270150,Grove Park
+103270173,Grove Park
+103270276,Campbellton Road
+103270318,Midtown
+103270328,Downtown
+103270391,Midtown
+103270399,Colonial Homes
+103270400,South Atlanta
+103270408,Piedmont Heights
+103270418,Capitol View Manor
+103270420,Sylvan Hills
+103270424,Deerwood
+103270476,English Avenue
+103270488,East Chastain Park
+103270503,Sweet Auburn
+103270527,Midtown
+103270543,Southwest
+103270565,Midtown
+103270588,Kirkwood
+103270655,Downtown
+103270690,Old Fourth Ward
+103270695,Downtown
+103270697,Castleberry Hill
+103270718,Pittsburgh
+103270729,Downtown
+103270742,Blandtown
+103270775,Downtown
+103270784,Kirkwood
+103270795,Ben Hill Pines
+103270800,English Park
+103270806,Druid Hills
+103270825,Mechanicsville
+103270852,Midtown
+103270858,Westview
+103270867,Old Fourth Ward
+103270891,Westview
+103270912,Mechanicsville
+103270917,Lindridge/Martin Manor
+103270932,Fairburn Mays
+103270933,Oakland City
+103270937,Blandtown
+103270948,Boulder Park
+103270970,Oakland City
+103270979,West End
+103270982,Mechanicsville
+103270985,Peoplestown
+103270988,Sylvan Hills
+103270989,Carroll Heights
+103271004,Edgewood
+103271006,Princeton Lakes
+103271019,Florida Heights
+103271022,Campbellton Road
+103271040,Browns Mill Park
+103271053,Dixie Hills
+103271063,Lindbergh/Morosgo
+103271067,Carey Park
+103271075,Downtown
+103271098,Atlantic Station
+103271107,English Avenue
+103271111,Garden Hills
+103271119,Marietta Street Artery
+103271120,Mozley Park
+103271125,Harland Terrace
+103271161,North Buckhead
+103271182,Home Park
+103272192,Grant Park
+103272215,Mechanicsville
+103272220,Kirkwood
+103272248,Old Fourth Ward
+103272249,Glenrose Heights
+103272259,Lakewood Heights
+103272283,Princeton Lakes
+103272286,Adair Park
+103272287,Greenbriar
+103272354,Castleberry Hill
+103272359,Greenbriar
+103262216,Vine City
+103261118,Ashview Heights
+103301880,Underwood Hills
+102371083,Lakewood Heights
+1.03262E+11,Virginia Highland
+103622040,Lindbergh/Morosgo
+103261121,Buckhead Village
+103261150,Wisteria Gardens
+103261159,Oakland
+103261174,Perkerson
+103261181,Midtown
+103261195,The Villages at Carver
+103261210,Cascade Avenue/Road
+103242392,Hills Park
+103251945,Adams Park
+103251947,Browns Mill Park
+103262218,Bankhead
+103262222,Virginia Highland
+103262229,Home Park
+103262245,Grove Park
+103262273,Downtown
+103262275,Downtown
+103261234,Custer/McDonough/Guice
+103261273,Ashview Heights
+103261327,Knight Park/Howell Station
+103261345,Atlanta University Center
+103261348,Midtown
+103261454,Home Park
+103261458,Pittsburgh
+103261490,Mt. Paran/Northside
+103261526,Florida Heights
+103261527,Underwood Hills
+103261586,Center Hill
+103261595,South Atlanta
+103261677,East Atlanta
+103261680,Sylvan Hills
+103261762,Perkerson
+103261796,Center Hill
+103261802,Midtown
+103261817,Mechanicsville
+103261823,Fairburn Mays
+103261895,Greenbriar
+103261904,Fairburn Heights
+103261924,Campbellton Road
+103261959,West End
+103261977,Betmar LaVilla
+103261989,Downtown
+103261991,West End
+103262007,Venetian Hills
+103262014,Berkeley Park
+103262032,Campbellton Road
+103262045,Lakewood Heights
+103262063,Atlanta University Center
+103262078,Princeton Lakes
+103262093,Berkeley Park
+103262145,Downtown
+103262153,Thomasville Heights
+103262155,Grove Park
+103262165,Midtown
+103262174,Buckhead Village
+103262188,Downtown
+103262192,Capitol View
+103260123,Inman Park
+103260256,Grove Park
+103260300,Browns Mill Park
+103260326,Sylvan Hills
+103260375,Lakewood Heights
+103260385,Lakewood Heights
+103260466,Wilson Mill Meadows
+103260476,Greenbriar
+103260503,Garden Hills
+103260518,English Avenue
+103260595,Lindridge/Martin Manor
+103260599,Dixie Hills
+103260616,West Highlands
+103260617,Downtown
+103260649,Lincoln Homes
+103260660,Campbellton Road
+103260665,Wildwood (NPU-C)
+103260692,Virginia Highland
+103260748,English Park
+103260754,North Buckhead
+103260797,Midtown
+103260799,Ben Hill Pines
+103260801,Chosewood Park
+103260829,Vine City
+103260830,English Avenue
+103260836,Berkeley Park
+103260842,Downtown
+103260856,Pittsburgh
+103260858,Campbellton Road
+103260893,Atlantic Station
+103260899,Thomasville Heights
+103260904,Loring Heights
+103260918,Vine City
+103260919,Greenbriar
+103260980,The Villages at Carver
+103261015,Sylvan Hills
+103261030,Old Fourth Ward
+103261054,Downtown
+103261093,Midtown
+103261103,North Buckhead
+103261105,Collier Heights
+103261112,Campbellton Road
+103231415,Thomasville Heights
+103232332,North Buckhead
+103241074,Ormewood Park
+103361722,Campbellton Road
+103242030,Lindbergh/Morosgo
+103242279,Edgewood
+103250162,Midtown
+103250176,Westwood Terrace
+103250207,Midtown
+103250279,Southwest
+103250315,Loring Heights
+103250341,Midtown
+103250391,Old Gordon
+103250393,Hammond Park
+103250406,Atlantic Station
+103250482,South Atlanta
+103250494,Carroll Heights
+103250573,Heritage Valley
+103250610,Southwest
+103250636,Peoplestown
+103250677,Mt. Gilead Woods
+103250704,West Manor
+103250722,Piedmont Heights
+103250731,Castleberry Hill
+103250735,Grove Park
+103250746,Ashview Heights
+103250782,Greenbriar
+103250785,Mechanicsville
+103250793,Midtown
+103250821,Downtown
+103250858,Harland Terrace
+103250860,Pine Hills
+103250870,Pine Hills
+103250873,Southwest
+103250887,Glenrose Heights
+103250889,Center Hill
+103250900,Wyngate
+103250924,Kirkwood
+103250942,Piedmont Heights
+103250974,Kirkwood
+103250982,Pittsburgh
+103251007,Ashview Heights
+103251037,Center Hill
+103251066,Reynoldstown
+103251079,Grove Park
+103251089,Oakland City
+103251100,Arlington Estates
+103251133,Buckhead Forest
+103251136,Greenbriar
+103251158,West End
+103251165,Midtown
+103251199,Pittsburgh
+103251208,Old Fourth Ward
+103251214,Berkeley Park
+103251220,Westhaven
+103251242,Midtown
+103251258,Ormewood Park
+103251259,Fairburn Mays
+103251276,Downtown
+103251282,Old Fourth Ward
+103251304,Custer/McDonough/Guice
+103251308,Edgewood
+103251355,Buckhead Village
+103251375,Downtown
+103251414,Capitol View Manor
+103251475,West End
+103251478,North Buckhead
+103251527,Ashview Heights
+103251581,Piedmont Heights
+103251633,Betmar LaVilla
+103251640,Harland Terrace
+103251676,West End
+103251696,Sylvan Hills
+103251709,Mechanicsville
+103251730,East Atlanta
+103251735,Thomasville Heights
+103251750,Perkerson
+103251760,Washington Park
+103251788,Virginia Highland
+103251895,Lakewood Heights
+103251942,Inman Park
+103251955,Perkerson
+103251963,Ashview Heights
+103250064,Oakland City
+103250120,Pittsburgh
+103242420,Inman Park
+103242292,Ormewood Park
+103242337,Knight Park/Howell Station
+103242342,West Lake
+103242348,Old Fourth Ward
+103241329,Morningside/Lenox Park
+103241333,Downtown
+103241348,Pine Hills
+103241398,Home Park
+103241406,The Villages at Castleberry H
+103242035,Randall Mill
+103242071,Thomasville Heights
+103242108,Thomasville Heights
+103242115,East Chastain Park
+103242118,Atlantic Station
+103242153,Pine Hills
+103242157,Center Hill
+103242163,Venetian Hills
+103242208,Bankhead
+103242211,Lenox
+103241466,Perkerson
+103241523,North Buckhead
+103241535,Channing Valley
+103241538,Campbellton Road
+103241549,The Villages at Castleberry H
+103241569,Ormewood Park
+103241600,Downtown
+103241642,Mechanicsville
+103241667,Pittsburgh
+103241761,West End
+103241803,Ashview Heights
+103241804,Lenox
+103241842,Vine City
+103241890,West End
+103241914,Dixie Hills
+103241923,Cabbagetown
+103241980,Southwest
+103241993,Florida Heights
+103242002,Cascade Heights
+103241075,Pittsburgh
+103241085,Old Fourth Ward
+103241134,Mechanicsville
+103241162,Glenrose Heights
+103241169,Virginia Highland
+103241175,Vine City
+103241183,Inman Park
+103241199,Greenbriar
+103241296,Peachtree Park
+103241306,West End
+103241311,Edgewood
+103241320,Mozley Park
+103232578,Old Fourth Ward
+103232742,Perkerson
+103240018,Old Fourth Ward
+103240030,Venetian Hills
+103240095,Peachtree Hills
+103240316,Atlantic Station
+103240355,Lindridge/Martin Manor
+103240491,Pittsburgh
+103240538,Cascade Heights
+103240588,Capitol View
+103240596,English Avenue
+103240607,Southwest
+103240623,Collier Heights
+103240693,Peoplestown
+103240702,South Tuxedo Park
+103240743,Grant Park
+103240794,Glenrose Heights
+103240825,English Avenue
+103240833,Fairburn Mays
+103240843,Lakewood
+103240848,Home Park
+103240874,Downtown
+103240903,West End
+103240909,Ormewood Park
+103240924,Southwest
+103240942,Center Hill
+103240974,Lenox
+103241026,Glenrose Heights
+103241032,Garden Hills
+103241038,Underwood Hills
+103241062,Almond Park
+103241063,Adamsville
+103232584,North Buckhead
+103232618,Cascade Green
+103232681,Channing Valley
+103232335,Peachtree Park
+103232370,Chosewood Park
+103232391,Ashley Courts
+103232399,Virginia Highland
+103232423,East Lake
+103232434,Downtown
+103232463,Mechanicsville
+103232464,Westview
+103232484,Campbellton Road
+103232504,Grove Park
+103232507,Downtown
+103232536,Grove Park
+103232576,Marietta Street Artery
+103231444,Kirkwood
+103231456,Campbellton Road
+103231476,Downtown
+103231540,Ashley Courts
+103231555,Grant Park
+103231560,Pittsburgh
+103231565,Grove Park
+103231585,Ridgedale Park
+103231619,East Atlanta
+103231647,Campbellton Road
+103231688,Sweet Auburn
+103231692,Westwood Terrace
+103231710,Lakewood Heights
+103231782,South Atlanta
+103231788,Peachtree Park
+103231801,Harland Terrace
+103231819,West End
+103231852,English Avenue
+103231854,Mechanicsville
+103231875,Cabbagetown
+103231881,Pittsburgh
+103231885,Edgewood
+103231891,Midtown
+103231976,Grant Park
+103232063,Ashview Heights
+103232081,Collier Heights
+103232093,Midtown
+103232094,Cascade Avenue/Road
+103232101,North Buckhead
+103232157,Almond Park
+103232164,Capitol View
+103232168,Peoplestown
+103232171,Capitol View
+103232174,Pittsburgh
+103232190,Lenox
+103232193,Sylvan Hills
+103232197,East Atlanta
+103232208,Carver Hills
+103232213,Lenox
+103232224,Old Fourth Ward
+103232263,Westwood Terrace
+103232273,Atlantic Station
+103232285,Lakewood Heights
+103230051,Inman Park
+103230075,Lakewood Heights
+103230133,Mechanicsville
+103230199,North Buckhead
+103230213,Grove Park
+103230448,Garden Hills
+103230526,Custer/McDonough/Guice
+103230532,East Atlanta
+103230546,West End
+103230617,Pittsburgh
+103230641,Atlanta Industrial Park
+103230747,Sweet Auburn
+103230759,Campbellton Road
+103230795,West End
+103230799,Carey Park
+103230804,Mechanicsville
+103230812,Carroll Heights
+103230815,Grant Park
+103230862,Peachtree Heights West
+103230879,Garden Hills
+103230881,Center Hill
+103230882,Virginia Highland
+103230908,West Lake
+103230920,Monroe Heights
+103230946,Virginia Highland
+103230957,South Atlanta
+103231000,Inman Park
+103231001,Inman Park
+103231007,Summerhill
+103231027,Colonial Homes
+103231072,Sylvan Hills
+103231121,The Villages at Carver
+103231129,Buckhead Forest
+103231163,Glenrose Heights
+103231181,Perkerson
+103231194,Wilson Mill Meadows
+103231206,The Villages at Castleberry H
+103231224,Ridgewood Heights
+103231227,Vine City
+103231242,West End
+103231258,Midtown
+103231296,Home Park
+103231300,Venetian Hills
+103231321,Kirkwood
+103231323,Lindbergh/Morosgo
+103231335,West Paces Ferry/Northside
+103231338,Grant Park
+103231351,Edgewood
+103231354,East Atlanta
+103231381,Old Fourth Ward
+103231409,Lakewood Heights
+103221034,Downtown
+103222492,Florida Heights
+103222555,Lenox
+103222557,Sylvan Hills
+103222560,Inman Park
+103222568,The Villages at Carver
+103222509,West Lake
+103222536,Castleberry Hill
+103212427,Kirkwood
+103220026,Kirkwood
+103220107,Kirkwood
+103220168,East Atlanta
+103220389,West Lake
+103220463,Berkeley Park
+103220471,Custer/McDonough/Guice
+103220490,Mt. Gilead Woods
+103220493,Marietta Street Artery
+103220542,South River Gardens
+103220598,Florida Heights
+103220611,Collier Heights
+103220623,Pine Hills
+103220664,Peoplestown
+103220731,Old Fourth Ward
+103220764,The Villages at East Lake
+103220768,Downtown
+103220776,Cascade Heights
+103220793,Bolton
+103220891,Center Hill
+103220923,Westview
+103220930,Downtown
+103220950,Ridgecrest Forest
+103221013,West End
+103221018,South Tuxedo Park
+103221020,East Atlanta
+103221031,Grant Park
+103221042,Hammond Park
+103221105,South Atlanta
+103221111,Buckhead Village
+103221123,Lakewood Heights
+103221134,Garden Hills
+103221152,East Atlanta
+103221171,Dixie Hills
+103221212,Sylvan Hills
+103221224,Atlanta University Center
+103221242,Oakland City
+103221255,Vine City
+103221310,Home Park
+103221428,Summerhill
+103221473,Lenox
+103221511,Atlanta University Center
+103221562,Cascade Avenue/Road
+103221570,Downtown
+103221583,Peachtree Hills
+103221593,Joyland
+103221604,East Atlanta
+103221875,Greenbriar
+103221901,Almond Park
+103221922,Princeton Lakes
+103221946,Sylvan Hills
+103221969,Cascade Avenue/Road
+103221974,Venetian Hills
+103221979,Berkeley Park
+103221982,South River Gardens
+103222067,Scotts Crossing
+103222125,Pomona Park
+103222128,Southwest
+103222172,Harris Chiles
+103222176,Perkerson
+103222221,Benteen Park
+103222232,Pine Hills
+103222237,Kirkwood
+103222259,South Atlanta
+103222273,Harland Terrace
+103222319,English Avenue
+103222347,Mechanicsville
+103222352,Lenox
+103222367,Old Fourth Ward
+103222400,Sweet Auburn
+103222437,Greenbriar
+103222444,Downtown
+103222446,Downtown
+103222464,Adams Park
+103211547,North Buckhead
+103201469,English Avenue
+103131075,West End
+1.0322E+11,Oakland City
+103201765,Capitol View Manor
+103200944,Lindridge/Martin Manor
+103211631,Midtown
+103211642,Cascade Avenue/Road
+103211657,Lakewood Heights
+103211669,Grove Park
+103211674,Grant Park
+103211705,Browns Mill Park
+103211709,Bolton
+103211745,Morningside/Lenox Park
+103211764,Atlanta University Center
+103211798,Pittsburgh
+103211804,Wyngate
+103211815,Reynoldstown
+103211833,Lenox
+103211835,Downtown
+103211958,Custer/McDonough/Guice
+103211969,Benteen Park
+103211997,Brentwood
+103212038,Lenox
+103212042,Downtown
+103212058,Kirkwood
+103212065,Polar Rock
+103212066,Atlanta University Center
+103212126,Cascade Avenue/Road
+103212131,Inman Park
+103212161,Grove Park
+103212164,East Atlanta
+103212172,Virginia Highland
+103212207,Downtown
+103212234,East Atlanta
+103212259,Midtown
+103212265,Ormewood Park
+103212283,Poncey-Highland
+103212285,Midtown
+103212297,Midtown
+103212304,Lindridge/Martin Manor
+103212313,Grove Park
+103212320,Capitol Gateway
+103212322,Old Fourth Ward
+103212347,Thomasville Heights
+103212352,Midwest Cascade
+103212378,Atlantic Station
+103212396,Downtown
+103212426,Morningside/Lenox Park
+103210034,Kirkwood
+103210085,Ashview Heights
+103210106,Grove Park
+103210118,The Villages at Castleberry H
+103210139,Reynoldstown
+103210142,Betmar LaVilla
+103210152,Vine City
+103210204,Poncey-Highland
+103210266,Lakewood Heights
+103210272,Pittsburgh
+103210308,Castleberry Hill
+103210315,Downtown
+103210375,Old Fourth Ward
+103210379,Baker Hills
+103210382,Mozley Park
+103210445,Lindridge/Martin Manor
+103210487,Chosewood Park
+103210492,Chastain Park
+103210516,East Atlanta
+103210533,South Atlanta
+103210562,Heritage Valley
+103210576,Benteen Park
+103210610,East Lake
+103210614,Grant Park
+103210713,Ridgewood Heights
+103210785,Sylvan Hills
+103210797,Lindridge/Martin Manor
+103210812,Piedmont Heights
+103210817,Chosewood Park
+103210849,Lindbergh/Morosgo
+103210858,Fairburn Mays
+103210885,Adair Park
+103210902,Old Fourth Ward
+103210909,South River Gardens
+103210978,Downtown
+103210997,Center Hill
+103211015,Lindridge/Martin Manor
+103211036,Summerhill
+103211060,Harland Terrace
+103211086,Adair Park
+103211121,Adair Park
+103211144,Center Hill
+103211164,Campbellton Road
+103211205,Downtown
+103211211,Westview
+103211226,Perkerson
+103211229,Sweet Auburn
+103211282,Downtown
+103211324,Mozley Park
+103211333,Blandtown
+103211342,Mechanicsville
+103211347,Collier Heights
+103211380,Campbellton Road
+103211391,English Park
+103211392,Elmco Estates
+103211403,Browns Mill Park
+103211452,Bankhead
+103211534,Marietta Street Artery
+103211545,Edgewood
+103212443,Midtown
+103212456,Lindridge/Martin Manor
+103212544,Candler Park
+103212561,Midtown
+103212562,Edgewood
+103212571,Downtown
+103212578,Capitol View Manor
+103212586,Adair Park
+103212598,Poncey-Highland
+103212599,Ardmore
+103212606,Lakewood Heights
+103212614,Kirkwood
+103212675,Peoplestown
+103212692,Kings Forest
+103200945,Collier Heights
+103200960,Garden Hills
+103200962,Custer/McDonough/Guice
+103200963,East Atlanta
+103200971,Loring Heights
+103200989,Piedmont Heights
+103201004,Underwood Hills
+103201007,Loring Heights
+103201011,Edgewood
+103201025,Mechanicsville
+103201030,Downtown
+103201110,Monroe Heights
+103201119,Cabbagetown
+103201132,Old Fourth Ward
+103201166,Downtown
+103201186,Hammond Park
+103201188,Pine Hills
+103201204,Kirkwood
+103201213,Piedmont Heights
+103201220,Riverside
+103201230,Old Fourth Ward
+103201251,Southwest
+103201263,Grant Park
+103201278,Buckhead Forest
+103201291,Bankhead
+103201302,Adamsville
+103201310,Perkerson
+103201337,Berkeley Park
+103201395,West End
+103201420,South River Gardens
+103201422,Home Park
+103201427,Glenrose Heights
+103201429,Dixie Hills
+103201437,Southwest
+103201447,Downtown
+103201452,Downtown
+103201779,Buckhead Forest
+103201794,Custer/McDonough/Guice
+103201847,Fairburn Mays
+103201887,East Lake
+103201908,Marietta Street Artery
+103201909,Pittsburgh
+103201930,Downtown
+103201995,Berkeley Park
+103202023,West Lake
+103202027,West End
+103202044,Downtown
+103202069,Greenbriar
+103202075,Downtown
+103202088,West End
+103202096,Sylvan Hills
+103202100,Midtown
+103202101,Downtown
+103202192,Westview
+103202201,Home Park
+103202208,Collier Heights
+103202212,Custer/McDonough/Guice
+103202225,Betmar LaVilla
+103202243,Old Fourth Ward
+103202250,West Highlands
+103202256,Hunter Hills
+103202258,Marietta Street Artery
+103202297,Lenox
+103202321,Midtown
+103202336,Arlington Estates
+103202351,Lenox
+103202368,Inman Park
+103202377,Castleberry Hill
+103202391,Poncey-Highland
+103202400,Midtown
+103202403,Sylvan Hills
+103202423,Center Hill
+103201476,South Atlanta
+103201494,Vine City
+103201500,Hammond Park
+103201528,Grove Park
+103201530,Ashview Heights
+103201534,Downtown
+103201551,Bolton Hills
+103201563,Downtown
+103201629,Oakland City
+103201635,Capitol View
+103201645,Westhaven
+103201661,Piedmont Heights
+103201679,Morningside/Lenox Park
+103201687,Downtown
+103201703,Inman Park
+103201716,Brookwood
+103201739,Adams Park
+103200006,Custer/McDonough/Guice
+103200032,Old Fourth Ward
+103200125,North Buckhead
+103200136,Fairburn Mays
+103200279,Virginia Highland
+103200282,Midtown
+103200335,Rosedale Heights
+103200392,East Atlanta
+103200420,Campbellton Road
+103200474,Old Fourth Ward
+103200506,Loring Heights
+103200579,West Paces Ferry/Northside
+103200774,Leila Valley
+103200780,Downtown
+103200792,Hammond Park
+103200793,East Atlanta
+103200795,Bankhead
+103200824,Chastain Park
+103200831,Campbellton Road
+103200842,Collier Heights
+103200865,Westview
+102742538,Castleberry Hill
+103131490,Atkins Park
+103120558,Inman Park
+103191238,Midtown
+103191247,East Atlanta
+103191263,Greenbriar
+103191266,Atlantic Station
+103191274,North Buckhead
+103191293,Oakland City
+103191310,Midtown
+103191330,Castleberry Hill
+103191343,Pittsburgh
+103191375,Pittsburgh
+103191479,Grant Park
+103191495,Hammond Park
+103191508,Midtown
+103191516,Campbellton Road
+103191523,Grant Park
+103191553,Cascade Green
+103191554,West End
+103191566,Edgewood
+103191567,Downtown
+103191568,Pittsburgh
+103191572,North Buckhead
+103191609,Collier Heights
+103191611,Mechanicsville
+103191626,Westview
+103191632,Edgewood
+103191642,South River Gardens
+103191708,Berkeley Park
+103191713,Downtown
+103191719,Berkeley Park
+103191730,Sylvan Hills
+103191734,Midtown
+103191761,Downtown
+103191777,Edgewood
+103191796,Castleberry Hill
+103191808,Buckhead Village
+103191847,North Buckhead
+103191854,Kirkwood
+103191856,Ardmore
+103191884,Berkeley Park
+103191917,Marietta Street Artery
+103191921,Buckhead Forest
+103191953,Buckhead Forest
+103191980,Westhaven
+103192011,Campbellton Road
+103192051,Mechanicsville
+103192054,Home Park
+103192076,Midtown
+103192103,Collier Heights
+103192116,West End
+103192118,Edgewood
+103192121,South River Gardens
+103192134,Midtown
+103192135,Poncey-Highland
+103192138,Midtown
+103192139,Kirkwood
+103192156,Collier Heights
+103192207,Greenbriar Village
+103190057,Midtown
+103190220,Edgewood
+103190242,Adams Park
+103190370,South River Gardens
+103190393,Inman Park
+103190402,Ben Hill
+103190419,Washington Park
+103190436,Old Fourth Ward
+103190440,Beecher Hills
+103190504,Sweet Auburn
+103190515,Scotts Crossing
+103190523,Grant Park
+103190527,Custer/McDonough/Guice
+103190548,Greenbriar
+103190552,Poncey-Highland
+103190575,Fairburn Mays
+103190608,Orchard Knob
+103190632,Grant Park
+103190645,Sylvan Hills
+103190653,Midtown
+103190657,Downtown
+103190669,Morningside/Lenox Park
+103190682,Brookview Heights
+103190740,Midtown
+103190747,Campbellton Road
+103190752,Chosewood Park
+103190809,Sweet Auburn
+103190822,Poncey-Highland
+103190829,The Villages at Carver
+103190854,Lindbergh/Morosgo
+103190863,Kings Forest
+103190871,Grove Park
+103190884,Chosewood Park
+103190918,Downtown
+103190933,Loring Heights
+103190942,East Lake
+103190955,Mozley Park
+103190986,Norwood Manor
+103191047,Lindbergh/Morosgo
+103191054,Downtown
+103191100,Kirkwood
+103191102,North Buckhead
+103191130,Ashview Heights
+103191135,South River Gardens
+103191168,Reynoldstown
+103191197,Harland Terrace
+103191228,Downtown
+103191235,Downtown
+102810559,Loring Heights
+103141039,Reynoldstown
+103141609,Thomasville Heights
+101641865,Vine City
+103161767,Fairburn Mays
+103151605,Hammond Park
+103171344,Mozley Park
+103172578,Home Park
+103180016,Home Park
+103180031,Adams Park
+103180073,Garden Hills
+103180078,Old Fourth Ward
+103180080,Inman Park
+103180133,Garden Hills
+103180162,Adair Park
+103180179,Sweet Auburn
+103180195,English Avenue
+103180208,Sylvan Hills
+103180211,Center Hill
+103180326,Inman Park
+103180366,Center Hill
+103180423,Collier Heights
+103180455,Lindbergh/Morosgo
+103180468,Downtown
+103180505,Reynoldstown
+103180519,Harland Terrace
+103180568,Downtown
+103180597,Bush Mountain
+103180600,Home Park
+103180602,Midtown
+103180614,Hammond Park
+103180637,Home Park
+103180661,Brookwood Hills
+103180695,Bolton
+103180737,Virginia Highland
+103180738,Old Fourth Ward
+103180748,Grove Park
+103180791,Cascade Avenue/Road
+103180797,Inman Park
+103180802,Summerhill
+103180816,Brookwood
+103180819,Old Fourth Ward
+103180833,Lenox
+103180857,Midtown
+103180859,Vine City
+103180862,Cabbagetown
+103180870,West Highlands
+103180907,Piedmont Heights
+103180909,Downtown
+103180919,Virginia Highland
+103180920,Greenbriar
+103180932,Old Fourth Ward
+103180945,West End
+103180947,Old Fourth Ward
+103180954,Joyland
+103180961,Ormewood Park
+103180992,Old Fourth Ward
+103181015,Virginia Highland
+103181043,Capitol Gateway
+103181047,Bankhead/Bolton
+103181052,Midtown
+103181061,Rosedale Heights
+103181072,Fort Valley
+103181084,Betmar LaVilla
+103181091,Collier Heights
+103181107,Lenox
+103181114,Home Park
+103181141,Betmar LaVilla
+103181160,Betmar LaVilla
+103181176,Old Fourth Ward
+103181185,Greenbriar
+103181186,Downtown
+103181193,Peoplestown
+103181195,South River Gardens
+103181200,Berkeley Park
+103181206,Buckhead Village
+103181221,Cabbagetown
+103181238,North Buckhead
+103181243,Castleberry Hill
+103181254,Downtown
+103181260,Edgewood
+103181279,Lindbergh/Morosgo
+103181281,Grove Park
+103181283,Grant Park
+103181300,Atlantic Station
+103181321,Old Fourth Ward
+103181327,Poncey-Highland
+103181353,Campbellton Road
+103181372,Center Hill
+103181373,Channing Valley
+103181399,Candler Park
+103181486,Collier Heights
+103181501,Midtown
+103181571,West Lake
+103181583,Oakland City
+103181594,Ashview Heights
+103181600,The Villages at Castleberry H
+103181608,Inman Park
+103181609,Ansley Park
+103181647,Buckhead Heights
+103181680,Grove Park
+103181759,Lindbergh/Morosgo
+103181767,Adair Park
+103181768,Mechanicsville
+103181774,Vine City
+103181815,Downtown
+103181822,Old Fourth Ward
+103181835,Lenox
+103181855,Berkeley Park
+103181866,East Atlanta
+103181928,Lakewood Heights
+103181958,Downtown
+103181969,Downtown
+103181982,Almond Park
+103181985,Castleberry Hill
+103181988,Vine City
+103171353,Ashview Heights
+103171392,Pittsburgh
+103171393,Home Park
+103171428,Campbellton Road
+103171457,Lakewood Heights
+103171462,Glenrose Heights
+103171503,Sylvan Hills
+103171527,Old Fourth Ward
+103171548,Old Fourth Ward
+103171616,Pittsburgh
+103171655,Berkeley Park
+103171728,Carey Park
+103171747,Pine Hills
+103171781,Buckhead Forest
+103171803,Peachtree Heights West
+103171806,West End
+103171877,Audobon Forest
+103171879,Sylvan Hills
+103171891,Inman Park
+103171926,Channing Valley
+103172004,Downtown
+103172022,Downtown
+103172040,Lenox
+103172046,Downtown
+103172083,Downtown
+103172158,Atlantic Station
+103172161,Downtown
+103172185,Brookwood Hills
+103172187,Lenox
+103172254,Fort Valley
+103172268,Reynoldstown
+103172272,Lindridge/Martin Manor
+103172275,Piedmont Heights
+103172304,Home Park
+103172307,Mechanicsville
+103172323,Downtown
+103172344,West End
+103172370,English Avenue
+103172375,Ormewood Park
+103172445,Downtown
+103172458,Adair Park
+103172461,Oakland City
+103172475,Buckhead Forest
+103172481,East Atlanta
+103172573,Westview
+103170015,Peoplestown
+103170131,Brookview Heights
+103170356,Midtown
+103170361,Midtown
+103170386,West End
+103170388,Midtown
+103170430,Westhaven
+103170472,Sylvan Hills
+103170542,Mechanicsville
+103170621,Downtown
+103170655,Peoplestown
+103170678,Browns Mill Park
+103170704,Vine City
+103170709,Thomasville Heights
+103170800,Ridgewood Heights
+103170831,South River Gardens
+103170848,Campbellton Road
+103170861,Kings Forest
+103170881,Lakewood Heights
+103170898,Berkeley Park
+103170916,Center Hill
+103170930,Mechanicsville
+103170959,Downtown
+103170960,Dixie Hills
+103171012,Downtown
+103171018,Capitol View
+103171033,Woodland Hills
+103171035,Ridgewood Heights
+103171037,Adamsville
+103171102,Grant Park
+103171122,Grove Park
+103171147,West End
+103171161,South River Gardens
+103171178,Bankhead/Bolton
+103171210,Ashview Heights
+103171230,Downtown
+103171239,Grove Park
+103171266,Greenbriar
+103171285,West End
+103171289,West End
+103171313,Downtown
+103171330,Baker Hills
+103171331,Sylvan Hills
+101431421,Hammond Park
+103161809,Piedmont Heights
+103161822,Old Fourth Ward
+103161831,Collier Heights
+103161848,Kirkwood
+103161853,Lenox
+103161878,Downtown
+103161899,West End
+103161940,Perkerson
+103161975,Rockdale
+103162028,Edgewood
+103162076,Rosedale Heights
+103162105,Woodland Hills
+103162119,Edgewood
+103162141,Old Fourth Ward
+103162157,Summerhill
+103162222,Atlanta University Center
+103162242,Downtown
+103162284,Tampa Park
+103162345,Blandtown
+103162346,East Atlanta
+103162356,Carey Park
+103162368,Lenox
+103162403,Virginia Highland
+103162429,Buckhead Forest
+103162452,Ansley Park
+103162504,Home Park
+103160008,Poncey-Highland
+103160019,Vine City
+103160024,Downtown
+103160032,Downtown
+103160044,Castleberry Hill
+103160048,Downtown
+103160049,Downtown
+103160090,Downtown
+103160173,Midtown
+103160214,Marietta Street Artery
+103160221,Buckhead Village
+103160322,Piedmont Heights
+103160428,Grove Park
+103160430,Buckhead Heights
+103160473,Harland Terrace
+103160500,Midtown
+103160548,West End
+103160639,Dixie Hills
+103160669,Glenrose Heights
+103160681,Ansley Park
+103160704,Virginia Highland
+103160741,Peachtree Battle Alliance
+103160746,North Buckhead
+103160762,Venetian Hills
+103160764,Peachtree Heights West
+103160777,Channing Valley
+103160812,Scotts Crossing
+103160843,Center Hill
+103160869,West End
+103160875,Edgewood
+103160895,North Buckhead
+103160903,Center Hill
+103160917,Sylvan Hills
+103160918,East Atlanta
+103160922,West End
+103160948,Edgewood
+103160990,Adamsville
+103160991,Grove Park
+103160993,Midtown
+103160998,Lakewood Heights
+103161036,Sweet Auburn
+103161037,Dixie Hills
+103161058,Ashview Heights
+103161070,Bush Mountain
+103161122,Rosedale Heights
+103161129,Lakewood Heights
+103161154,Perkerson
+103161158,Fairburn Tell
+103161161,Old Fourth Ward
+103161177,Pittsburgh
+103161204,Home Park
+103161237,Custer/McDonough/Guice
+103161244,Dixie Hills
+103161246,Home Park
+103161278,Vine City
+103161290,West End
+103161313,Old Fourth Ward
+103161331,Downtown
+103161371,West Highlands
+103161429,Mechanicsville
+103161507,The Villages at Castleberry H
+103161529,Midtown
+103161534,Sylvan Hills
+103161553,Westwood Terrace
+103161559,Marietta Street Artery
+103161582,Venetian Hills
+103161649,Carver Hills
+103161661,Downtown
+103161666,Campbellton Road
+103161694,East Atlanta
+103161716,Midtown
+103162512,Grove Park
+103162565,Downtown
+103162566,Glenrose Heights
+103162582,Westview
+103162628,Downtown
+103162671,Home Park
+103162712,Inman Park
+103111053,Edgewood
+103141305,Scotts Crossing
+103151662,South River Gardens
+103151697,Kirkwood
+103151746,Midtown
+103151761,Summerhill
+103151765,Edgewood
+103151836,Vine City
+103151840,Pittsburgh
+103151888,Atlantic Station
+103151900,Cascade Heights
+103151917,Mechanicsville
+103151921,East Atlanta
+103151951,Adamsville
+103152035,Pittsburgh
+103152048,Cascade Heights
+103152119,Sylvan Hills
+103152131,Inman Park
+103152139,Peoplestown
+103152173,Lindridge/Martin Manor
+103152190,Piedmont Heights
+103152206,Castleberry Hill
+103152213,Perkerson
+103152234,Castleberry Hill
+103152257,East Lake
+103152264,Pittsburgh
+103152380,Cabbagetown
+103152390,West End
+103152393,Atlantic Station
+103152418,Cascade Avenue/Road
+103152502,Vine City
+103152551,Buckhead Village
+103141380,Old Fourth Ward
+103142467,Sylvan Hills
+103150030,Almond Park
+103150174,Summerhill
+103150245,Midtown
+103150251,Downtown
+103150265,East Lake
+103150338,Mozley Park
+103150388,West Highlands
+103150408,Downtown
+103150467,Buckhead Forest
+103150495,Midtown
+103150505,Old Fourth Ward
+103150526,Peachtree Heights West
+103150537,English Avenue
+103150586,Midtown
+103150616,Old Fourth Ward
+103150617,Grant Park
+103150680,Hammond Park
+103150707,East Chastain Park
+103150734,Old Fourth Ward
+103150813,Cabbagetown
+103150814,Inman Park
+103150822,Mechanicsville
+103150828,Bolton
+103150838,Lincoln Homes
+103150864,Old Fourth Ward
+103150879,Pittsburgh
+103150891,Lenox
+103150904,Vine City
+103150913,Westview
+103150922,Atlanta University Center
+103150927,South Tuxedo Park
+103150933,Downtown
+103150949,The Villages at Carver
+103150957,Grant Park
+103150979,Lakewood Heights
+103151058,Old Fourth Ward
+103151095,Dixie Hills
+103151146,Old Fourth Ward
+103151154,Southwest
+103151163,Downtown
+103151177,Old Fourth Ward
+103151197,Perkerson
+103151201,Carey Park
+103151202,Venetian Hills
+103151207,Venetian Hills
+103151234,Grove Park
+103151239,Midtown
+103151246,Scotts Crossing
+103151284,Perkerson
+103151310,Lakewood Heights
+103151317,Inman Park
+103151395,Carey Park
+103151410,Grove Park
+103151424,South Tuxedo Park
+103151463,Edgewood
+103151491,Dixie Hills
+103151493,Marietta Street Artery
+103151501,Greenbriar
+103151510,South River Gardens
+103151519,Downtown
+103151522,Home Park
+103151556,Pittsburgh
+103151574,Downtown
+103151596,Lindbergh/Morosgo
+101650816,Downtown
+101511102,Summerhill
+103141401,Atlantic Station
+103141425,Riverside
+103141437,Lenox
+103141458,Center Hill
+103141474,Hunter Hills
+103141483,Lenox
+103141524,Butner/Tell
+103141595,Ormewood Park
+103141604,Sylvan Hills
+103141085,Pittsburgh
+103141087,Old Fourth Ward
+103141113,East Atlanta
+103141148,Elmco Estates
+103141168,The Villages at Castleberry H
+103141181,East Atlanta
+103141246,Perkerson
+103141265,Cabbagetown
+103141278,Perkerson
+103141298,Pittsburgh
+103140654,Downtown
+103140681,Westview
+103140714,South Atlanta
+103140752,Greenbriar
+103140760,Downtown
+103140775,Castleberry Hill
+103140780,West Highlands
+103140805,Hills Park
+103140835,English Avenue
+103140839,Ashview Heights
+103140850,Mechanicsville
+103140856,Virginia Highland
+103140883,Ivan Hill
+103140897,Downtown
+103140923,Southwest
+103140950,Downtown
+103140965,Morningside/Lenox Park
+103141018,Reynoldstown
+103141631,Berkeley Park
+103141699,Lenox
+103141710,West End
+103141711,Ashview Heights
+103141742,Dixie Hills
+103141769,Florida Heights
+103141810,Poncey-Highland
+103141823,Cabbagetown
+103141840,Druid Hills
+103141841,The Villages at East Lake
+103141868,Downtown
+103141887,Underwood Hills
+103141893,Adams Park
+103141951,Collier Heights
+103142035,Poncey-Highland
+103142054,Lindridge/Martin Manor
+103142152,Southwest
+103142164,Grove Park
+103142211,East Lake
+103142221,Marietta Street Artery
+103142233,Atlantic Station
+103142248,Rue Royal
+103142253,Garden Hills
+103142306,Downtown
+103142315,Grant Park
+103142389,Ashview Heights
+103142442,Collier Heights
+103142451,Atlanta University Center
+103141307,Fairburn Mays
+103141311,Adamsville
+103141316,English Avenue
+103141345,Pine Hills
+103141375,Marietta Street Artery
+103141377,Ormewood Park
+1.03142E+11,Garden Hills
+103110649,Adair Park
+103131526,Lenox
+103132315,Washington Park
+103140049,Mechanicsville
+103140094,Old Fourth Ward
+103140183,Atlanta University Center
+103140421,West End
+103140460,South Tuxedo Park
+103140493,Edgewood
+103140494,Grant Park
+103140519,Pittsburgh
+103140523,Downtown
+103140568,Carroll Heights
+103140575,Hills Park
+103140585,The Villages at East Lake
+103140596,Midtown
+103140641,Glenrose Heights
+103132373,Downtown
+103132380,Reynoldstown
+103131089,Downtown
+103131107,Center Hill
+103131111,Campbellton Road
+103131118,Campbellton Road
+103131119,Downtown
+103131145,Dixie Hills
+103131184,Vine City
+103131193,Ridgewood Heights
+103131199,Garden Hills
+103131219,Old Fourth Ward
+103131230,Grant Park
+103131266,Peachtree Heights West
+103131290,Atlantic Station
+103131318,Poncey-Highland
+103131325,Lenox
+103131328,Old Fourth Ward
+103131332,Pittsburgh
+103131348,Berkeley Park
+103131350,Mechanicsville
+103131381,Downtown
+103131385,Inman Park
+103131388,Morningside/Lenox Park
+103131393,Peoplestown
+103131398,Pittsburgh
+103131402,Center Hill
+103131425,Pittsburgh
+103131459,Hunter Hills
+103131482,Hammond Park
+103131484,West End
+103131521,Downtown
+103131610,Custer/McDonough/Guice
+103131638,Edgewood
+103131655,Underwood Hills
+103131678,Mechanicsville
+103131680,Penelope Neighbors
+103131694,Briar Glen
+103131766,Mechanicsville
+103131799,Edgewood
+103131805,Lindridge/Martin Manor
+103131806,Home Park
+103131873,Midtown
+103131889,Midtown
+103131918,Florida Heights
+103131923,North Buckhead
+103131928,Kirkwood
+103131950,Collier Heights
+103131956,Benteen Park
+103131963,West End
+103131978,Old Fourth Ward
+103131990,Arlington Estates
+103132010,Hunter Hills
+103132049,Grove Park
+103132064,Collier Heights
+103132071,Virginia Highland
+103132094,Randall Mill
+103132103,Old Fourth Ward
+103132145,Whitewater Creek
+103132155,Ashview Heights
+103132208,Center Hill
+103132211,The Villages at Carver
+103132218,Florida Heights
+103132221,East Lake
+103132226,North Buckhead
+103132229,Carey Park
+103132249,Inman Park
+103132262,Reynoldstown
+103132291,Old Fourth Ward
+103132299,Berkeley Park
+103130007,Collier Heights
+103130253,Oakland City
+103130361,West End
+103130408,Lindridge/Martin Manor
+103130409,Bolton
+103130520,The Villages at Castleberry H
+103130551,Summerhill
+103130554,Campbellton Road
+103130562,Almond Park
+103130575,Old Fourth Ward
+103130584,Inman Park
+103130587,Ben Hill
+103130616,Downtown
+103130630,Pittsburgh
+103130639,Pittsburgh
+103130644,Buckhead Heights
+103130646,Pittsburgh
+103130652,North Buckhead
+103130688,Edgewood
+103130696,The Villages at East Lake
+103130712,Atlanta University Center
+103130719,Mays
+103130777,Sylvan Hills
+103130795,Almond Park
+103130819,Mechanicsville
+103130824,Morningside/Lenox Park
+103130833,Fort Valley
+103130847,Downtown
+103130866,Mozley Park
+103130874,Joyland
+103130900,Norwood Manor
+103130920,Ashview Heights
+103130935,Grove Park
+103130948,Carey Park
+103130957,Adamsville
+103130959,Lenox
+103130965,Norwood Manor
+103131007,Adair Park
+103131020,Capitol View
+103131032,Midtown
+103131037,Ben Hill Terrace
+103091299,Thomasville Heights
+103120026,Bush Mountain
+103120060,Mechanicsville
+103120241,Downtown
+103120369,East Atlanta
+103120382,Dixie Hills
+103120387,Underwood Hills
+103120402,Chosewood Park
+103120451,Lakewood
+103120464,Blair Villa/Poole Creek
+103120478,Grant Park
+103120479,Westview
+103120502,Downtown
+103120519,Cabbagetown
+103120539,Inman Park
+103120545,Grant Park
+103102310,Cascade Heights
+103120562,Castleberry Hill
+103120608,Reynoldstown
+103120624,Marietta Street Artery
+103120639,Blandtown
+103120645,Bankhead
+103120658,Perkerson
+103120679,East Lake
+103120680,Sylvan Hills
+103120684,Lakewood Heights
+103120685,Scotts Crossing
+103120712,Lakewood
+103120715,Center Hill
+103120721,Peachtree Park
+103120747,East Atlanta
+103120779,Old Fourth Ward
+103120784,Audobon Forest
+103120794,Brookhaven
+103120817,Morningside/Lenox Park
+103120818,Vine City
+103120826,Blandtown
+103120866,South Atlanta
+103120872,Atlantic Station
+103120889,Meadowbrook Forest
+103120898,Monroe Heights
+103120905,Downtown
+103120912,Atkins Park
+103120932,Riverside
+103120933,Perkerson
+103120960,Mechanicsville
+103120961,Edgewood
+103120962,Cascade Avenue/Road
+103120973,Pittsburgh
+103120984,Brookhaven
+103121019,Wisteria Gardens
+103121028,Lindbergh/Morosgo
+103121030,Cascade Avenue/Road
+103121065,Lindridge/Martin Manor
+103121077,Piedmont Heights
+103121104,Peoplestown
+103121122,Lenox
+103121133,Old Fourth Ward
+103121140,Midtown
+103121149,Edgewood
+103121157,Pittsburgh
+103121166,Downtown
+103121204,Morningside/Lenox Park
+103121228,Kirkwood
+103121242,Midtown
+103121245,Bolton
+103121287,Southwest
+103121347,Downtown
+103121351,Downtown
+103121359,West End
+103121380,Hunter Hills
+103121387,Kirkwood
+103121408,Ben Hill
+103121424,Perkerson
+103121432,Kirkwood
+103121442,Westview
+103121459,Dixie Hills
+103121466,Grant Park
+103121490,Randall Mill
+103121515,Browns Mill Park
+103121687,Vine City
+103121697,Old Fourth Ward
+103121711,Vine City
+103121836,Southwest
+103121868,Greenbriar
+103121877,Downtown
+103121902,Ashview Heights
+103121927,The Villages at Carver
+103122008,Hunter Hills
+103122028,Castleberry Hill
+103122048,North Buckhead
+103122054,Downtown
+103122080,Hanover West
+103122111,Ardmore
+103122119,Mechanicsville
+103122133,Center Hill
+103122175,Summerhill
+103122194,South Tuxedo Park
+103122199,Home Park
+103122212,Cabbagetown
+103122216,Garden Hills
+103122222,East Chastain Park
+103122241,Lakewood Heights
+103122263,Scotts Crossing
+103122268,Lenox
+103122272,Princeton Lakes
+103122281,Inman Park
+103122293,Kings Forest
+103122319,Morningside/Lenox Park
+103122343,Pine Hills
+103122410,Campbellton Road
+103122423,Grove Park
+103111012,Bolton
+103111026,Grove Park
+103111028,Harland Terrace
+103111045,Campbellton Road
+103110653,West End
+103110657,Rosedale Heights
+103110661,The Villages at East Lake
+103110682,Betmar LaVilla
+103110702,High Point
+103110737,Collier Hills
+103110818,Buckhead Village
+103110825,Inman Park
+103110886,Venetian Hills
+103110894,Downtown
+103110941,Westview
+103110968,Atlanta University Center
+103102537,English Avenue
+103110115,Midtown
+103110159,Marietta Street Artery
+103110198,Downtown
+103110325,Ormewood Park
+103110391,Midtown
+103110407,Downtown
+103110469,Cascade Avenue/Road
+103110593,Morningside/Lenox Park
+103110632,Westview
+103111054,Hunter Hills
+103111067,Kirkwood
+103111072,English Avenue
+103111093,Collier Heights
+103111130,Carey Park
+103111155,Hunter Hills
+103111236,Mozley Park
+103111246,Glenrose Heights
+103111248,Vine City
+103111250,Morningside/Lenox Park
+103111295,Grove Park
+103111307,Chastain Park
+103111308,Summerhill
+103111333,Princeton Lakes
+103111379,Washington Park
+103111439,Center Hill
+103111448,English Avenue
+103111449,Castleberry Hill
+103111465,Kirkwood
+103111562,Piedmont Heights
+103111612,Midtown
+103111624,Castleberry Hill
+103111631,Capitol View
+103111641,Peoplestown
+103111656,Orchard Knob
+103111706,Castleberry Hill
+103111805,West Manor
+103111821,Carey Park
+103111859,Grant Park
+103111887,Berkeley Park
+103111899,Rosedale Heights
+103111961,Campbellton Road
+103112007,Poncey-Highland
+103112011,The Villages at Carver
+103112068,Scotts Crossing
+103112073,Downtown
+103112098,Grove Park
+103102553,Sylvan Hills
+103102322,Adair Park
+103102332,Lenox
+103102352,Downtown
+103102389,Kirkwood
+103102434,Castleberry Hill
+103102516,Vine City
+103102532,Atlantic Station
+103092299,Downtown
+103091348,Old Fourth Ward
+103090148,Downtown
+103100074,Carroll Heights
+103100121,Old Fourth Ward
+103100202,Virginia Highland
+103100237,Peoplestown
+103100314,Old Fourth Ward
+103100394,Home Park
+103100460,Downtown
+103100495,Midtown
+103100523,Center Hill
+103100556,Venetian Hills
+103100660,Hammond Park
+103100702,Glenrose Heights
+103100712,Pittsburgh
+103100727,Berkeley Park
+103100740,Buckhead Forest
+103100742,South River Gardens
+103100746,Buckhead Village
+103100762,Greenbriar
+103100764,West End
+103100775,Carroll Heights
+103100787,Rosedale Heights
+103100801,Westhaven
+103100842,Grove Park
+103100856,Browns Mill Park
+103100936,Mechanicsville
+103100981,Pittsburgh
+103100991,Peoplestown
+103101014,Lenox
+103101037,Inman Park
+103101040,Grant Park
+103101058,Downtown
+103101102,Downtown
+103101113,Downtown
+103101119,Edgewood
+103101151,Buckhead Forest
+103101157,Cascade Avenue/Road
+103101171,Edgewood
+103101200,Monroe Heights
+103101235,West End
+103101237,Old Fourth Ward
+103101242,Kirkwood
+103101269,English Avenue
+103101290,Grove Park
+103101327,The Villages at Castleberry H
+103101331,East Chastain Park
+103101340,Berkeley Park
+103101356,The Villages at East Lake
+103101386,Home Park
+103101394,Westview
+103101417,Rosedale Heights
+103101429,Inman Park
+103101478,Oakland City
+103101515,Downtown
+103101528,Greenbriar
+103101558,Midtown
+103101571,Cascade Avenue/Road
+103101608,South River Gardens
+103101626,Lenox
+103101628,Campbellton Road
+103101647,Baker Hills
+103101694,Cascade Avenue/Road
+103101779,Virginia Highland
+103101792,West End
+103101846,Inman Park
+103101849,Downtown
+103101859,Capitol Gateway
+103101860,Midtown
+103101883,Grove Park
+103101895,Ormewood Park
+103101917,Greenbriar
+103101960,Virginia Highland
+103101976,Kirkwood
+103102006,Vine City
+103102038,North Buckhead
+103102054,Lenox
+103102089,Buckhead Forest
+103102101,Center Hill
+103102111,West End
+103102160,Downtown
+103102186,Berkeley Park
+103102187,Campbellton Road
+103102252,Center Hill
+103102258,Berkeley Park
+103102267,East Atlanta
+103102290,Sweet Auburn
+102861010,Bankhead
+103090152,East Lake
+103090177,Campbellton Road
+103090201,Midtown
+103090205,Midtown
+103090234,Midtown
+103090285,Kirkwood
+103090377,Mechanicsville
+103090448,Campbellton Road
+103090459,Adair Park
+103090498,Inman Park
+103090504,Edgewood
+103090535,Cascade Avenue/Road
+103090563,Summerhill
+103090607,Adair Park
+103090655,Virginia Highland
+103090661,The Villages at Carver
+103090664,Old Fourth Ward
+103090707,Berkeley Park
+103090710,Summerhill
+103090736,Inman Park
+103090740,Greenbriar
+103090742,Peachtree Park
+103090744,The Villages at Castleberry H
+103090747,Adams Park
+103090773,Edgewood
+103090807,Downtown
+103090859,Virginia Highland
+103090866,Cabbagetown
+103090867,Midtown
+103090871,Westhaven
+103090915,Vine City
+103090924,Adamsville
+103090951,Midtown
+103090959,Downtown
+103090974,East Atlanta
+103090993,Brookwood Hills
+103090997,The Villages at Castleberry H
+103091041,Sweet Auburn
+103091363,Peyton Forest
+103091382,Downtown
+103091388,Old Fourth Ward
+103091399,Sylvan Hills
+103091405,Custer/McDonough/Guice
+103091421,Sweet Auburn
+103091453,English Avenue
+103091458,Vine City
+103091477,Center Hill
+103091527,Arlington Estates
+103091579,Home Park
+103091583,Lindbergh/Morosgo
+103091611,Bankhead
+103091624,Castleberry Hill
+103091659,West End
+103091680,Ashley Courts
+103091681,Ashley Courts
+103091783,Lindbergh/Morosgo
+103091803,Pittsburgh
+103091819,Ashley Courts
+103091856,Sylvan Hills
+103091858,North Buckhead
+103091899,Westview
+103091957,Downtown
+103091977,Polar Rock
+103092048,Berkeley Park
+103092072,Vine City
+103092082,Ashley Courts
+103092085,Grove Park
+103092107,East Lake
+103092114,Poncey-Highland
+103092263,Ashview Heights
+103091087,Sweet Auburn
+103091089,Home Park
+103091095,Scotts Crossing
+103091133,Virginia Highland
+103091142,Mechanicsville
+103091145,Browns Mill Park
+103091169,Washington Park
+103091170,Downtown
+103091187,Grant Park
+103091192,Adams Park
+103091230,Grant Park
+103091231,The Villages at Castleberry H
+103091232,Glenrose Heights
+103091233,Piedmont Heights
+103091263,Lindbergh/Morosgo
+103091296,Glenrose Heights
+103092314,Morningside/Lenox Park
+103092322,South River Gardens
+103092364,Dixie Hills
+103092367,Westview
+103092393,Brookwood
+103092483,Midtown
+103092516,Campbellton Road
+103091329,Southwest
+103091331,Midtown
+103090099,Inman Park
+103090135,Center Hill
+103050872,Center Hill
+102971743,The Villages at Castleberry H
+102642295,North Buckhead
+103080109,Old Fourth Ward
+103080221,English Avenue
+103080287,Vine City
+103080336,Campbellton Road
+103080359,Blandtown
+103080410,Old Fourth Ward
+103080460,Midtown
+103080463,Old Fourth Ward
+103080487,Midtown
+103080496,Buckhead Forest
+103080507,Poncey-Highland
+103080523,Inman Park
+103080533,Elmco Estates
+103080552,Greenbriar
+103080574,Cascade Heights
+103080591,Westview
+103080614,Rosedale Heights
+103080643,Downtown
+103080734,Scotts Crossing
+103080738,West End
+103080743,Grant Park
+103080750,Grant Park
+103080781,Capitol Gateway
+103080802,Glenrose Heights
+103080810,Sweet Auburn
+103080834,Almond Park
+103080853,East Lake
+103080857,Princeton Lakes
+103080871,Sylvan Hills
+103080899,Sylvan Hills
+103080909,Bush Mountain
+103080911,Downtown
+103080916,Fairburn Heights
+103080959,Old Fourth Ward
+103080988,Old Fourth Ward
+103081010,Castleberry Hill
+103081032,Center Hill
+103081068,Grove Park
+103081087,Glenrose Heights
+103081143,Carroll Heights
+103081157,Inman Park
+103081177,Castleberry Hill
+103081200,Peoplestown
+103081216,Sylvan Hills
+103081229,Hills Park
+103081250,Grove Park
+103081270,West End
+103081393,Downtown
+103081395,Southwest
+103081401,Buckhead Village
+103081450,Center Hill
+103081452,Home Park
+103081466,Vine City
+103081470,Kingswood
+103081500,Berkeley Park
+103081527,Sylvan Hills
+103081533,Lindbergh/Morosgo
+103081535,Midtown
+103081588,Buckhead Village
+103081640,Buckhead Forest
+103081676,Polar Rock
+103081725,Princeton Lakes
+103081754,Sylvan Hills
+103081756,Grant Park
+103081766,Scotts Crossing
+103081781,The Villages at Carver
+103081788,Center Hill
+103081806,Kings Forest
+103081839,Lakewood Heights
+103081841,West End
+103081862,Perkerson
+103081889,Lakewood Heights
+103082781,Oakland City
+103081915,Ashview Heights
+103081982,Midtown
+103081984,Amal Heights
+103081998,Southwest
+103082027,Lake Claire
+103082028,Old Fourth Ward
+103082045,Almond Park
+103082143,Downtown
+103082215,Berkeley Park
+103082264,Campbellton Road
+103082279,West End
+103082297,Peoplestown
+103082331,Ben Hill Terrace
+103082365,Capitol View
+103082386,Inman Park
+103082393,Midtown
+103082398,Peoplestown
+103082415,Peoplestown
+103082431,Campbellton Road
+103082466,Benteen Park
+103082484,Midtown
+103082499,Peoplestown
+103082527,Ashview Heights
+103082533,Midtown
+103082538,Berkeley Park
+103082566,Vine City
+103082569,Campbellton Road
+103082583,Ardmore
+103082605,Ridgedale Park
+103082627,Mechanicsville
+103082663,Venetian Hills
+103082690,Edgewood
+103070024,Downtown
+103070033,Grove Park
+103070074,Harris Chiles
+103070077,Downtown
+103070089,Pittsburgh
+103070110,Greenbriar
+103070211,West End
+103070243,Downtown
+103070372,Downtown
+103070447,Kirkwood
+103070463,Downtown
+103070627,Sweet Auburn
+103070637,Pittsburgh
+103070639,Downtown
+103070650,Ashley Courts
+103070664,Mozley Park
+103070677,Downtown
+103070678,Old Fourth Ward
+103070732,Wilson Mill Meadows
+103070773,Pittsburgh
+103070779,North Buckhead
+103070830,Lakewood Heights
+103070831,Grant Park
+103070860,Downtown
+103070869,Lakewood Heights
+103070905,Berkeley Park
+103070917,North Buckhead
+103070923,Harris Chiles
+103070956,Brentwood
+103070982,Grove Park
+103070985,Lenox
+103071001,Old Fourth Ward
+103071020,West End
+103071039,Campbellton Road
+103071045,Grove Park
+103071086,Perkerson
+103071106,Princeton Lakes
+103071142,Pine Hills
+103071166,Fort Valley
+103071200,Westview
+103071262,Orchard Knob
+103071275,Berkeley Park
+103071307,Greenbriar
+103071345,Greenbriar
+103071354,Mechanicsville
+103071379,Downtown
+103071408,Oakland City
+103071416,Downtown
+103071432,Glenrose Heights
+103071433,Harvel Homes Community
+103071440,Capitol View
+103071451,Monroe Heights
+103071497,Westview
+103071516,Atlanta University Center
+103071523,Greenbriar
+103071545,Glenrose Heights
+103071549,Princeton Lakes
+103071557,The Villages at Carver
+103071590,Grant Park
+103071610,South Tuxedo Park
+103071612,South Tuxedo Park
+103071662,Edgewood
+103071745,Paces
+103071750,Center Hill
+103071784,Inman Park
+103071786,Adamsville
+103071802,Downtown
+103071817,Lenox
+103071832,Perkerson
+103071897,Downtown
+103071937,Downtown
+103071964,Harland Terrace
+103071971,Adair Park
+103071988,Custer/McDonough/Guice
+103072000,Downtown
+103072011,Midwest Cascade
+103072059,Downtown
+103072062,Home Park
+103072099,Castleberry Hill
+103072120,Midtown
+103072122,Mechanicsville
+103072138,Lindbergh/Morosgo
+103072163,East Atlanta
+103072176,Poncey-Highland
+103072191,Rebel Valley Forest
+103072194,West End
+103072226,Adamsville
+103072227,Downtown
+103072243,Lakewood Heights
+103072248,West Lake
+103072262,Reynoldstown
+103072287,Downtown
+103072303,Kirkwood
+103072309,East Atlanta
+103072328,Midtown
+103072332,Campbellton Road
+103072372,North Buckhead
+103072373,Center Hill
+103040573,Vine City
+103021435,West End
+102932257,Venetian Hills
+1.03061E+11,Scotts Crossing
+102852143,West End
+103060017,The Villages at East Lake
+103060035,Mechanicsville
+103060115,Old Fourth Ward
+103060142,Westview
+103060385,Home Park
+103060449,Ansley Park
+103060456,Bolton
+103060493,Lakewood Heights
+103060528,Almond Park
+103060531,Oakland
+103060578,Ardmore
+103060595,Atlanta University Center
+103060612,Custer/McDonough/Guice
+103060657,Downtown
+103060659,Pittsburgh
+103060669,Capitol Gateway
+103060691,Virginia Highland
+103060709,Scotts Crossing
+103060712,Brookwood
+103060723,Dixie Hills
+103060730,Ashley Courts
+103060741,Atlantic Station
+103060742,Brookwood
+103060781,West End
+103060785,Grove Park
+103060787,Peoplestown
+103060803,Benteen Park
+103060807,Reynoldstown
+103060817,Midtown
+103060820,Harland Terrace
+103060859,Chosewood Park
+103060886,Swallow Circle/Baywood
+103060911,Bankhead
+103060920,West Manor
+103060922,English Avenue
+103060924,Downtown
+103060940,West End
+103060942,Florida Heights
+103060963,Atlanta University Center
+103061011,Carver Hills
+103061014,Kirkwood
+103061041,Mechanicsville
+103061052,Custer/McDonough/Guice
+103061058,Lindbergh/Morosgo
+103061087,Audobon Forest West
+103061132,Marietta Street Artery
+103061177,Elmco Estates
+103061196,Harland Terrace
+103061200,Glenrose Heights
+103061219,West End
+103061235,Underwood Hills
+103061259,Fairburn Mays
+103061272,Grove Park
+103061283,Rosedale Heights
+103061303,Woodland Hills
+103061346,Lindbergh/Morosgo
+103061354,Perkerson
+103061361,North Buckhead
+103061374,Kirkwood
+103061384,Lenox
+103061395,Poncey-Highland
+103061396,Buckhead Forest
+103061407,Morningside/Lenox Park
+103061420,Princeton Lakes
+103061437,The Villages at Carver
+103061448,Midtown
+103061462,Lenox
+103061483,Sylvan Hills
+103061484,Grove Park
+103061500,Midtown
+103061502,Glenrose Heights
+103061522,Midtown
+103061728,Chosewood Park
+103061735,Lakewood Heights
+103061769,Morningside/Lenox Park
+103061778,Perkerson
+103061779,Ormewood Park
+103061874,Greenbriar
+103061897,Atlantic Station
+103061913,Ben Hill
+103061921,Polar Rock
+103061932,Underwood Hills
+103061936,Mechanicsville
+103062003,Dixie Hills
+103062038,Lindridge/Martin Manor
+103062044,Campbellton Road
+103062069,Bush Mountain
+103062102,Midtown
+103062108,Leila Valley
+103062121,East Atlanta
+103062141,Capitol Gateway
+103062187,Meadowbrook Forest
+103062201,Browns Mill Park
+103062226,Downtown
+103062240,Downtown
+103062247,Bankhead
+103062254,Custer/McDonough/Guice
+103062256,Berkeley Park
+103062326,Downtown
+103062360,Hammond Park
+103062386,Berkeley Park
+103062392,Edgewood
+103062414,Downtown
+103062434,Southwest
+103062467,Candler Park
+103062472,English Avenue
+103062480,Mechanicsville
+103062490,Midtown
+103062512,West Highlands
+103062605,Sylvan Hills
+103051896,Fairburn Mays
+103051930,Cascade Avenue/Road
+103051941,Pittsburgh
+103051960,Downtown
+103051980,Midtown
+103051989,Downtown
+103052050,Lindbergh/Morosgo
+103052051,Center Hill
+103052054,Lindbergh/Morosgo
+103052108,Lindridge/Martin Manor
+103052167,Inman Park
+103052182,Fairburn Mays
+103052227,Harland Terrace
+103052239,Browns Mill Park
+103052247,Venetian Hills
+103052251,Old Fourth Ward
+103052270,West End
+103052281,Old Fourth Ward
+103052289,Hammond Park
+103052319,Midtown
+103052321,Midtown
+103052330,Downtown
+103052339,Midtown
+103052346,Bankhead
+103052411,Grant Park
+103041212,Old Fourth Ward
+103050010,Fairburn Mays
+103050092,Old Fourth Ward
+103050107,Downtown
+103050136,Harris Chiles
+103050211,Rosedale Heights
+103050407,Midtown
+103050410,Downtown
+103050444,Kirkwood
+103050471,Bolton
+103050474,Downtown
+103050483,Midtown
+103050485,Pittsburgh
+103050526,Sylvan Hills
+103050544,East Atlanta
+103050592,Grant Park
+103050597,Thomasville Heights
+103050605,Fairburn
+103050611,Audobon Forest West
+103050614,Downtown
+103050621,Dixie Hills
+103050641,West End
+103050648,Midtown
+103050652,The Villages at East Lake
+103050670,Kirkwood
+103050700,South River Gardens
+103050711,Grant Park
+103050712,West End
+103050717,North Buckhead
+103050721,Lenox
+103050725,Adams Park
+103050733,Midtown
+103050739,Underwood Hills
+103050752,Midwest Cascade
+103050795,Reynoldstown
+103050810,Vine City
+103050818,Ansley Park
+103050847,The Villages at East Lake
+103050850,Midtown
+103050861,Peachtree Hills
+103050912,English Avenue
+103050923,Hunter Hills
+103050927,West End
+103050936,East Atlanta
+103050971,Grove Park
+103050993,Home Park
+103051044,West Manor
+103051045,Channing Valley
+103051050,Lakewood Heights
+103051058,Midtown
+103051069,East Atlanta
+103051094,Westwood Terrace
+103051128,Atlanta University Center
+103051137,Berkeley Park
+103051138,Old Fourth Ward
+103051148,Grant Park
+103051171,Lenox
+103051181,Marietta Street Artery
+103051188,Sweet Auburn
+103051216,Oakland City
+103051226,Westview
+103051248,Fairburn Road/Wisteria Lane
+103051267,Old Fourth Ward
+103051303,Harland Terrace
+103051310,Atlanta Industrial Park
+103051322,North Buckhead
+103051338,Browns Mill Park
+103051346,Hunter Hills
+103051378,Bankhead
+103051380,Grove Park
+103051404,Elmco Estates
+103051419,Carey Park
+103051435,Hunter Hills
+103051470,Lindbergh/Morosgo
+103051475,Midtown
+103051481,Southwest
+103051484,Vine City
+103051492,Downtown
+103051531,Downtown
+103051611,Vine City
+103051648,Florida Heights
+103051664,Hammond Park
+103051675,Edgewood
+103051680,Old Fourth Ward
+103051723,Lindbergh/Morosgo
+103051745,Wilson Mill Meadows
+103051754,Sweet Auburn
+103051762,Piedmont Heights
+103051769,Vine City
+103051812,Hunter Hills
+103051857,Vine City
+103051866,Candler Park
+1.03052E+11,English Avenue
+113301653,Bankhead
+113332287,Midtown
+113340011,Midtown
+113340241,Bankhead
+113340256,West End
+113340397,Wisteria Gardens
+113340490,Campbellton Road
+113340603,Lindbergh/Morosgo
+113340629,Mechanicsville
+113340668,Lindbergh/Morosgo
+113340688,Campbellton Road
+113340692,Grove Park
+113340737,Greenbriar
+113340739,Ashview Heights
+113340827,Grove Park
+113340828,Greenbriar
+113340835,Capitol View
+113340890,Midtown
+113340923,Betmar LaVilla
+113340992,Kirkwood
+113340999,Midtown
+113341017,Lakewood Heights
+113341077,Downtown
+113341078,Morningside/Lenox Park
+113341087,Old Fourth Ward
+113341099,Perkerson
+113341118,Midtown
+113341125,Hammond Park
+113341138,Bankhead Courts
+113341139,Midtown
+113341166,Downtown
+113341177,Cross Creek
+113341186,Collier Heights
+113341189,Campbellton Road
+113341195,Chastain Park
+113341201,English Avenue
+113341211,Inman Park
+113341220,Greenbriar
+113341241,Rosedale Heights
+113341243,Grove Park
+113341244,Sylvan Hills
+113341285,Bankhead
+113341294,Browns Mill Park
+113341345,English Avenue
+113341348,Old Fourth Ward
+113341350,West End
+113341374,Summerhill
+113341396,Loring Heights
+113341454,Atlanta University Center
+113341456,Underwood Hills
+113341472,Grove Park
+113341487,Perkerson
+113341528,Wisteria Gardens
+113341535,West End
+113341538,Campbellton Road
+113341616,Morningside/Lenox Park
+113341728,Reynoldstown
+113341763,Marietta Street Artery
+113341796,Cross Creek
+113341819,Downtown
+113341847,Lakewood Heights
+113341853,Perkerson
+113341874,Ridgecrest Forest
+113341904,Carey Park
+113341922,Old Fourth Ward
+113341942,Pittsburgh
+113341951,Pittsburgh
+113341978,Berkeley Park
+113341993,Sylvan Hills
+113342007,Atlanta University Center
+113342014,Elmco Estates
+113342107,Summerhill
+113342134,English Avenue
+113342137,Grove Park
+113342173,Old Fourth Ward
+113342279,North Buckhead
+113342281,Lakewood Heights
+113342302,Vine City
+113342305,Southwest
+113342335,Lindbergh/Morosgo
+113342336,Downtown
+113342354,Vine City
+113342363,Ardmore
+113342375,Glenrose Heights
+113342382,Capitol View
+113342411,Atlantic Station
+113342421,Downtown
+113332323,Midtown
+113322163,Carey Park
+113320729,Old Fourth Ward
+113330001,Thomasville Heights
+113330324,Collier Heights
+113330325,Bankhead
+113330335,Glenrose Heights
+113330354,Summerhill
+113330396,Dixie Hills
+113330484,Greenbriar
+113330491,Edgewood
+113330501,East Lake
+113330516,Castlewood
+113330529,Mechanicsville
+113330532,Hammond Park
+113330537,Home Park
+113330562,Lake Claire
+113330572,Almond Park
+113330595,South Atlanta
+113330624,Hammond Park
+113330641,Custer/McDonough/Guice
+113330682,Sylvan Hills
+113330712,Ormewood Park
+113330798,Thomasville Heights
+113330801,Lakewood
+113330834,Harland Terrace
+113330840,Venetian Hills
+113330857,North Buckhead
+113330886,Ormewood Park
+113330891,Collier Heights
+113330907,Midtown
+113330925,Fairburn Road/Wisteria Lane
+113330933,Capitol View
+113330945,Atlantic Station
+113330977,Campbellton Road
+113330985,Oakland City
+113331014,Blair Villa/Poole Creek
+113331018,Princeton Lakes
+113331030,Berkeley Park
+113331040,Peoplestown
+113331071,Collier Heights
+113331082,Ridgecrest Forest
+113331095,Lenox
+113331096,Home Park
+113331119,Old Fourth Ward
+113331121,Old Fourth Ward
+113331130,Downtown
+113331158,Wisteria Gardens
+113331186,Hammond Park
+113331196,Venetian Hills
+113331215,Monroe Heights
+113331257,West End
+113331259,Grove Park
+113331269,Old Fourth Ward
+113331270,Old Fourth Ward
+113331278,Sweet Auburn
+113331320,Kirkwood
+113331325,Edgewood
+113331329,Southwest
+113331330,Midtown
+113331388,Lakewood Heights
+113331413,Monroe Heights
+113331450,Poncey-Highland
+113331464,Peoplestown
+113331468,East Atlanta
+113331469,Downtown
+113331473,Grant Park
+113331485,Thomasville Heights
+113331520,Lindridge/Martin Manor
+113331524,Edgewood
+113331531,Old Fourth Ward
+113331566,Florida Heights
+113331589,Elmco Estates
+113331600,Campbellton Road
+113331612,Midtown
+113331655,Downtown
+113331740,West End
+113331817,West End
+113331820,Georgia Tech
+113331832,Capitol View
+113331912,Buckhead Forest
+113331921,Downtown
+113331934,Midtown
+113331944,Princeton Lakes
+113331953,Old Fourth Ward
+113331986,Lindbergh/Morosgo
+113332025,Old Fourth Ward
+113332038,The Villages at Carver
+113332040,Grove Park
+113332083,Sylvan Hills
+113332105,Sweet Auburn
+113332110,Old Fourth Ward
+113332115,Florida Heights
+113332123,Sylvan Hills
+113332170,Sylvan Hills
+113332173,Old Fourth Ward
+113332202,Downtown
+113332210,Harland Terrace
+113270436,Downtown
+113270709,Bankhead
+113272086,Downtown
+113250614,Midtown
+113302280,Midtown
+113320756,Underwood Hills
+113320760,Almond Park
+113320824,Blandtown
+113320825,Tuxedo Park
+113320831,Glenrose Heights
+113320846,Hunter Hills
+113320848,Brookwood
+113320859,Downtown
+113320888,Dixie Hills
+113320909,Edgewood
+113320923,Wildwood Forest
+113320925,Thomasville Heights
+113320942,Washington Park
+113320957,Florida Heights
+113320959,West End
+113320963,Edgewood
+113320967,Inman Park
+113321007,Wisteria Gardens
+113321014,Wildwood (NPU-C)
+113321017,Buckhead Village
+113321029,Brandon
+113321055,Vine City
+113321076,Downtown
+113321093,Grove Park
+113321094,Underwood Hills
+113321099,Pine Hills
+113321108,Capitol View Manor
+113321113,Oakland City
+113321129,Campbellton Road
+113321137,Sweet Auburn
+113321156,Virginia Highland
+113321160,Pine Hills
+113321169,Downtown
+113321178,Old Fourth Ward
+113321190,Downtown
+113321215,Brookwood
+113321246,Wildwood (NPU-H)
+113321303,Lenox
+113321316,Vine City
+113321355,South River Gardens
+113321489,Edgewood
+113321517,Downtown
+113321559,West End
+113321561,Lakewood Heights
+113321637,Downtown
+113321647,Old Fourth Ward
+113321694,Campbellton Road
+113321732,Old Fourth Ward
+113321734,South River Gardens
+113321781,Glenrose Heights
+113321786,Grove Park
+113321798,Midtown
+113321812,Midtown
+113321817,Florida Heights
+113321849,Old Fourth Ward
+113321855,Greenbriar
+113321879,East Atlanta
+113321883,Greenbriar
+113321901,Thomasville Heights
+113321926,Poncey-Highland
+113321947,North Buckhead
+113321953,Adamsville
+113321969,Bankhead
+113321974,Buckhead Village
+113321982,South River Gardens
+113322004,Polar Rock
+113322046,Berkeley Park
+113322050,Vine City
+113322074,West End
+113322108,Virginia Highland
+113322166,Hills Park
+113322192,North Buckhead
+113322202,Grant Park
+113312142,Home Park
+113320082,Adamsville
+113320119,East Atlanta
+113320228,The Villages at Carver
+113320231,West End
+113320243,Downtown
+113320363,Brookview Heights
+113320417,Pomona Park
+113320488,Midtown
+113320507,Marietta Street Artery
+113320516,Old Fourth Ward
+113320520,Campbellton Road
+113320542,Norwood Manor
+113320550,Kings Forest
+113320577,Adamsville
+113320579,Underwood Hills
+113320600,Lindridge/Martin Manor
+113320608,Midtown
+113320619,East Atlanta
+113320637,Underwood Hills
+113320691,Midwest Cascade
+113320707,Kirkwood
+113320728,South Atlanta
+1.13321E+11,Carver Hills
+113311042,Virginia Highland
+113311044,Venetian Hills
+113311049,Vine City
+113311125,Pittsburgh
+113311143,Capitol Gateway
+113311178,Downtown
+113311190,Downtown
+113311192,Sweet Auburn
+113311207,South River Gardens
+113311233,Polar Rock
+113311246,Midtown
+113311250,Florida Heights
+113311273,Castleberry Hill
+113311281,Thomasville Heights
+113311286,Edgewood
+113311293,West End
+113311345,Pittsburgh
+113311352,Garden Hills
+113311395,Midtown
+113311429,Inman Park
+113311438,Downtown
+113311457,Florida Heights
+113311484,Sylvan Hills
+113311527,Downtown
+113311532,Adair Park
+113311544,Virginia Highland
+113311554,Cascade Avenue/Road
+113311598,Peoplestown
+113311652,Capitol View
+113311658,Grove Park
+113311670,Cross Creek
+113311672,Ormewood Park
+113311687,Grove Park
+113311734,Castleberry Hill
+113311764,Sylvan Hills
+113311779,Edgewood
+113311787,Lindbergh/Morosgo
+113311797,The Villages at Carver
+113311804,Lindbergh/Morosgo
+113311855,Westview
+113311859,Mechanicsville
+113311920,Morningside/Lenox Park
+113311949,Venetian Hills
+113311974,Pittsburgh
+113312004,Scotts Crossing
+113312025,Pine Hills
+113312029,Harland Terrace
+113312031,Home Park
+113312044,Midtown
+113312053,Marietta Street Artery
+113312056,Harris Chiles
+113302293,Castleberry Hill
+113310003,Campbellton Road
+113310057,Marietta Street Artery
+113310065,Old Fourth Ward
+113310071,Summerhill
+113310117,Downtown
+113310187,West End
+113310201,West End
+113310228,Inman Park
+113310269,Midtown
+113310270,Sylvan Hills
+113310271,Thomasville Heights
+113310282,Southwest
+113310291,Collier Heights
+113310311,Grove Park
+113310395,Downtown
+113310407,Old Gordon
+113310428,Norwood Manor
+113310466,Pittsburgh
+113310576,Grove Park
+113310588,Glenrose Heights
+113310591,Morningside/Lenox Park
+113310620,Ashview Heights
+113310663,Poncey-Highland
+113310676,Hammond Park
+113310728,The Villages at East Lake
+113310730,Lakewood Heights
+113310766,Old Fourth Ward
+113310775,Sweet Auburn
+113310819,Pittsburgh
+113310824,Old Gordon
+113310870,Southwest
+113310871,Downtown
+113310882,Sylvan Hills
+113310898,Perkerson
+113310926,Downtown
+113310954,East Atlanta
+113310999,Midtown
+113311022,Lenox
+113311036,Westview
+113280702,Inman Park
+113251783,Midtown
+113301673,Old Fourth Ward
+113301675,East Atlanta
+113301679,Atlantic Station
+113301689,South River Gardens
+113301734,Collier Heights
+113301741,Virginia Highland
+113301800,Grove Park
+113301806,Bankhead/Bolton
+113301818,Sylvan Hills
+113301890,Ashview Heights
+113301903,Cascade Green
+113301962,Old Fourth Ward
+113301965,West End
+113301977,Sylvan Hills
+113301992,Blandtown
+113302039,English Avenue
+113302048,Old Fourth Ward
+113302054,Fairburn Mays
+113302060,Morningside/Lenox Park
+113302106,Atlantic Station
+113302108,Briar Glen
+113302113,Inman Park
+113302125,Cabbagetown
+113302218,Reynoldstown
+113302235,Cabbagetown
+113300009,Poncey-Highland
+113300041,Lakewood Heights
+113300099,Downtown
+113300104,Midtown
+113300142,Princeton Lakes
+113300230,Thomasville Heights
+113300283,Ben Hill Terrace
+113300337,Chosewood Park
+113300341,Kirkwood
+113300410,Downtown
+113300411,Midtown
+113300415,Capitol View
+113300477,Almond Park
+113300567,Kirkwood
+113300578,Midtown
+113300583,Greenbriar
+113300584,Old Fourth Ward
+113300593,Old Fourth Ward
+113300604,Campbellton Road
+113300607,Inman Park
+113300618,Peoplestown
+113300620,Cascade Avenue/Road
+113300667,Thomasville Heights
+113300684,Blair Villa/Poole Creek
+113300704,Peoplestown
+113300723,Poncey-Highland
+113300752,Grove Park
+113300754,Rebel Valley Forest
+113300761,Lenox
+113300773,Summerhill
+113300797,Midtown
+113300818,Harland Terrace
+113300819,Old Gordon
+113300832,Perkerson
+113300845,Midtown
+113300852,Grant Park
+113300875,Bankhead
+113300915,Downtown
+113300937,Loring Heights
+113300969,The Villages at Carver
+113300984,Florida Heights
+113300985,Lindbergh/Morosgo
+113301005,Old Fourth Ward
+113301020,Bush Mountain
+113301044,Midtown
+113301045,Downtown
+113301057,West End
+113301063,Venetian Hills
+113301066,Venetian Hills
+113301075,Glenrose Heights
+113301080,Atlanta Industrial Park
+113301084,Midtown
+113301100,Lenox
+113301106,Cascade Avenue/Road
+113301130,Home Park
+113301138,Just Us
+113301139,Adamsville
+113301141,Hunter Hills
+113301146,Lenox
+113301157,Kirkwood
+113301160,Castleberry Hill
+113301164,Cascade Avenue/Road
+113301166,Dixie Hills
+113301169,Castleberry Hill
+113301173,Inman Park
+113301188,Mozley Park
+113301191,Hammond Park
+113301201,Morningside/Lenox Park
+113301222,Ormewood Park
+113301232,Vine City
+113301238,Southwest
+113301252,Inman Park
+113301253,Virginia Highland
+113301273,Lenox
+113301274,Lakewood Heights
+113301331,Margaret Mitchell
+113301355,Midtown
+113301373,Lenox
+113301376,Lenox
+113301383,Downtown
+113301403,Atlantic Station
+113301409,Sylvan Hills
+113301481,Lindbergh/Morosgo
+113301511,Deerwood
+113301534,Midtown
+113301535,Old Fourth Ward
+113301637,Dixie Hills
+113301646,Downtown
+113301651,Downtown
+113302309,Ormewood Park
+113302329,Summerhill
+113291985,Marietta Street Artery
+113292006,Sweet Auburn
+113292041,Capitol View
+113292042,Grove Park
+113292048,Buckhead Village
+113292052,Downtown
+113292060,Kirkwood
+113292162,Thomasville Heights
+113292184,Peachtree Heights West
+113292202,Adamsville
+113281383,Carroll Heights
+113290043,Inman Park
+113290106,Westview
+113290232,Pittsburgh
+113290236,Berkeley Park
+113290265,Downtown
+113290282,Sylvan Hills
+113290395,Virginia Highland
+113290410,Brookview Heights
+113290472,Greenbriar
+113290503,Downtown
+113290565,Carver Hills
+113290594,Sylvan Hills
+113290626,Downtown
+113290633,Grove Park
+113290674,Westview
+113290706,Campbellton Road
+113290711,Piedmont Heights
+113290761,Inman Park
+113290783,Downtown
+113290792,Underwood Hills
+113290825,Grant Park
+113290922,Old Fourth Ward
+113290942,Downtown
+113290978,Lindridge/Martin Manor
+113290985,Midtown
+113290990,Lenox
+113290993,North Buckhead
+113291048,Grove Park
+113291050,Polar Rock
+113291063,Sweet Auburn
+113291074,Center Hill
+113291084,Old Fourth Ward
+113291085,Grant Park
+113291093,Peachtree Hills
+113291095,North Buckhead
+113291098,Scotts Crossing
+113291116,Riverside
+113291130,North Buckhead
+113291144,Chastain Park
+113291189,Old Fourth Ward
+113291194,Chastain Park
+113291235,Chosewood Park
+113291241,Lenox
+113291257,Lenox
+113291322,Lakewood Heights
+113291355,Lenox
+113291366,Pittsburgh
+113291379,Downtown
+113291435,Old Fourth Ward
+113291512,North Buckhead
+113291519,The Villages at Castleberry H
+113291525,Carey Park
+113291542,Candler Park
+113291543,West End
+113291569,The Villages at Castleberry H
+113291628,Downtown
+113291636,Inman Park
+113291646,Peoplestown
+113291666,Bush Mountain
+113291675,Lakewood
+113291699,Edgewood
+113291718,Princeton Lakes
+113291744,English Avenue
+113291749,Venetian Hills
+113291777,Downtown
+113291787,Morningside/Lenox Park
+113291815,Marietta Street Artery
+113291818,North Buckhead
+113291820,Old Fourth Ward
+113291863,Reynoldstown
+113291865,Channing Valley
+113291882,Virginia Highland
+113291888,Chosewood Park
+113291961,Campbellton Road
+113291963,Sweet Auburn
+113280755,Blandtown
+113280763,West End
+113280801,Home Park
+113280816,Old Fourth Ward
+113280831,Summerhill
+113280852,Beecher Hills
+113280866,South River Gardens
+113280884,Chastain Park
+113280893,Adamsville
+113280938,Grove Park
+113280949,West End
+113281061,Bolton
+113281082,Mellwood
+113281095,Downtown
+113281139,West End
+113281175,Southwest
+113281195,Cascade Avenue/Road
+113281198,Lakewood
+113281210,Rebel Valley Forest
+113281239,Carey Park
+113281293,Collier Heights
+113281303,Candler Park
+113281308,Florida Heights
+113281313,West End
+113281320,Midtown
+113281357,Capitol View
+113281358,Adams Park
+113281373,Mechanicsville
+113281381,Collier Heights
+113280003,Reynoldstown
+113280017,Midtown
+113280076,Grant Park
+113280094,Midtown
+113280107,West End
+113280111,Edgewood
+113280115,Old Fourth Ward
+113280149,Midtown
+113280173,Ashley Courts
+113280177,Westview
+113280252,Downtown
+113280299,West Highlands
+113280339,Summerhill
+113280405,Adamsville
+113280437,Baker Hills
+113280444,Downtown
+113280458,Peoplestown
+113280545,Midtown
+113280569,Home Park
+113280592,East Atlanta
+113280604,East Atlanta
+113280656,Inman Park
+113280661,Thomasville Heights
+113280668,Harland Terrace
+113281390,Florida Heights
+113281402,Downtown
+113281435,Bush Mountain
+113281481,Greenbriar
+113281499,Southwest
+113281501,The Villages at Castleberry H
+113270492,Pittsburgh
+113270497,Thomasville Heights
+113270498,Old Fourth Ward
+113270499,East Atlanta
+113270531,Peoplestown
+113270554,Chosewood Park
+113270557,Thomasville Heights
+113270569,Grant Park
+113270623,Reynoldstown
+113270632,South River Gardens
+113270660,Reynoldstown
+113270678,Midtown
+113270685,Midwest Cascade
+113272092,Vine City
+113272096,Grove Park
+113272101,Vine City
+113272112,Harland Terrace
+113272118,Poncey-Highland
+113272124,Oakland City
+113272183,Ormewood Park
+113272206,Downtown
+113272231,North Buckhead
+113272238,Pine Hills
+113272242,Edgewood
+113272252,Audobon Forest
+113272295,Midtown
+113270044,Sylvan Hills
+113270207,Southwest
+113270347,Bankhead
+113270349,Downtown
+113270419,The Villages at Castleberry H
+113270422,Arlington Estates
+113270425,Southwest
+113270426,Summerhill
+113270714,Boulevard Heights
+113270727,Polar Rock
+113270754,Leila Valley
+113270798,Old Fourth Ward
+113270808,Lakewood Heights
+113270818,Adamsville
+113270863,Chosewood Park
+113270886,Downtown
+113270929,Rebel Valley Forest
+113270968,Lindbergh/Morosgo
+113270976,Peachtree Park
+113270977,East Lake
+113270996,Wildwood Forest
+113271063,Adams Park
+113271078,Edgewood
+113271084,Greenbriar
+113271105,Audobon Forest
+113271135,Thomasville Heights
+113271143,Arlington Estates
+113271167,Downtown
+113271248,Mechanicsville
+113271255,Midtown
+113271268,Castleberry Hill
+113271276,Florida Heights
+113271292,Wildwood (NPU-H)
+113271303,Grove Park
+113271363,Harland Terrace
+113271402,South River Gardens
+113271412,The Villages at East Lake
+113271461,Downtown
+113271539,Swallow Circle/Baywood
+113271562,Glenrose Heights
+113271580,Greenbriar
+113271632,Berkeley Park
+113271641,Downtown
+113271677,Piedmont Heights
+113271680,Berkeley Park
+113271683,Downtown
+113271696,Buckhead Village
+113271707,Cascade Avenue/Road
+113271762,Hammond Park
+113271765,Grant Park
+113271781,Midtown
+113271787,The Villages at Carver
+113271824,Thomasville Heights
+113271934,West Lake
+113271949,West End
+113271957,Midtown
+113271967,Downtown
+113271999,Downtown
+113272019,Collier Heights
+113272053,Cascade Avenue/Road
+113272062,East Atlanta
+113272080,Midtown
+1.13272E+11,Grove Park
+113251485,Cabbagetown
+113260067,Downtown
+113260116,Atlantic Station
+113260129,Mechanicsville
+113260146,Oakland City
+113260209,West End
+113260215,West End
+113260364,Bush Mountain
+113260383,Oakland City
+113260428,South River Gardens
+113260483,Pittsburgh
+113260484,Oakland City
+113260512,Thomasville Heights
+113260525,South Atlanta
+113260534,Buckhead Forest
+113260539,Downtown
+113260566,Downtown
+113260643,The Villages at Carver
+113260715,Home Park
+113260779,West End
+113260805,Center Hill
+113260811,Grove Park
+113260832,Westview
+113260872,Midtown
+113260888,Summerhill
+113260894,Pittsburgh
+113260915,Blandtown
+113260926,Grant Park
+113260982,Candler Park
+113261004,Fairburn Mays
+113261037,Pittsburgh
+113261041,Woodland Hills
+113261047,Summerhill
+113261073,The Villages at Castleberry H
+113261094,Downtown
+113261096,Collier Heights
+113261117,South River Gardens
+113261199,Westview
+113261200,Downtown
+113261201,Reynoldstown
+113261229,Castleberry Hill
+113261232,Blandtown
+113261282,Adams Park
+113261327,West End
+113261330,Cascade Avenue/Road
+113261349,Castleberry Hill
+113261381,Perkerson
+113261387,Scotts Crossing
+113261403,Leila Valley
+113261407,Magnum Manor
+113261418,Lindbergh/Morosgo
+113261428,English Avenue
+113261460,Midtown
+113261502,Sweet Auburn
+113261535,Buckhead Forest
+113261536,Greenbriar
+113261571,North Buckhead
+113261686,South Atlanta
+113261693,Kirkwood
+113261713,Candler Park
+113261786,Berkeley Park
+113261788,Pine Hills
+113261797,Collier Heights
+113261886,Adair Park
+113261920,Adamsville
+113261950,Grove Park
+113261970,Lenox
+113261981,Perkerson
+113262035,West Manor
+113262083,Downtown
+113262133,Campbellton Road
+113262138,Pittsburgh
+113262179,Chosewood Park
+113262190,Capitol View
+113262203,Washington Park
+113262205,Morningside/Lenox Park
+113262213,Reynoldstown
+113262246,Oakcliff
+113262264,Campbellton Road
+113262289,Summerhill
+113262339,Capitol Gateway
+113262378,Inman Park
+113262501,Midtown
+113250597,Lakewood Heights
+113250605,Vine City
+113250683,Piedmont Heights
+113250691,Downtown
+113250692,Sweet Auburn
+113250708,Chosewood Park
+113250710,South Atlanta
+113250723,Candler Park
+113250739,Inman Park
+113250761,Harris Chiles
+113250779,Brookview Heights
+113250790,Carroll Heights
+113250865,Mozley Park
+113250879,Edgewood
+113250901,North Buckhead
+113250921,Inman Park
+113250948,Almond Park
+113250978,South Atlanta
+113250983,Buckhead Village
+113250999,Downtown
+113251023,Atlanta University Center
+113251044,Campbellton Road
+113251055,Thomasville Heights
+113251059,Morningside/Lenox Park
+113251061,Lenox
+113251098,Pittsburgh
+113251111,Edgewood
+113251130,Browns Mill Park
+113251155,Westview
+113251186,Mechanicsville
+113251207,Berkeley Park
+113251214,Downtown
+113251223,Greenbriar
+113251225,Summerhill
+113251265,Midtown
+113251273,Atlanta University Center
+113251347,South River Gardens
+113251358,Midtown
+113251359,West End
+113251362,Midtown
+113251404,Old Fourth Ward
+113251405,Woodland Hills
+113251415,West End
+113250031,Almond Park
+113250086,West End
+113250202,Oakland
+113250222,South River Gardens
+113250345,East Atlanta
+113250372,Ormewood Park
+113250448,Downtown
+113250491,Grant Park
+113250558,Summerhill
+113250568,Kirkwood
+113250584,Poncey-Highland
+113251507,Inman Park
+113251527,Ashview Heights
+113251534,Midtown
+113251581,Grant Park
+113251639,Audobon Forest
+113251659,Cascade Avenue/Road
+113251681,Sweet Auburn
+113251711,English Avenue
+113251726,Downtown
+113251786,Adams Park
+113251798,Inman Park
+113251878,West End
+113251889,Brookwood
+113251934,Thomasville Heights
+113251994,Berkeley Park
+113252095,Buckhead Village
+113252108,Cascade Avenue/Road
+113252141,Cascade Avenue/Road
+113252159,Atlantic Station
+113252180,Lakewood Heights
+113252182,Ormewood Park
+113252223,West End
+113252228,South River Gardens
+113252231,West End
+113252244,Thomasville Heights
+113252270,Midtown
+113252277,Poncey-Highland
+113252281,Candler Park
+113252301,Lakewood Heights
+113252308,Morningside/Lenox Park
+113252309,Old Fourth Ward
+113252323,Peoplestown
+113252352,Princeton Lakes
+113251422,Norwood Manor
+113251423,Lindridge/Martin Manor
+113251452,Harland Terrace
+113251457,English Avenue
+113251477,Greenbriar
+113251478,Southwest
+113251480,Midtown
+113232188,Sweet Auburn
+113232421,Edgewood
+113232426,Collier Heights
+113240056,Grove Park
+113240129,East Atlanta
+113240211,Midtown
+113240330,Westview
+113240421,Marietta Street Artery
+113240439,Harland Terrace
+113240462,Venetian Hills
+113240465,Elmco Estates
+113240475,Midtown
+113240602,Fairburn Mays
+113240609,Peachtree Heights West
+113240630,Briar Glen
+113240659,Fort Valley
+113240697,Midtown
+113240706,Old Fourth Ward
+113240731,Carver Hills
+113240758,Kirkwood
+113240759,Pittsburgh
+113240761,Downtown
+113240779,Capitol Gateway
+113240816,Atlanta University Center
+113240900,Campbellton Road
+113240965,West End
+113240982,Perkerson
+113241015,Grant Park
+113241036,Thomasville Heights
+113241070,Lindbergh/Morosgo
+113241098,Polar Rock
+113241114,Adamsville
+113241118,Harland Terrace
+113241183,Southwest
+113241189,Fairburn
+113241210,Sylvan Hills
+113241263,Downtown
+113241294,Midtown
+113241360,Midtown
