@@ -206,7 +206,7 @@ To improve readability in Neo4j Browser, node labels and relationship types were
 This visual configuration helps differentiate entities and relationships during graph exploration.
 
 <p align="center">
-  <img width="331.25" height="320" alt="Nodes and Relationship Colours" src="https://github.com/user-attachments/assets/3fcbf842-ba7f-42d8-b480-add99fbaa7bf" />
+  <img width="265" height="256" alt="Nodes and Relationship Colours" src="https://github.com/user-attachments/assets/3fcbf842-ba7f-42d8-b480-add99fbaa7bf" />
 </p>
 
 
