@@ -196,7 +196,9 @@ Visual exploration allows analysts to quickly identify:
 
 The graph database models crime incidents and their contextual attributes using four node types and three relationship types.
 
-<img width="522.5" height="385" alt="Assignment 2 - Crime Schema" src="https://github.com/user-attachments/assets/ebd6adb0-2ccc-497d-a27f-995231563a8f" />
+<p align="center>
+  <img width="522.5" height="385" alt="Assignment 2 - Crime Schema" src="https://github.com/user-attachments/assets/ebd6adb0-2ccc-497d-a27f-995231563a8f" />
+</p>
 
 ### Node and Relationship 
 
