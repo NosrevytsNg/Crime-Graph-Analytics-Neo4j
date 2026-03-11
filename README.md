@@ -206,67 +206,6 @@ Using graph queries, investigators and analysts can identify patterns such as:
 
 Graph traversal allows analysts to quickly explore relationships between crimes and their locations, enabling faster insights compared to traditional relational queries.
 
-### Key Learning Outcomes
-This project demonstrates several important concepts in graph-based data analysis.
-
-| Graph Data Modeling | Understanding how relational datasets can be transformed into graph structures using: <br> • nodes <br> • relationships <br> • node properties <br> |
-| Cypher Query Development | Developing queries to explore relationships and extract insights from graph databases |
-| Spatial Crime Analysis | Using graph traversal to analyze crime distribution across neighborhoods and patrol beats |
-| Data Exploration | Using Neo4j’s interactive graph visualization tools to explore connected datasets |
-| Graph-Based Analytics | Applying graph structures to identify crime patterns that are difficult to observe using traditional relational databases |
-  
-## Why Graph Databases for Crime Analysis?
-
-Crime datasets often involve multiple interconnected attributes such as location, incident type, and contextual information.
-
-Graph databases provide several advantages when analysing such data.
-
-### Natural Representation of Relationships
-
-Graph structures naturally represent relationships between crimes and their associated attributes.
-
-### Efficient Relationship Traversal
-
-Neo4j enables fast traversal across connected data, making it easier to explore relationships between entities.
-
-### Flexible Data Exploration
-
-Analysts can explore crime patterns dynamically without needing complex SQL joins.
-
-### Visual Network Exploration
-
-Graph visualization tools allow investigators to visually identify clusters, hotspots, and relationships within the data.
-
-Because of these advantages, graph databases are increasingly used in:
-
-• crime analytics  
-• fraud detection  
-• intelligence analysis  
-• cybersecurity investigations
-
-## Future Improvements
-
-This project can be extended in several ways to further enhance crime analysis capabilities.
-
-Possible improvements include:
-
-• integrating time-based analysis to detect crime trends over time  
-• applying Neo4j Graph Data Science algorithms  
-• building crime hotspot prediction models  
-• integrating additional geographic data layers  
-• combining graph analytics with machine learning techniques
-
-Future work could also involve integrating real-world datasets from law enforcement agencies to perform deeper crime pattern analysis.
-
-## Conclusion
-
-This project demonstrates how graph databases can transform traditional crime datasets into a connected analytical model.
-
-By modelling crime incidents as a graph of relationships between crimes, neighborhoods, patrol beats, and property types, analysts can more easily explore spatial crime patterns and identify areas of concern.
-
-Using Neo4j and Cypher queries, the project highlights how graph-based analytics can support crime data exploration and provide insights into geographic distribution and contextual relationships within crime datasets.
-
-Graph databases offer powerful tools for analyzing complex, relationship-driven data, making them valuable for modern investigative and analytical workflows.
 
 ## 🖋️ Author
 
