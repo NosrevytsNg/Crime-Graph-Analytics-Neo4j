@@ -50,20 +50,26 @@ Investigators can then identify patterns such as:
 
 
 ### Graph Data Model
+
+The dataset models **crime incidents and their associated contextual information** using Neo4j.
+
+Instead of analysing suspect relationships, the graph focuses on **where crimes occur and the type of crime involved**.
+
 #### Nodes
 | Node | Description |
 | ----- | ----- |
-| Person | Suspect or individual involved in criminal activity |
-| Crime | Criminal incident |
-| Location | Place where a crime occurred |
+| Crime | Individual crime incident |
+| Beat | Police patrol beat where the crime occurred |
+| Neighborhood | Neighborhood where the crime took place |
+| PropertyType | Type of property involved in the crime 
 
 
 #### Relationship Types
 | Relationship | Description |
 | ----- | ----- |
-| COMMITTED | Person committed a crime |
-| ASSOCIATED_WITH | Connection between individuals involved in crime |
-| OCCURRED_AT | Crime took place at a location |
+| OCCURRED_IN | Crime occurred within a specific neighborhood |
+| ON_BEAT | Crime took place within a police beat |
+| INVOLVED_IN | Crime involved a particular property type |
 
 
 
