@@ -179,7 +179,7 @@ ORDER BY incidents DESC
 ```
 This query helps identify which patrol beats are responsible for areas experiencing higher crime activity.
 
-### Graph Visualization & Analytics
+## Graph Visualization & Analytics
 
 One of the major strengths of graph databases such as Neo4j is the ability to visually explore relationships within the data.
 
@@ -192,19 +192,29 @@ Visual exploration allows analysts to quickly identify:
 • frequently targeted property types  
 • patterns of crime distribution across geographic regions
 
-Example visualization:
+### Graph Schema
 
-![Crime Graph Visualization](screenshots/crime_graph_network.png)
+The graph database models crime incidents and their contextual attributes using four node types and three relationship types.
 
-The interactive visualization enables investigators and analysts to explore relationships dynamically by expanding nodes and traversing connections.
+![Graph Schema](<img width="1045" height="770" alt="Assignment 2 - Crime Schema" src="https://github.com/user-attachments/assets/ebd6adb0-2ccc-497d-a27f-995231563a8f" />)
 
-Using graph queries, investigators and analysts can identify patterns such as:
-• crime hotspots by neighborhood  
-• high-activity police beats  
-• property types frequently targeted  
-• distribution of crimes across different regions
+### Node and Relationship Styling
 
-Graph traversal allows analysts to quickly explore relationships between crimes and their locations, enabling faster insights compared to traditional relational queries.
+To improve readability within Neo4j Browser, node labels and relationships were styled using different colors.
+
+This allows faster identification of:
+
+• crime nodes  
+• neighborhoods  
+• patrol beats  
+• property types  
+
+![Node Styling](<img width="265" height="256" alt="Nodes   Relationship Colours" src="https://github.com/user-attachments/assets/3fcbf842-ba7f-42d8-b480-add99fbaa7bf" />)
+
+
+
+
+
 
 
 ## 🖋️ Author
