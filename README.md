@@ -51,15 +51,34 @@ Investigators can then identify patterns such as:
 
 ### Graph Data Model
 #### Nodes
-| Technology | Purpose |
+| Node | Description |
 | ----- | ----- |
-| Neo4j | Graph database engine |
-| Cypher | Graph query language |
-| Neo4j Browser | Interactive graph visualization |
-| Graph Data Modelling | Relationship-driven data representation |
-| Graph Algorithm | Network analysis and pattern detection |
+| Person | Suspect or individual involved in criminal activity |
+| Crime | Criminal incident |
+| Location | Place where a crime occurred |
+
 
 #### Relationship Types
+| Relationship | Description |
+| ----- | ----- |
+| COMMITTED | Person committed a crime |
+| ASSOCIATED_WITH | Connection between individuals involved in crime |
+| OCCURRED_AT | Crime took place at a location |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🖋️ Author
 
