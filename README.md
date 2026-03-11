@@ -73,6 +73,8 @@ Instead of analysing suspect relationships, the graph focuses on **where crimes 
 
 #### Graph Schema
 ```mermaid
+flowchart LR
+
 A[Crime]
 A -->|OCCURED_IN| B[Neighbourhood] 
 A -->|ON_BEAT| C[Beat]
@@ -80,6 +82,23 @@ A -->|INVOLVED_IN| D[PropertyType]
 
 ```
 
+```mermaid
+flowchart TD
+
+A[Input CSV Dataset]
+
+A --> B[Toxicity Detection Model<br>XLM-R Toxicity Classifier]
+
+B -->|Toxic comments| C[Flagged / Audit Log]
+
+B -->|Non-toxic comments| D[Cleaned Dataset]
+
+D --> E[Tokenisation<br>HuggingFace Tokenizer]
+
+E --> F[Sentiment Classification Model<br>RoBERTa / DistilBERT]
+
+F --> G[Predictions + Evaluation Reports]
+```
 
 
 
