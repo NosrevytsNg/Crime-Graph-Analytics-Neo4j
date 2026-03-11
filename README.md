@@ -200,17 +200,14 @@ The graph database models crime incidents and their contextual attributes using 
   <img width="522.5" height="385" alt="Assignment 2 - Crime Schema" src="https://github.com/user-attachments/assets/ebd6adb0-2ccc-497d-a27f-995231563a8f" />
 </p>
 
-### Node and Relationship 
+### Node and Relationship Styling
 
-To improve readability within Neo4j Browser, node labels and relationships were styled using different colors.
-This allows faster identification of:
+To improve readability in Neo4j Browser, node labels and relationship types were styled using distinct colors.  
+This visual configuration helps differentiate entities and relationships during graph exploration.
 
-• crime nodes  
-• neighborhoods  
-• patrol beats  
-• property types  
-
-<img width="265" height="256" alt="Nodes   Relationship Colours" src="https://github.com/user-attachments/assets/3fcbf842-ba7f-42d8-b480-add99fbaa7bf" />
+<p align="center">
+  <img width="265" height="256" alt="Nodes and Relationship Colours" src="https://github.com/user-attachments/assets/3fcbf842-ba7f-42d8-b480-add99fbaa7bf" />
+</p>
 
 
 ## 🖋️ Author
