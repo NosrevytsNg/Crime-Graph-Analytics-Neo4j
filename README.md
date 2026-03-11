@@ -71,7 +71,14 @@ Instead of analysing suspect relationships, the graph focuses on **where crimes 
 | ON_BEAT | Crime took place within a police beat |
 | INVOLVED_IN | Crime involved a particular property type |
 
+#### Graph Schema
+```mermaid
+A[Crime]
+A --> [OCCURED_IN]|B[Neighbourhood] 
+A --> C[Beat]
+A --> D[PropertyType]
 
+```
 
 
 
