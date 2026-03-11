@@ -74,7 +74,7 @@ Instead of analysing suspect relationships, the graph focuses on **where crimes 
 #### Graph Schema
 ```mermaid
 A[Crime]
-A --> [OCCURED_IN]|B[Neighbourhood] 
+A --> |OCCURED_IN|B[Neighbourhood] 
 A --> C[Beat]
 A --> D[PropertyType]
 
