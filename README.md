@@ -82,25 +82,36 @@ A -->|INVOLVED_IN| D[PropertyType]
 
 ```
 
-```mermaid
-flowchart TD
+#### Example Cypher Queries 
 
-A[Input CSV Dataset]
-
-A --> B[Toxicity Detection Model<br>XLM-R Toxicity Classifier]
-
-B -->|Toxic comments| C[Flagged / Audit Log]
-
-B -->|Non-toxic comments| D[Cleaned Dataset]
-
-D --> E[Tokenisation<br>HuggingFace Tokenizer]
-
-E --> F[Sentiment Classification Model<br>RoBERTa / DistilBERT]
-
-F --> G[Predictions + Evaluation Reports]
+- Find crimes in a specific neighborhood
+```text
+MATCH (c:Crime)-[:OCCURRED_IN]->(n:Neighborhood)
+WHERE n.name = "Loop"
+RETURN c
+LIMIT 25
+```
+  
+- Identify neighborhoods with the highest crime counts
+```text
+MATCH (c:Crime)-[:OCCURRED_IN]->(n:Neighborhood)
+RETURN n.name AS neighborhood, COUNT(c) AS crimeCount
+ORDER BY crimeCount DESC
+```
+  
+- Identify beats with the most crime incidents
+```text
+MATCH (c:Crime)-[:ON_BEAT]->(b:Beat)
+RETURN b.name AS beat, COUNT(c) AS crimeCount
+ORDER BY crimeCount DESC
 ```
 
-
+- Identify property types most frequently involved in crimes
+```text
+MATCH (c:Crime)-[:INVOLVED_IN]->(p:PropertyType)
+RETURN p.name AS propertyType, COUNT(c) AS incidents
+ORDER BY incidents DESC
+```
 
 
 
